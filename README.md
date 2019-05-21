@@ -8,9 +8,8 @@
 
 | json 文件名    | 解释            |
 | -------------- | --------------- |
-| 1toBeDetermined | 待分类          |
-| 2general        | 普通            |
-| 3recommend      | 推荐            |
-| 4highQuality    | 优选/优/优+/优- |
-| 5discover       | 发现            |
-| 6R18            | 18禁            |
+| toBeDetermined | 待分类          |
+| general        | 普通            |
+| highQuality    | 优选/优/优+/优- |
+| discover       | 发现            |
+| R18            | 18禁            |
