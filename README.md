@@ -4,7 +4,7 @@
 
 虽然书源十分多，高达一千多个，但是我认为贵在精而不在多，而且分享的源中还有许多失效的书源，便决定自己搜集整理一下。做个简单的分类。
 
-分类介绍;
+分类介绍：
 
 | json 文件名                | 释义            | 数目 |
 | -------------------------- | --------------- | ---- |
@@ -18,12 +18,12 @@
 | [fullSource][]               | 有效书源        | 604  |
 | [fullSourceIncludeInvalid][] | 总书源          | 1103 |
 
-[genuine]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/genuine.json
-[discover]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/discover.json
-[R18]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/R18.json
-[highQuality]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/highQuality.json
-[general]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/general.json
-[toBeDetermined]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/toBeDetermined.json
-[invalid]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/invalid.json
-[fullSource]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/fullSource.json
-[fullSourceIncludeInvalid]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/fullSourceIncludeInvalid.json
+[genuine]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/genuine.json
+[discover]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/discover.json
+[R18]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/R18.json
+[highQuality]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/highQuality.json
+[general]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/general.json
+[toBeDetermined]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/toBeDetermined.json
+[invalid]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/invalid.json
+[fullSource]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/fullSource.json
+[fullSourceIncludeInvalid]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/yuedu/classifiedSource/fullSourceIncludeInvalid.json
