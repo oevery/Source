@@ -6,10 +6,24 @@
 
 分类介绍;
 
-| json 文件名    | 解释            |
-| -------------- | --------------- |
-| toBeDetermined | 待分类          |
-| general        | 普通            |
-| highQuality    | 优选/优/优+/优- |
-| discover       | 发现            |
-| R18            | 18禁            |
+| json 文件名                | 释义            | 数目 |
+| -------------------------- | --------------- | ---- |
+| [genuine][]                  | 正版            | 5    |
+| [discover][]                 | 发现            | 73   |
+| [R18][]                      | 18禁            | 16   |
+| [highQuality][]              | 优选/优/优+/优- | 116  |
+| [general][]                  | 普通            | 171  |
+| [toBeDetermined][]           | 待分类          | 223  |
+| [invalid][]                  | 失效            | 499  |
+| [fullSource][]               | 有效书源        | 604  |
+| [fullSourceIncludeInvalid][] | 总书源          | 1103 |
+
+[genuine]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/genuine.json
+[discover]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/discover.json
+[R18]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/R18.json
+[highQuality]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/highQuality.json
+[general]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/general.json
+[toBeDetermined]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/toBeDetermined.json
+[invalid]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/invalid.json
+[fullSource]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/fullSource.json
+[fullSourceIncludeInvalid]: https://raw.githubusercontent.com/MoonBegonia/customRules/master/classifiedSource/fullSourceIncludeInvalid.json
