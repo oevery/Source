@@ -1,14 +1,14 @@
 # Source
 
-**建议访问网页导入或者自行转为外链**
+**建议访问 [网页](https://moonbegonia.github.io/Source/) 导入或者自行转为外链**
 
 ## 阅读 App 书源
 
-来自公众号 `开源阅读软件`，`BookSource.json` 为公众号分享的群友在线书源，1101个书源为本地书源（由书友 Nightring 收集分享）。
+来自公众号 `开源阅读软件`，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
 
 虽然书源十分多，高达一千多个，但是我认为贵在精而不在多，而且分享的源中还有许多失效的书源，便决定自己搜集整理一下。做个简单的分类。
 
-书源分类情况:
+书源分类情况：
 
 书源分类时间：2019-6-9 20:22:44
 
@@ -17,12 +17,12 @@
 | [失效](/yuedu/invalid.json)                    | 572  |
 | [正版](/yuedu/genuine.json)                    | 5    |
 | [发现](/yuedu/discover.json)                   | 70   |
-| [18禁](/yuedu/R18.json)                        | 13   |
+| [18 禁](/yuedu/R18.json)                        | 13   |
 | [xpath、json、正则](/yuedu/special.json)       | 15   |
 | [优](/yuedu/highQuality.json)                  | 110  |
 | [普通](/yuedu/general.json)                    | 165  |
 | [待分类](/yuedu/others.json)                   | 164  |
-| [有效书源NOR18](/yuedu/fullNOR18.json)         | 529  |
+| [有效书源 NOR18](/yuedu/fullNOR18.json)         | 529  |
 | [有效书源](/yuedu/full.json)                   | 542  |
 | [总书源](/yuedu/fullSourceIncludeInvalid.json) | 1099 |
 
