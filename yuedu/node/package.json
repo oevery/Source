@@ -1,9 +1,0 @@
-{
-  "name": "classifyBookSource",
-  "version": "1.0.0",
-  "description": "阅读书源分类",
-  "main": "index.js",
-  "author": "MoonBegonia",
-  "license": "MIT",
-  "dependencies": {}
-}
