@@ -8,7 +8,7 @@ function write(path, result) {
   });
 }
 
-module.exports = async() => {
+module.exports = async () => {
   const sourcePath = path.join(__dirname, '../fangyuan/videoSource/videoRule.json');
   let source = JSON.parse(fs.readFileSync(sourcePath));
   let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleDateString();
@@ -30,7 +30,7 @@ module.exports = async() => {
       fullScore.push(item);
     } else if (group.includes('优')) {
       highQuality.push(item);
-    } else if (group.search(/免解析|免嗅探/)) {
+    } else if (group.search(/免解析|免嗅探/) != -1) {
       notDetect.push(item);
     } else if (group.includes('（')) {
       others.push(item);
