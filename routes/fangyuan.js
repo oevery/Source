@@ -28,7 +28,7 @@ module.exports = async() => {
       fullScore.push(item);
     } else if (group.includes('优')) {
       highQuality.push(item);
-    } else if (group.includes('免解析') || group.includes('免嗅探')) {
+    } else if (group.search(/免解析|免嗅探/)) {
       notDetect.push(item);
     } else if (group.includes('（')) {
       others.push(item);
