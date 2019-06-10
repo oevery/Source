@@ -10,7 +10,7 @@
 
 原书源修改时间：2019-6-9
 
-书源分类时间：2019-6-10 13:07:38
+书源分类时间：2019-6-10 13:14:46
 
 书源分类情况：
 
@@ -32,7 +32,7 @@
 
 原视频源修改时间：2019-6-10
 
-视频源分类时间：2019-6-10 13:07:38
+视频源分类时间：2019-6-10 13:14:46
 
 视频源分类情况：
 
@@ -42,8 +42,8 @@
 |[无法访问](/fangyuan/inaccessible.json)|229|
 |[满分](/fangyuan/fullScore.json)|39|
 |[优](/fangyuan/highQuality.json)|36|
-|[免解析/嗅探](/fangyuan/notDetect.json)|589|
-|[其他（动漫/磁力/韩剧...）](/fangyuan/others.json)|0|
-|[空白组](/fangyuan/emptyGroup.json)|0|
+|[免解析/嗅探](/fangyuan/notDetect.json)|59|
+|[其他（动漫/磁力/韩剧...）](/fangyuan/others.json)|44|
+|[空白组](/fangyuan/emptyGroup.json)|486|
 |[有效视频源](/fangyuan/emptyGroup.json)|664|
 |[总视频源](/fangyuan/fullSource.json)|909|
