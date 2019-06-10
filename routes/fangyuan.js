@@ -11,7 +11,7 @@ function write(path, result) {
 module.exports = async () => {
   const sourcePath = path.join(__dirname, '../fangyuan/videoSource/videoRule.json');
   let source = JSON.parse(fs.readFileSync(sourcePath));
-  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleDateString();
+  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
   let invalid = [];
   let inaccessible = [];
   let fullScore = [];
@@ -46,8 +46,8 @@ module.exports = async () => {
   await write(path.join(__dirname, '../fangyuan/notDetect.json'), notDetect);
   await write(path.join(__dirname, '../fangyuan/others.json'), others);
   await write(path.join(__dirname, '../fangyuan/emptyGroup.json'), emptyGroup);
-  await write(path.join(__dirname, '../fangyuan/fullSource.json'), full);
-  const time = new Date().toLocaleString();
+  await write(path.join(__dirname, '../fangyuan/full.json'), full);
+  const time = fs.statSync(path.join(__dirname, '../fangyuan/full.json')).mtime.toLocaleString();
   console.log(`
 原视频源修改时间：${sourceModTime}
 
@@ -64,6 +64,6 @@ module.exports = async () => {
 |[免解析/嗅探](/fangyuan/notDetect.json)|${notDetect.length}|
 |[其他（动漫/磁力/韩剧...）](/fangyuan/others.json)|${others.length}|
 |[空白组](/fangyuan/emptyGroup.json)|${emptyGroup.length}|
-|[有效视频源](/fangyuan/emptyGroup.json)|${full.length}|
-|[总视频源](/fangyuan/fullSource.json)|${source.length}|`)
+|[有效视频源](/fangyuan/full.json)|${full.length}|
+|[总视频源](/fangyuan/videoSource/videoRule.json)|${source.length}|`)
 }

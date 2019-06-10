@@ -11,7 +11,7 @@ function write(path, result) {
 module.exports = async () => {
   const sourcePath = path.join(__dirname, '../yuedu/bookSource/myBookSource.json')
   let source = JSON.parse(fs.readFileSync(sourcePath));
-  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleDateString();
+  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
   let invalid = []; //失效源
   let discover = []; //发现
   let r18 = []; //18禁
@@ -61,7 +61,7 @@ module.exports = async () => {
   await write(path.join(__dirname, '../yuedu/fullNOR18.json'), fullNOR18);
   await write(path.join(__dirname, '../yuedu/full.json'), full);
   await write(path.join(__dirname, '../yuedu/fullSourceIncludeInvalid.json'), fullIncludeInvalid);
-  const time = new Date().toLocaleString();
+  const time = fs.statSync(path.join(__dirname, '../yuedu/full.json')).mtime.toLocaleString();
   console.log(`
 原书源修改时间：${sourceModTime}
 
