@@ -9,7 +9,9 @@ function write(path, result) {
 }
 
 module.exports = async () => {
-  let source = JSON.parse(fs.readFileSync(path.join(__dirname, '../yuedu/bookSource/myBookSource.json')));
+  const sourcePath = path.join(__dirname, '../yuedu/bookSource/myBookSource.json')
+  let source = JSON.parse(fs.readFileSync(sourcePath));
+  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleDateString();
   let invalid = []; //失效源
   let discover = []; //发现
   let r18 = []; //18禁
@@ -60,9 +62,12 @@ module.exports = async () => {
   await write(path.join(__dirname, '../yuedu/full.json'), full);
   await write(path.join(__dirname, '../yuedu/fullSourceIncludeInvalid.json'), fullIncludeInvalid);
   const time = new Date().toLocaleString();
-  console.log(`书源分类情况:
+  console.log(`
+原书源修改时间：${sourceModTime}
 
 书源分类时间：${time}
+
+书源分类情况：
 
 |文件名|数目|
 | - | - |
@@ -76,6 +81,5 @@ module.exports = async () => {
 |[待分类](/yuedu/others.json)|${others.length}|
 |[有效书源NOR18](/yuedu/fullNOR18.json)|${fullNOR18.length}|
 |[有效书源](/yuedu/full.json)|${full.length}|
-|[总书源](/yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|
-`)
+|[总书源](/yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`)
 }
