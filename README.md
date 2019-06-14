@@ -18,6 +18,8 @@
 
 下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](fangyuan/新方圆浏览器_V5.19.0607.00.zip)
 
+**建议下载合集，单个文件下载请使用下载链接下载文件（chrome：长按链接 -> 下载链接）**
+
 | 其他规则                                                | 更新时间   |
 | ------------------------------------------------------- | ---------- |
 | [首页规则](/fangyuan/rules/home.json)                   | 2019-06-11 |
@@ -29,13 +31,13 @@
 | [虎牙直播 JS 插件](fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
 | [百度网盘 JS 插件](fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
 | [解析插件](fangyuan/rules/js/global.js)                 | 2019-05-25 |
-| [合集](fangyuan/rules.zip)                              | 2019-06-14 |
+| [合集（zip）](fangyuan/rules.zip)                       | 2019-06-14 |
 
 使用说明：
 
 - 首页规则、直播源和 adBlockRules 下载后移动到`FangYuan/rules`目录下重启 APP 即可。
 - JS 插件和解析插件下载后移动到`FangYuan/rules/js`目录下重启 APP 即可。
-- 合集解压缩后移动`rules`文件夹到`FangYuan/`目录下重启 APP 即可。
+- 下载合集解压缩后移动`rules`文件夹到`FangYuan/`目录下重启 APP 即可。
 
 ## 分类情况
 
