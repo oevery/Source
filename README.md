@@ -2,6 +2,8 @@
 
 **建议访问 [网页](https://moonbegonia.github.io/Source/) 导入或者自行转为外链**
 
+每周六晚九点更新
+
 ## 阅读 App 书源
 
 来自公众号 `开源阅读软件`，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
@@ -13,6 +15,27 @@
 源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼。
 
 ## 新方圆影视 视频源
+
+下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](/fangyuan/新方圆浏览器_V5.19.0607.00.apk)
+
+| 其他规则                                                | 更新时间   |
+| ------------------------------------------------------- | ---------- |
+| [首页规则](/fangyuan/rules/home.json)                   | 2019-06-11 |
+| [直播源](fangyuan/rules/tvLive.json)                    | 2019-06-14 |
+| [adBlockRules](fangyuan/rules/adBlockRule.txt)          | 2019-06-10 |
+| [哔哩哔哩 JS 插件](fangyuan/rules/js/m.bilibili.com.js) | 2019-04-11 |
+| [斗鱼直播 JS 插件](fangyuan/rules/js/m.douyu.com.js)    | 2019-06-01 |
+| [企鹅电竞 JS 插件](fangyuan/rules/js/m.egame.qq.com.js) | 2019-06-10 |
+| [虎牙直播 JS 插件](fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
+| [百度网盘 JS 插件](fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
+| [解析插件](fangyuan/rules/js/global.js)                 | 2019-05-25 |
+| [合集](fangyuan/rules.zip)                              | 2019-06-14 |
+
+使用说明：
+
+- 首页规则、直播源和 adBlockRules 下载后移动到`FangYuan/rules`目录下重启 APP 即可。
+- JS 插件和解析插件下载后移动到`FangYuan/rules/js`目录下重启 APP 即可。
+- 合集解压缩后移动`rules`文件夹到`FangYuan/`目录下重启 APP 即可。
 
 ## 分类情况
 
