@@ -53,8 +53,6 @@ module.exports = async () => {
 
 视频源分类时间：${time}
 
-视频源分类情况：
-
 |文件名|数目|
 | - | - |
 |[失效](/fangyuan/invalid.json)|${invalid.length}|
