@@ -1,0 +1,3135 @@
+{
+    "from": "小棉袄，坚决抵制破解盗版",
+    "lives": [
+        {
+            "name": "ivi测试高清源🎈",
+            "lives": [
+                {
+                    "name": "CCTV-1综合高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8"
+                },
+                {
+                    "name": "CCTV-3综艺高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+                },
+                {
+                    "name": "CCTV-5体育赛事高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8"
+                },
+                {
+                    "name": "CCTV-6电影高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8"
+                },
+                {
+                    "name": "CCTV-8电视剧高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8"
+                },
+                {
+                    "name": "CHC高清电影",
+                    "url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+                },
+                {
+                    "name": "北京卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv1hd.m3u8"
+                },
+                {
+                    "name": "北京文艺高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv2hd.m3u8"
+                },
+                {
+                    "name": "北京体育高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv6hd.m3u8"
+                },
+                {
+                    "name": "北京纪实高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv11hd.m3u8"
+                },
+                {
+                    "name": "湖南卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/hunanhd.m3u8"
+                },
+                {
+                    "name": "浙江卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/zjhd.m3u8"
+                },
+                {
+                    "name": "江苏卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/jshd.m3u8"
+                },
+                {
+                    "name": "东方卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/dfhd.m3u8"
+                },
+                {
+                    "name": "安徽卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/ahhd.m3u8"
+                },
+                {
+                    "name": "黑龙江卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/hljhd.m3u8"
+                },
+                {
+                    "name": "辽宁卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
+                },
+                {
+                    "name": "深圳卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/szhd.m3u8"
+                },
+                {
+                    "name": "广东卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/gdhd.m3u8"
+                },
+                {
+                    "name": "天津卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/tjhd.m3u8"
+                },
+                {
+                    "name": "湖北卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/hbhd.m3u8"
+                },
+                {
+                    "name": "山东卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/sdhd.m3u8"
+                },
+                {
+                    "name": "重庆卫视高清",
+                    "url": "http://ivi.bupt.edu.cn/hls/cqhd.m3u8"
+                },
+                {
+                    "name": "CCTV-1综合",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv1.m3u8"
+                },
+                {
+                    "name": "CCTV-2财经",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv2.m3u8"
+                },
+                {
+                    "name": "CCTV-3综艺",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv3.m3u8"
+                },
+                {
+                    "name": "CCTV-4中文国际",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv4.m3u8"
+                },
+                {
+                    "name": "CCTV-5体育",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv5.m3u8"
+                },
+                {
+                    "name": "CCTV-6电影",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv6.m3u8"
+                },
+                {
+                    "name": "CCTV-7军事农业",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv7.m3u8"
+                },
+                {
+                    "name": "CCTV-8电视剧",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv8.m3u8"
+                },
+                {
+                    "name": "CCTV-9纪录",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv9.m3u8"
+                },
+                {
+                    "name": "CCTV-10科教",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8"
+                },
+                {
+                    "name": "CCTV-11戏曲",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv11.m3u8"
+                },
+                {
+                    "name": "CCTV-12社会与法",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
+                },
+                {
+                    "name": "CCTV-13新闻",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv13.m3u8"
+                },
+                {
+                    "name": "CCTV-14少儿",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv14.m3u8"
+                },
+                {
+                    "name": "CCTV-15音乐",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv15.m3u8"
+                },
+                {
+                    "name": "CCTV-NEWS",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv16.m3u8"
+                },
+                {
+                    "name": "北京卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv1.m3u8"
+                },
+                {
+                    "name": "北京文艺",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv2.m3u8"
+                },
+                {
+                    "name": "北京科教",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv3.m3u8"
+                },
+                {
+                    "name": "北京影视",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv4.m3u8"
+                },
+                {
+                    "name": "北京财经",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv5.m3u8"
+                },
+                {
+                    "name": "北京体育",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv6.m3u8"
+                },
+                {
+                    "name": "北京生活",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv7.m3u8"
+                },
+                {
+                    "name": "北京青年",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv8.m3u8"
+                },
+                {
+                    "name": "北京新闻",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv9.m3u8"
+                },
+                {
+                    "name": "北京卡酷少儿",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv10.m3u8"
+                },
+                {
+                    "name": "深圳卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/sztv.m3u8"
+                },
+                {
+                    "name": "安徽卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/ahtv.m3u8"
+                },
+                {
+                    "name": "河南卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/hntv.m3u8"
+                },
+                {
+                    "name": "陕西卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/sxtv.m3u8"
+                },
+                {
+                    "name": "吉林卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/jltv.m3u8"
+                },
+                {
+                    "name": "广东卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/gdtv.m3u8"
+                },
+                {
+                    "name": "山东卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/sdtv.m3u8"
+                },
+                {
+                    "name": "湖北卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/hbtv.m3u8"
+                },
+                {
+                    "name": "广西卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/gxtv.m3u8"
+                },
+                {
+                    "name": "河北卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/hebtv.m3u8"
+                },
+                {
+                    "name": "西藏卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/xztv.m3u8"
+                },
+                {
+                    "name": "内蒙古卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/nmtv.m3u8"
+                },
+                {
+                    "name": "青海卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/qhtv.m3u8"
+                },
+                {
+                    "name": "四川卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/sctv.m3u8"
+                },
+                {
+                    "name": "江苏卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/jstv.m3u8"
+                },
+                {
+                    "name": "天津卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/tjtv.m3u8"
+                },
+                {
+                    "name": "山西卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/sxrtv.m3u8"
+                },
+                {
+                    "name": "辽宁卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/lntv.m3u8"
+                },
+                {
+                    "name": "厦门卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/xmtv.m3u8"
+                },
+                {
+                    "name": "新疆卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/xjtv.m3u8"
+                },
+                {
+                    "name": "东方卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/dftv.m3u8"
+                },
+                {
+                    "name": "黑龙江卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/hljtv.m3u8"
+                },
+                {
+                    "name": "湖南卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/hunantv.m3u8"
+                },
+                {
+                    "name": "云南卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/yntv.m3u8"
+                },
+                {
+                    "name": "江西卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/jxtv.m3u8"
+                },
+                {
+                    "name": "福建东南卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/dntv.m3u8"
+                },
+                {
+                    "name": "浙江卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/zjtv.m3u8"
+                },
+                {
+                    "name": "贵州卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/gztv.m3u8"
+                },
+                {
+                    "name": "宁夏卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/nxtv.m3u8"
+                },
+                {
+                    "name": "甘肃卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/gstv.m3u8"
+                },
+                {
+                    "name": "重庆卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/cqtv.m3u8"
+                },
+                {
+                    "name": "兵团卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/bttv.m3u8"
+                },
+                {
+                    "name": "旅游卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/lytv.m3u"
+                }
+            ]
+        },
+        {
+            "name": "影视🎈",
+            "lives": [
+                {
+                    "name": "高清电影",
+                    "url": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+                },
+                {
+                    "name": "十万个冷笑话",
+                    "url": "http://aldirect.hls.huya.com/huyalive/94525224-2553630828-10967760892317401088-3049003140-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "周星驰电影",
+                    "url": "http://tx.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "武林外传",
+                    "url": "http://aldirect.hls.huya.com/huyalive/94525224-2579730270-11079857142151249920-3048959668-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "爱情公寓",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "林正英",
+                    "url": "http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "开心鬼电影",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8"
+                },
+                {
+                    "name": "五福星电影",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1_1200.m3u8"
+                },
+                {
+                    "name": "精品电影",
+                    "url": "http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8?nsukey=N7rWOTWTI2vZ6mZnw6NWTipFE1LXiUWMqmCnUGRS%2FtoDiV7P%2Fq1Tfh8BLMM7MVZ%2Fc0fTe05ArR6Xr6g71qfT%2FJnIPzoda2AtBHJyNsUMQPJz2lxIVW2qCVuPXfJwUSDATxOvmCCBeYMOwns%2FODAvny%2BZ32Z6jmbkEEm85vm9LBOE1BauBPlz0uvtGSAVRXBxAw5Zkm%2FqLcs%2BbAXyuiKd0A%3D%3D"
+                },
+                {
+                    "name": "科幻动作电影",
+                    "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "成龙电影",
+                    "url": "http://tx.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "刘德华",
+                    "url": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "李连杰",
+                    "url": "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "周润发",
+                    "url": "http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "洪金宝电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "甄子丹电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8"
+                },
+                {
+                    "name": "黄日华",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "古天乐电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29169025-2686220040-11537227221659811840-2713685416-10057-A-1524041498-1.m3u8"
+                },
+                {
+                    "name": "徐克导演",
+                    "url": "http://tx.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1.m3u8"
+                },
+                {
+                    "name": "王晶导演",
+                    "url": "http://tx.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "古惑仔电影",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "张卫健电影",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8"
+                },
+                {
+                    "name": "吴京作品集",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "黄渤",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "漫威电影",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "女神港片",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "女神系列",
+                    "url": "https://aldirect.hls.huya.com/huyalive/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "怪物科幻",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "丧尸电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "战争电影",
+                    "url": "http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "战争电影",
+                    "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "犯罪悬疑",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8"
+                },
+                {
+                    "name": "灾难电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1.m3u8"
+                },
+                {
+                    "name": "真实改编",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "惊悚电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29106097-2689447600-11551089486305689600-2789274568-10057-A-1525420695-1.m3u8"
+                },
+                {
+                    "name": "复仇犯罪",
+                    "url": "http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "斯坦森电影",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "徐峥",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "赌片合集",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "赌博电影",
+                    "url": "http://tx.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "电影轮播",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686220062-11537227316149092352-2777037828-10057-A-1524041857-1_1200.m3u8"
+                },
+                {
+                    "name": "好莱坞电影1",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689279104-11550365801496182784-2777026902-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "好莱坞电影2",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "好莱坞电影3",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8"
+                },
+                {
+                    "name": "好莱坞电影4",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8"
+                },
+                {
+                    "name": "金庸作品电影集",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689645314-11551938661469650944-2847687586-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "神雕侠侣古天乐版",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8"
+                },
+                {
+                    "name": "倚天屠龙记苏有朋",
+                    "url": "http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "倚天剑屠龙刀•吴启华版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "天龙八部",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "兲龙八部港版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417506-10837995662423883776-2777071322-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "射雕英雄传张智霖朱茵版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2686220976-11537231241749200896-3049003126-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "笑傲江湖 霍建华陈乔恩版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "鹿鼎记陈小春版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "雪山飞狐黄日华版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686220976-11537231241749200896-2847699180-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "侠客行",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "李小龙传奇",
+                    "url": "https://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1_1200.m3u8"
+                },
+                {
+                    "name": "轩辕剑",
+                    "url": "https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "大秦帝国",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "大风歌",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "隋唐英雄传",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29359996-2689637532-11551905238034153472-2847687564-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "新三国",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417353-10837995005293887488-2847699118-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "三国演义",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "新水浒传",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2523417567-10837995924416888832-2789253832-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "西游记(86版)",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "齐天大圣张卫健",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "济公",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221242-11537232384210501632-2847687560-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "封神榜",
+                    "url": "https://ws4.streamhls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1_1200/playlist.m3u8"
+                },
+                {
+                    "name": "宝莲灯",
+                    "url": "http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "少年包青天",
+                    "url": "http://aldirect.hls.huya.com/huyalive/30765679-2534694464-10886429828232249344-2789253856-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "神探狄仁杰",
+                    "url": "http://alhls.cdn.zhanqi.tv/zqlive/115384_jC7nR.m3u8"
+                },
+                {
+                    "name": "康熙微服私访记",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "康熙皇朝",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "雍正王朝",
+                    "url": "https://txdirect.hls.huya.com/huyalive/29359996-2689277426-11550358594541060096-2847699098-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "大宅门",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "亮剑",
+                    "url": "http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "人间正道是沧桑",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2685178192-11532752518572408832-3048959604-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "金庸系列",
+                    "url": "http://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "变形金刚系列",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689448236-11551092217904889856-2789274572-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "我是特种兵",
+                    "url": "http://js.hls.huya.com/huyalive/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "徐克电影",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8"
+                },
+                {
+                    "name": "宫崎骏动画",
+                    "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "三国演义",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "西游记(86版)",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "康熙微服私访记",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "康熙皇朝",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "铁齿铜牙纪晓岚",
+                    "url": "http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "大宅门",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "大秦帝国",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "楚汉传奇",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "宝莲灯前传",
+                    "url": "http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "亮剑",
+                    "url": "http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "猫和老鼠",
+                    "url": "https://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "赵本山小品系列",
+                    "url": "http://js.hls.huya.com/huyalive/29106097-2689443426-11551071559112196096-2789253866-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "神雕侠侣古天乐版",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8"
+                },
+                {
+                    "name": "倚天剑屠龙刀吴启华版",
+                    "url": "https://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "倚天屠龙记苏有朋",
+                    "url": "http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "天龙八部",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "侠客行",
+                    "url": "https://aldirect.hls.huya.com/huyalive/30765679-2554414889-10971128408670470144-3048991640-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "电影轮播",
+                    "url": "http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "香港电影",
+                    "url": "http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8"
+                },
+                {
+                    "name": "漫威电影",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "战争电影",
+                    "url": "http://tx.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "犯罪悬疑",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2480288304-10652757150331305984-2789274538-10057-A-1511757260-1.m3u8"
+                },
+                {
+                    "name": "复仇犯罪",
+                    "url": "http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "随机电影",
+                    "url": "http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8"
+                },
+                {
+                    "name": "随便看看",
+                    "url": "http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8"
+                },
+                {
+                    "name": "电视剧",
+                    "url": "http://hls-ott-zhibo.wasu.tv/live/97_68611/index.m3u8"
+                },
+                {
+                    "name": "战旗6郭德纲",
+                    "url": "http://alhls.cdn.zhanqi.tv/zqlive/81077_ZRWAB.m3u8"
+                },
+                {
+                    "name": "峨眉电影HD",
+                    "url": "http://scgctvshow.sctv.com/hdlive/emei/3.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "央视🎈",
+            "lives": [
+                {
+                    "name": "CCTV1+央视",
+                    "url": "http://125.210.158.10:8060/live/CCTV1HD_H265.m3u8"
+                },
+                {
+                    "name": "CCTV-2财经",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-2-HD/1.m3u8"
+                },
+                {
+                    "name": "CCTV-3综艺",
+                    "url": "http://223.110.243.170/PLTV/3/224/3221225588/index.m3u8"
+                },
+                {
+                    "name": "CCTV-4国际",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-4-HQ/1.m3u8"
+                },
+                {
+                    "name": "CCTV-5体育",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8"
+                },
+                {
+                    "name": "CCTV-5+赛事",
+                    "url": "http://39.134.52.163/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8"
+                },
+                {
+                    "name": "CCTV-6电影",
+                    "url": "http://223.110.242.130:6610/cntv/live1/HD-2500k-1080P-cctv6/HD-2500k-1080P-cctv6/1.m3u8"
+                },
+                {
+                    "name": "CCTV-7军农",
+                    "url": "http://117.169.72.144:8080/wh7f454c46tw1056182565_1788932852/ysten-businessmobile/live/cctv-7/1.m3u8?icpid=88888888&RTS=1549771633&from=18140001&hms_devid=104"
+                },
+                {
+                    "name": "CCTV-8电视剧",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-8-HQ/1.m3u8"
+                },
+                {
+                    "name": "CCTV-9记录",
+                    "url": "http://117.169.72.139:8080/wh7f454c46tw1033658451_221659548/ysten-businessmobile/live/cctv-news/1.m3u8?icpid=88888888&RTS=1549771801&from=18140001&hms_devid=64"
+                },
+                {
+                    "name": "CCTV10+科教",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv10.m3u8"
+                },
+                {
+                    "name": "CCTV-11戏曲",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-11-HQ/1.m3u8"
+                },
+                {
+                    "name": "CCTV12+社法",
+                    "url": "http://ivi.bupt.edu.cn/hls/cctv12.m3u8"
+                },
+                {
+                    "name": "CCTV-13新闻",
+                    "url": "http://117.169.72.133:8080/wh7f454c46tw3485825340_2001738693/ysten-businessmobile/live/cctv-13/1.m3u8?icpid=88888888&RTS=1549773700&from=18140001&hms_devid=24"
+                },
+                {
+                    "name": "CCTV-14少儿",
+                    "url": "http://117.169.72.141:8080/wh7f454c46tw3914954676_976939353/ysten-businessmobile/live/cctv-14/1.m3u8?icpid=88888888&RTS=1549772905&from=18140001&hms_devid=84"
+                },
+                {
+                    "name": "CCTV-15音乐",
+                    "url": "http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8"
+                },
+                {
+                    "name": "CCTV-1_2",
+                    "url": "http://125.210.158.10:8060/live/CCTV1HD_H265.m3u8"
+                },
+                {
+                    "name": "CCTV-1_3",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-1-HQ/1.m3u8"
+                },
+                {
+                    "name": "CCTV10科教",
+                    "url": "http://223.110.242.130:6610/gitv/live1/G_CCTV-10-HQ/1.m3u8"
+                },
+                {
+                    "name": "CCTV14少儿",
+                    "url": "http://125.210.158.10:8060/live/CCTV14HD_H265.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "卫视🎈",
+            "lives": [
+                {
+                    "name": "金鹰卡通",
+                    "url": "http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8"
+                },
+                {
+                    "name": "优曼卡通",
+                    "url": "http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8"
+                },
+                {
+                    "name": "炫动卡通",
+                    "url": "http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8"
+                },
+                {
+                    "name": "卡酷少儿",
+                    "url": "http://ivi.bupt.edu.cn/hls/btv10.m3u8"
+                },
+                {
+                    "name": "北京卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/beijingstv/1.m3u8"
+                },
+                {
+                    "name": "湖南卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/hunanstv/1.m3u8"
+                },
+                {
+                    "name": "江苏卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/jstv.m3u8"
+                },
+                {
+                    "name": "浙江卫视",
+                    "url": "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8"
+                },
+                {
+                    "name": "东方卫视",
+                    "url": "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8"
+                },
+                {
+                    "name": "广东卫视",
+                    "url": "http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8"
+                },
+                {
+                    "name": "广西卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/guangxistv/1.m3u8"
+                },
+                {
+                    "name": "江西卫视",
+                    "url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225787/1.m3u8"
+                },
+                {
+                    "name": "云南卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/yunnanstv/1.m3u8"
+                },
+                {
+                    "name": "四川卫视",
+                    "url": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221225814/index.m3u8"
+                },
+                {
+                    "name": "四川卫视2",
+                    "url": "http://ivi.bupt.edu.cn/hls/sctv.m3u8"
+                },
+                {
+                    "name": "湖北卫视",
+                    "url": "http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8"
+                },
+                {
+                    "name": "安徽卫视",
+                    "url": "http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221225800/index.m3u8"
+                },
+                {
+                    "name": "贵州卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/guizhoustv/1.m3u8"
+                },
+                {
+                    "name": "青海卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/qinghaistv/1.m3u8"
+                },
+                {
+                    "name": "山东卫视",
+                    "url": "http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225763/2.m3u8"
+                },
+                {
+                    "name": "山西卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/shanxistv/1.m3u8"
+                },
+                {
+                    "name": "河南卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/henanstv/1.m3u8"
+                },
+                {
+                    "name": "河北卫视",
+                    "url": "http://weblive.hebtv.com/live/hbws_bq/index.m3u8"
+                },
+                {
+                    "name": "内蒙古卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/neimenggustv/1.m3u8"
+                },
+                {
+                    "name": "东南卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/dongnanstv/1.m3u8"
+                },
+                {
+                    "name": "陕西卫视",
+                    "url": "http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226079/index.m3u8"
+                },
+                {
+                    "name": "甘肃卫视",
+                    "url": "http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221225590/index.m3u8"
+                },
+                {
+                    "name": "宁夏卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/ningxiastv/1.m3u8"
+                },
+                {
+                    "name": "辽宁卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/liaoningstv/1.m3u8"
+                },
+                {
+                    "name": "吉林卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/jilinstv/1.m3u8"
+                },
+                {
+                    "name": "黑龙江卫视",
+                    "url": "http://223.110.243.169/PLTV/3/224/3221227252/index.m3u8"
+                },
+                {
+                    "name": "天津卫视",
+                    "url": "http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8"
+                },
+                {
+                    "name": "重庆卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/chongqingstv/1.m3u8"
+                },
+                {
+                    "name": "深圳卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/shenzhenstv/1.m3u8"
+                },
+                {
+                    "name": "新疆卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/xinjiangstv/1.m3u8"
+                },
+                {
+                    "name": "西藏卫视",
+                    "url": "http://223.110.242.130:6610/cntv/live1/xizangstv/1.m3u8"
+                },
+                {
+                    "name": "香港卫视",
+                    "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
+                },
+                {
+                    "name": "台湾卫视",
+                    "url": "http://61.216.177.73/sta/ch10119036.m3u8"
+                },
+                {
+                    "name": "浙江卫视",
+                    "url": "http://223.110.243.173/PLTV/3/224/3221227215/index.m3u8"
+                },
+                {
+                    "name": "湖南卫视🎈",
+                    "url": "http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8"
+                },
+                {
+                    "name": "湖南卫视+🎈",
+                    "url": "http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225515/index.m3u8"
+                },
+                {
+                    "name": "东方卫视",
+                    "url": "http://223.110.243.138/PLTV/3/224/3221227208/index.m3u8"
+                },
+                {
+                    "name": "江苏卫视",
+                    "url": "http://117.148.187.37/PLTV/88888888/224/3221226140/index.m3u8"
+                },
+                {
+                    "name": "广东卫视",
+                    "url": "http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8"
+                },
+                {
+                    "name": "深圳卫视",
+                    "url": "http://223.110.243.171/PLTV/3/224/3221227217/index.m3u8"
+                },
+                {
+                    "name": "北京卫视",
+                    "url": "http://39.134.52.160/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225506/index.m3u8"
+                },
+                {
+                    "name": "辽宁卫视",
+                    "url": "http://ivi.bupt.edu.cn/hls/lnhd.m3u8"
+                }
+            ]
+        },
+        {
+            "name": "地方|国际",
+            "lives": [
+                {
+                    "name": "厦门卫视",
+                    "url": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8"
+                },
+                {
+                    "name": "厦门卫视",
+                    "url": "http://cstvpull.live.wscdns.com/live/xiamen.flv"
+                },
+                {
+                    "name": "厦门一套",
+                    "url": "http://cstv.live.wscdns.com/live/xiamen1/playlist.m3u8"
+                },
+                {
+                    "name": "厦门一套",
+                    "url": "http://cstvpull.live.wscdns.com/live/xiamen1.flv"
+                },
+                {
+                    "name": "厦门二套",
+                    "url": "http://cstv.live.wscdns.com/live/xiamen2/playlist.m3u8"
+                },
+                {
+                    "name": "厦门二套",
+                    "url": "http://cstvpull.live.wscdns.com/live/xiamen2.flv"
+                },
+                {
+                    "name": "厦门三套",
+                    "url": "http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8"
+                },
+                {
+                    "name": "厦门三套",
+                    "url": "http://cstvpull.live.wscdns.com/live/xiamen3.flv"
+                },
+                {
+                    "name": "厦门移动电视",
+                    "url": "http://cstvpull.live.wscdns.com/live/xiamenyidong.flv"
+                },
+                {
+                    "name": "HBO",
+                    "url": "http://218.202.220.2:5000/nn_live.m3u8?id=HBO"
+                },
+                {
+                    "name": "HBO2",
+                    "url": "http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8"
+                },
+                {
+                    "name": "FOX MOVIES",
+                    "url": "http://60.250.69.26:8080/live/startwest89.m3u8"
+                },
+                {
+                    "name": "美国中文",
+                    "url": "http://live.italkdd.com/cds160/hls/channel009/channel009.m3u8"
+                },
+                {
+                    "name": "香港电台",
+                    "url": "http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8?sd=10&rebase=on"
+                },
+                {
+                    "name": "凤凰香港",
+                    "url": "http://live.italkdd.com/cds160/hls/channel016/channel016_2000.m3u8"
+                },
+                {
+                    "name": "澳视资讯",
+                    "url": "http://103.233.191.136:1935/ch5/info_ch5.live/playlist.m3u8"
+                },
+                {
+                    "name": "澳视卫星",
+                    "url": "http://103.233.191.136:1935/ch3/ch3.live/playlist.m3u8"
+                },
+                {
+                    "name": "澳视澳门",
+                    "url": "http://103.233.191.136:1935/ch1/ch1.live/playlist.m3u8"
+                },
+                {
+                    "name": "澳视高清",
+                    "url": "http://103.233.191.136:1935/ch6/hd_ch6.live/playlist.m3u8"
+                },
+                {
+                    "name": "香港开电视",
+                    "url": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
+                },
+                {
+                    "name": "无线财经咨询台",
+                    "url": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8"
+                },
+                {
+                    "name": "全美電視",
+                    "url": "https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8"
+                },
+                {
+                    "name": "NOW TV",
+                    "url": "http://live.italkdd.com/cds160/hls/channel003/channel003_2000.m3u8"
+                },
+                {
+                    "name": "now华剧台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel004/channel004_2000.m3u8"
+                },
+                {
+                    "name": "凤凰美洲",
+                    "url": "http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8"
+                },
+                {
+                    "name": "耀才财经台",
+                    "url": "http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8"
+                },
+                {
+                    "name": "澳门卫视",
+                    "url": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
+                },
+                {
+                    "name": "澳门立法會",
+                    "url": "http://103.233.191.136/tv/_definst_/ch21.live/playlist.m3u8"
+                },
+                {
+                    "name": "澳门澳视葡文台",
+                    "url": "http://103.233.191.136/ch2/_definst_/ch2.live/playlist.m3u8"
+                },
+                {
+                    "name": "澳门澳亚卫视台",
+                    "url": "http://stream.mastvnet.com/MASTV/sd/live.m3u8"
+                },
+                {
+                    "name": "澳门澳视高清体育台",
+                    "url": "http://103.233.191.138/ch4/sport_ch4.live/playlist.m3u8"
+                },
+                {
+                    "name": "凤凰卫视HD",
+                    "url": "http://111.13.42.13/PLTV/88888888/224/3221226143/index.m3u8"
+                },
+                {
+                    "name": "凤凰资讯HD",
+                    "url": "http://221.179.217.76/PLTV/88888888/224/3221225949/index.m3u8"
+                },
+                {
+                    "name": "香港凤凰卫视美洲台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel001/channel001_2000.m3u8"
+                },
+                {
+                    "name": "翡翠台普通话",
+                    "url": "http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8"
+                },
+                {
+                    "name": "环球电视台HD",
+                    "url": "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+                },
+                {
+                    "name": "美亚电影台HD",
+                    "url": "http://59.120.242.104:9000/live/live2.m3u8"
+                },
+                {
+                    "name": "阳光卫视",
+                    "url": "http://121.31.30.90:8085/ysten-business/live/yangguangstv/yst.m3u8"
+                },
+                {
+                    "name": "卫视合家欢",
+                    "url": "http://60.250.69.26:8080/live/startfamily89.m3u8"
+                },
+                {
+                    "name": "香港HKS",
+                    "url": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
+                },
+                {
+                    "name": "NHK",
+                    "url": "http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8"
+                },
+                {
+                    "name": "香港600新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel023/channel023_2000.m3u8"
+                },
+                {
+                    "name": "凤凰卫视香港台",
+                    "url": "http://223.110.243.152/PLTV/3/224/3221226975/1.m3u8"
+                },
+                {
+                    "name": "中文洋片HD",
+                    "url": "http://59.120.242.104:9000/live/live1.m3u8"
+                },
+                {
+                    "name": "年代新聞HD",
+                    "url": "http://59.120.242.104:9000/live/live3.m3u8"
+                },
+                {
+                    "name": "中天新聞HD",
+                    "url": "http://59.120.242.104:9000/live/live4.m3u8"
+                },
+                {
+                    "name": "龍華洋片HD",
+                    "url": "http://59.120.242.104:9000/live/live5.m3u8"
+                },
+                {
+                    "name": "新聞HD",
+                    "url": "http://59.120.242.104:9000/live/live8.m3u8"
+                },
+                {
+                    "name": "博斯高球HD",
+                    "url": "http://59.120.242.104:9000/live/live9.m3u8"
+                },
+                {
+                    "name": "衛視電影台",
+                    "url": "http://59.120.242.104:9000/live/live10.m3u8"
+                },
+                {
+                    "name": "緯來日本HD",
+                    "url": "http://59.120.242.104:9000/live/live11.m3u8"
+                },
+                {
+                    "name": "緯來體育HD",
+                    "url": "http://59.120.242.104:9000/live/live12.m3u8"
+                },
+                {
+                    "name": "環宇新聞HD",
+                    "url": "http://59.120.242.104:9000/live/live13.m3u8"
+                },
+                {
+                    "name": "纬来体育HD",
+                    "url": "http://59.120.242.104:9000/live/live12.m3u8"
+                },
+                {
+                    "name": "纬来日本HD",
+                    "url": "http://59.120.242.104:9000/live/live11.m3u8"
+                },
+                {
+                    "name": "卫视电影台HD",
+                    "url": "http://59.120.242.104:9000/live/live10.m3u8"
+                },
+                {
+                    "name": "博斯高球HD",
+                    "url": "http://59.120.242.104:9000/live/live9.m3u8"
+                },
+                {
+                    "name": "新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live8.m3u8"
+                },
+                {
+                    "name": "环宇新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live13.m3u8"
+                },
+                {
+                    "name": "龙华洋片HD",
+                    "url": "http://59.120.242.104:9000/live/live5.m3u8"
+                },
+                {
+                    "name": "中天新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live4.m3u8"
+                },
+                {
+                    "name": "年代新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live3.m3u8"
+                },
+                {
+                    "name": "中文洋片HD",
+                    "url": "http://59.120.242.104:9000/live/live1.m3u8"
+                },
+                {
+                    "name": "美亚电影HD",
+                    "url": "http://59.120.242.104:9000/live/live2.m3u8"
+                },
+                {
+                    "name": "ETV娱乐台HD",
+                    "url": "http://59.120.242.104:9000/live/live1.m3u8"
+                },
+                {
+                    "name": "美亚电影台HD",
+                    "url": "http://59.120.242.104:9000/live/live2.m3u8"
+                },
+                {
+                    "name": "年代新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live3.m3u8"
+                },
+                {
+                    "name": "中天新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live4.m3u8"
+                },
+                {
+                    "name": "龙华洋片HD",
+                    "url": "http://59.120.242.104:9000/live/live5.m3u8"
+                },
+                {
+                    "name": "壹新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live8.m3u8"
+                },
+                {
+                    "name": "爱尔达体育1台HD",
+                    "url": "http://59.120.242.104:9000/live/live9.m3u8"
+                },
+                {
+                    "name": "星卫HD电影台",
+                    "url": "http://59.120.242.104:9000/live/live10.m3u8"
+                },
+                {
+                    "name": "纬来日本HD",
+                    "url": "http://59.120.242.104:9000/live/live11.m3u8"
+                },
+                {
+                    "name": "纬来体育HD",
+                    "url": "http://59.120.242.104:9000/live/live12.m3u8"
+                },
+                {
+                    "name": "寰宇新闻台HD",
+                    "url": "http://59.120.242.104:9000/live/live13.m3u8"
+                },
+                {
+                    "name": "龙华电影HD",
+                    "url": "http://61.216.177.73/sta/ch10119012.m3u8"
+                },
+                {
+                    "name": "龙华经典HD",
+                    "url": "http://61.216.177.73/sta/ch10119014.m3u8"
+                },
+                {
+                    "name": "龙华动画HD",
+                    "url": "http://61.216.177.73/sta/ch10119009.m3u8"
+                },
+                {
+                    "name": "龙华影剧HD",
+                    "url": "http://61.216.177.73/sta/ch10119008.m3u8"
+                },
+                {
+                    "name": "龙华偶像HD",
+                    "url": "http://61.216.177.73/sta/ch10119007.m3u8"
+                },
+                {
+                    "name": "龙华戏剧HD",
+                    "url": "http://61.216.177.73/sta/ch10119006.m3u8"
+                },
+                {
+                    "name": "东森新闻HD",
+                    "url": "http://61.216.177.73/sta/ch10119001.m3u8"
+                },
+                {
+                    "name": "歡樂HD",
+                    "url": "http://60.250.69.26:8080/live/tvbsfun89.m3u8"
+                },
+                {
+                    "name": "寰宇新闻HD",
+                    "url": "http://61.216.177.73/sta/ch10119011.m3u8"
+                },
+                {
+                    "name": "寰宇新闻2台HD",
+                    "url": "http://61.216.177.73/sta/ch10119013.m3u8"
+                },
+                {
+                    "name": "博斯高球2HD",
+                    "url": "http://61.216.177.73/sta/ch10119015.m3u8"
+                },
+                {
+                    "name": "博斯高球HD",
+                    "url": "http://61.216.177.73/sta/ch10119016.m3u8"
+                },
+                {
+                    "name": "博斯运动HD",
+                    "url": "http://61.216.177.73/sta/ch10119017.m3u8"
+                },
+                {
+                    "name": "博斯运动2HD",
+                    "url": "http://61.216.177.73/sta/ch10119018.m3u8"
+                },
+                {
+                    "name": "博斯无限HD",
+                    "url": "http://61.216.177.73/sta/ch10119019.m3u8"
+                },
+                {
+                    "name": "博斯魅力HD",
+                    "url": "http://61.216.177.73/sta/ch10119020.m3u8"
+                },
+                {
+                    "name": "靖天资讯HD",
+                    "url": "http://61.216.177.73/sta/ch10119024.m3u8"
+                },
+                {
+                    "name": "靖洋卡通HD",
+                    "url": "http://61.216.177.73/sta/ch10119027.m3u8"
+                },
+                {
+                    "name": "靖天育乐HD",
+                    "url": "http://61.216.177.73/sta/ch10119028.m3u8"
+                },
+                {
+                    "name": "靖天综合HD",
+                    "url": "http://61.216.177.73/sta/ch10119029.m3u8"
+                },
+                {
+                    "name": "靖天卡通HD",
+                    "url": "http://61.216.177.73/sta/ch10119030.m3u8"
+                },
+                {
+                    "name": "靖天国际HD",
+                    "url": "http://61.216.177.73/sta/ch10119031.m3u8"
+                },
+                {
+                    "name": "靖天日本HD",
+                    "url": "http://61.216.177.73/sta/ch10119032.m3u8"
+                },
+                {
+                    "name": "台视综合HD",
+                    "url": "http://61.216.177.73/sta/ch10119037.m3u8"
+                },
+                {
+                    "name": "台视新闻HD",
+                    "url": "http://61.216.177.73/sta/ch10119038.m3u8"
+                },
+                {
+                    "name": "台视财经HD",
+                    "url": "http://61.216.177.73/sta/ch10119039.m3u8"
+                },
+                {
+                    "name": "台视HD",
+                    "url": "http://61.216.177.73/sta/ch10119036.m3u8"
+                },
+                {
+                    "name": "中天新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live4.m3u8"
+                },
+                {
+                    "name": "年代新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live3.m3u8"
+                },
+                {
+                    "name": "壹新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live8.m3u8"
+                },
+                {
+                    "name": "天良电视HD",
+                    "url": "http://61.216.177.73/sta/ch1865001.m3u8"
+                },
+                {
+                    "name": "信吉电视HD",
+                    "url": "http://61.216.177.73/sta/ch1865002.m3u8"
+                },
+                {
+                    "name": "壹新闻 NEXT TV",
+                    "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8"
+                },
+                {
+                    "name": "华视新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel005/channel005_2000.m3u8"
+                },
+                {
+                    "name": "三立都会台",
+                    "url": "http://60.250.69.26:8080/live/setcity89.m3u8"
+                },
+                {
+                    "name": "壹新闻",
+                    "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8"
+                },
+                {
+                    "name": "华视咨讯台",
+                    "url": "http://60.250.69.26:8080/live/ctinews89.m3u8"
+                },
+                {
+                    "name": "东森美洲新闻台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8"
+                },
+                {
+                    "name": "中旺电视",
+                    "url": "http://live.italkdd.com/cds160/hls/channel008/channel008_2000.m3u8"
+                },
+                {
+                    "name": "天下电视",
+                    "url": "http://live.italkdd.com/cds160/hls/channel017/channel017_2000.m3u8"
+                },
+                {
+                    "name": "东森美洲台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel020/channel020_2000.m3u8"
+                },
+                {
+                    "name": "三立台湾台",
+                    "url": "http://live.italkdd.com/cds160/hls/channel021/channel021_2000.m3u8"
+                },
+                {
+                    "name": "大爱电视",
+                    "url": "http://live.italkdd.com/cds160/hls/channel015/channel015.m3u8"
+                },
+                {
+                    "name": "亚洲旅游",
+                    "url": "http://live.italkdd.com/cds160/hls/channel007/channel007_2000.m3u8"
+                },
+                {
+                    "name": "天良台",
+                    "url": "http://61.216.177.73/sta/ch1865001.m3u8"
+                },
+                {
+                    "name": "台湾超视",
+                    "url": "http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8"
+                },
+                {
+                    "name": "中旺电视",
+                    "url": "http://live.italkdd.com/cds160/hls/channel008/channel008.m3u8"
+                },
+                {
+                    "name": "欢乐",
+                    "url": "http://60.250.69.26:8080/live/tvbsfun89.m3u8"
+                },
+                {
+                    "name": "东森新闻",
+                    "url": "http://61.216.177.73/sta/ch10119001.m3u8"
+                },
+                {
+                    "name": "东森新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel019/channel019_2000.m3u8"
+                },
+                {
+                    "name": "三立台湾HD",
+                    "url": "http://live.italkdd.com/cds160/hls/channel021/channel021.m3u8"
+                },
+                {
+                    "name": "非凡新闻 HD",
+                    "url": "http://live.italkdd.com/cds160/hls/channel013/channel013_2000.m3u8"
+                },
+                {
+                    "name": "天空新闻",
+                    "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8"
+                },
+                {
+                    "name": "中天新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live4.m3u8"
+                },
+                {
+                    "name": "年代新闻HD",
+                    "url": "http://59.120.242.104:9000/live/live3.m3u8"
+                },
+                {
+                    "name": "环宇新闻",
+                    "url": "http://59.120.242.104:9000/live/live13.m3u8"
+                },
+                {
+                    "name": "环宇新闻",
+                    "url": "http://59.120.242.104:9000/live/live13.m3u8"
+                },
+                {
+                    "name": "环宇新闻2台",
+                    "url": "http://61.216.177.73/sta/ch10119013.m3u8"
+                },
+                {
+                    "name": "台视综合",
+                    "url": "http://61.216.177.73/sta/ch10119037.m3u8"
+                },
+                {
+                    "name": "星卫HD电影台",
+                    "url": "http://59.120.242.104:9000/live/live10.m3u8"
+                },
+                {
+                    "name": "龙华电影",
+                    "url": "http://61.216.177.73/sta/ch10119012.m3u8"
+                },
+                {
+                    "name": "龙华经典",
+                    "url": "http://61.216.177.73/sta/ch10119014.m3u8"
+                },
+                {
+                    "name": "龙华动画",
+                    "url": "http://61.216.177.73/sta/ch10119009.m3u8"
+                },
+                {
+                    "name": "龙华偶像",
+                    "url": "http://61.216.177.73/sta/ch10119007.m3u8"
+                },
+                {
+                    "name": "靖洋卡通",
+                    "url": "http://61.216.177.73/sta/ch10119027.m3u8"
+                },
+                {
+                    "name": "靖天资讯",
+                    "url": "http://61.216.177.73/sta/ch10119024.m3u8"
+                },
+                {
+                    "name": "靖天育乐",
+                    "url": "http://61.216.177.73/sta/ch10119028.m3u8"
+                },
+                {
+                    "name": "靖天综合",
+                    "url": "http://61.216.177.73/sta/ch10119029.m3u8"
+                },
+                {
+                    "name": "靖天卡通",
+                    "url": "http://61.216.177.73/sta/ch10119030.m3u8"
+                },
+                {
+                    "name": "靖天国际",
+                    "url": "http://61.216.177.73/sta/ch10119031.m3u8"
+                },
+                {
+                    "name": "靖天日本",
+                    "url": "http://61.216.177.73/sta/ch10119032.m3u8"
+                },
+                {
+                    "name": "ETV娱乐台HD",
+                    "url": "http://59.120.242.104:9000/live/live1.m3u8"
+                },
+                {
+                    "name": "GOOD综合台",
+                    "url": "http://live.streamingfast.net/osmflivech1.m3u8"
+                },
+                {
+                    "name": "GOOD生活台",
+                    "url": "http://live.streamingfast.net/osmflivech12.m3u8"
+                },
+                {
+                    "name": "GOOD真情部落格",
+                    "url": "http://live.streamingfast.net/osmflivech3.m3u8"
+                },
+                {
+                    "name": "GOOD共享观点",
+                    "url": "http://live.streamingfast.net/osmflivech5.m3u8"
+                },
+                {
+                    "name": "GOOD爱+好医生",
+                    "url": "http://live.streamingfast.net/osmflivech9.m3u8"
+                },
+                {
+                    "name": "GOOD美食旅游台",
+                    "url": "http://live.streamingfast.net/osmflivech14.m3u8"
+                },
+                {
+                    "name": "GOOD健康新煮流",
+                    "url": "http://live.streamingfast.net/osmflivech13.m3u8"
+                },
+                {
+                    "name": "GOOD卡通",
+                    "url": "http://live.streamingfast.net/osmflivech40.m3u8"
+                },
+                {
+                    "name": "GOOD烤箱读书会",
+                    "url": "http://live.streamingfast.net/osmflivech44.m3u8"
+                },
+                {
+                    "name": "Japan24news",
+                    "url": "https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8"
+                },
+                {
+                    "name": "日-ファミリー劇場",
+                    "url": "http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8"
+                },
+                {
+                    "name": "日-衛星劇場",
+                    "url": "http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8"
+                },
+                {
+                    "name": "日本Japanet Channel DX",
+                    "url": "http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8"
+                },
+                {
+                    "name": "家庭剧场",
+                    "url": "http://192.240.127.34:1935/live/cs11.stream/media_1254.m3u8"
+                },
+                {
+                    "name": "历史频道HD",
+                    "url": "http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8"
+                },
+                {
+                    "name": "卫星剧场HD",
+                    "url": "http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8"
+                },
+                {
+                    "name": "日本映画HD",
+                    "url": "http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8"
+                },
+                {
+                    "name": "潘朵拉",
+                    "url": "http://59.120.242.104:9000/live/live7.m3u8"
+                },
+                {
+                    "name": "松視HD",
+                    "url": "http://59.120.242.104:9000/live/live6.m3u8"
+                },
+                {
+                    "name": "心动电影",
+                    "url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream1/playlist.m3u8"
+                },
+                {
+                    "name": "心动电影2",
+                    "url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream2/playlist.m3u8"
+                },
+                {
+                    "name": "心动电影3",
+                    "url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream3/playlist.m3u8"
+                },
+                {
+                    "name": "心动电影4",
+                    "url": "https://5a2a51fc4cfde.streamlock.net/lfh/_definst_/Stream4/playlist.m3u8"
+                },
+                {
+                    "name": "花花公子蒙古",
+                    "url": "http://spacetv.in/stream/WUQP6BVK17/56.m3u8"
+                },
+                {
+                    "name": "花花公子韩国",
+                    "url": "http://122.38.74.172:9981/stream/channelid/966306501.m3u8"
+                },
+                {
+                    "name": "韩国TV Chosun",
+                    "url": "http://live.chosun.gscdn.com/live/_definst_/tvchosun1.stream/playlist.m3u8"
+                },
+                {
+                    "name": "韩国CBS",
+                    "url": "http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8"
+                },
+                {
+                    "name": "韩国KBS1",
+                    "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8"
+                },
+                {
+                    "name": "EBS1",
+                    "url": "http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8"
+                },
+                {
+                    "name": "韩国EBSeHD",
+                    "url": "http://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8"
+                },
+                {
+                    "name": "韩国Arirang (Opt-1)",
+                    "url": "http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8"
+                },
+                {
+                    "name": "韩国KTV",
+                    "url": "http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8"
+                },
+                {
+                    "name": "韩国Chosun",
+                    "url": "http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8"
+                },
+                {
+                    "name": "新加坡U8",
+                    "url": "http://ftach8.akamaized.net/out/v1/e6c84096fa424e7eaab636021b2b86ec/index_1.m3u8"
+                },
+                {
+                    "name": "新加坡U频道",
+                    "url": "http://ftachu.akamaized.net/out/v1/4d9907464ff048ce859219b22ed52599/index.m3u8"
+                },
+                {
+                    "name": "新加坡5频道",
+                    "url": "http://ftach5.akamaized.net/out/v1/e2b7fbc082a5493bbfbab77f8c27ee9e/index.m3u8"
+                },
+                {
+                    "name": "泰国DDTV",
+                    "url": "http://203.156.63.20:1935/live/ddtv/playlist.m3u8"
+                },
+                {
+                    "name": "越南ANTVHD",
+                    "url": "http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8"
+                },
+                {
+                    "name": "美国中文台",
+                    "url": "http://media3.sinovision.net:1935/live/livestream/playlist.m3u8"
+                },
+                {
+                    "name": "美国芝加哥WGN9频道HD",
+                    "url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8"
+                },
+                {
+                    "name": "美国Al Jazeera (Opt-1)",
+                    "url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
+                },
+                {
+                    "name": "美国Bloomberg TV Europe",
+                    "url": "http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8"
+                },
+                {
+                    "name": "美国CGTN (Opt-1)",
+                    "url": "http://live.cgtn.com/500/prog_index.m3u8"
+                },
+                {
+                    "name": "美国CGTN (Opt-2)",
+                    "url": "http://live.cgtn.com/1000/prog_index.m3u8"
+                },
+                {
+                    "name": "美国Deutsche Welle",
+                    "url": "http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8"
+                },
+                {
+                    "name": "美国360 North",
+                    "url": "http://wowzaprod3-i.akamaihd.net/hls/live/252236/2147483647_360north_247/playlist.m3u8"
+                },
+                {
+                    "name": "美国Bowie TV",
+                    "url": "http://granicusliveus3-a.akamaihd.net/cityofbowie/G0466_001/playlist.m3u8"
+                },
+                {
+                    "name": "美国Buffalo TV",
+                    "url": "http://na-all15.secdn.net/pegstream3-live/play/c3e1e4c4-7f11-4a54-8b8f-c590a95b4ade/playlist.m3u8"
+                },
+                {
+                    "name": "美国California Music Channel",
+                    "url": "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8"
+                },
+                {
+                    "name": "美国CBS News (Opt-1)",
+                    "url": "http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8"
+                },
+                {
+                    "name": "美国Denver 8 TV",
+                    "url": "http://granicusliveus8-a.akamaihd.net/denver/G0080_002/chunklist.m3u8"
+                },
+                {
+                    "name": "美国Fox News Talk Radio",
+                    "url": "http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8"
+                },
+                {
+                    "name": "美国Greenbelt TV",
+                    "url": "http://granicusliveus4-a.akamaihd.net/greenbeltmd/G0610_001/chunklist.m3u8"
+                },
+                {
+                    "name": "美国House of Representatives",
+                    "url": "http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:HouseChannel_all/chucklist.m3u8"
+                },
+                {
+                    "name": "美国InfoWars",
+                    "url": "http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/master.m3u8"
+                },
+                {
+                    "name": "美国Jewelry Television",
+                    "url": "http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8"
+                },
+                {
+                    "name": "美国Newsmax TV",
+                    "url": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8"
+                },
+                {
+                    "name": "美国Red Bull TV SD",
+                    "url": "http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+                },
+                {
+                    "name": "美国TVW",
+                    "url": "http://d3ktuc8v2sjk6m.cloudfront.net/livetv/ngrp:TVWAIR_all/chucklist.m3u8"
+                },
+                {
+                    "name": "美国VTV Channel 6 Colorado",
+                    "url": "http://hls.ksl.com/t/strata/playlist.m3u8"
+                },
+                {
+                    "name": "美国Weather Nation",
+                    "url": "http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8"
+                },
+                {
+                    "name": "美国WHPR TV 33 Detroit",
+                    "url": "http://162.244.81.156:1935/whprtv33roku/whprtv33roku/playlist.m3u8"
+                },
+                {
+                    "name": "美国本土NBC 11 News (Bay Area).",
+                    "url": "http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8"
+                },
+                {
+                    "name": "美国本土NBC 5 News (Chicago)",
+                    "url": "http://wmaqlive-f.akamaihd.net/i/wmaqa1_1@22923/master.m3u8"
+                },
+                {
+                    "name": "美国本土WGN 9 News (Chicago)",
+                    "url": "http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_750_av-b.m3u8"
+                },
+                {
+                    "name": "美国本土CBS 4 News (Indianapolis)",
+                    "url": "http://wttv-lh.akamaihd.net:80/i/WTTVBreaking_1@333494/index_3000_av-b.m3u8"
+                },
+                {
+                    "name": "美国本土Channel 11 News WPXI (Pittsburgh)",
+                    "url": "http://svc-lvanvato-cxtv-wpxi.cmgvideo.com/wpxi/2564k/index.m3u8"
+                },
+                {
+                    "name": "加拿大CBC News (VOD)",
+                    "url": "http://cbcnewshd-f.akamaihd.net/i/cbcnews_1@8981/index_2500_av-p.m3u8"
+                },
+                {
+                    "name": "加拿大CTV News Live 1",
+                    "url": "http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8"
+                },
+                {
+                    "name": "加拿大CTV News Live 3",
+                    "url": "http://ams-lp6.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News38.m3u8"
+                },
+                {
+                    "name": "加拿大CTV News Live 4",
+                    "url": "http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News48.m3u8"
+                },
+                {
+                    "name": "加拿大The Shopping Channel",
+                    "url": "http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8"
+                },
+                {
+                    "name": "加拿大NTV Newfoundland",
+                    "url": "http://1-fss-fso35.streamhoster.com/lv_ntv/_definst_/broadcast1/chunklist.m3u8"
+                },
+                {
+                    "name": "英国MTV",
+                    "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
+                },
+                {
+                    "name": "英国Arise News",
+                    "url": "http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8"
+                },
+                {
+                    "name": "英国Jewellery Maker",
+                    "url": "http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8"
+                },
+                {
+                    "name": "法国Bblack! Africa",
+                    "url": "http://ec.playmedia.fr/beblack/africa/playlist.m3u8"
+                },
+                {
+                    "name": "法国Bblack! Caribbean",
+                    "url": "http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8"
+                },
+                {
+                    "name": "法国CGTN",
+                    "url": "http://live.cgtn.com/1000f/prog_index.m3u8"
+                },
+                {
+                    "name": "法国Francophonie 24",
+                    "url": "http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8"
+                },
+                {
+                    "name": "法国Gong",
+                    "url": "http://ec.playmedia.fr/gong-base/live/playlist.m3u8"
+                },
+                {
+                    "name": "法国TV5 Monde Info (Opt-2)",
+                    "url": "http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8"
+                },
+                {
+                    "name": "德国Baden TV",
+                    "url": "http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8"
+                },
+                {
+                    "name": "德国Blizz TV",
+                    "url": "http://familytvblizz-lh.akamaihd.net/i/familytv_1@458351/master.m3u8"
+                },
+                {
+                    "name": "德国Deutsche Welle (Opt-2)",
+                    "url": "http://dwstream72-lh.akamaihd.net/i/dwstream72_live@123556/master.m3u8"
+                },
+                {
+                    "name": "德国Deutsche Welle (Opt-3)",
+                    "url": "http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8"
+                },
+                {
+                    "name": "德国Family TV",
+                    "url": "http://familytvblizz-lh.akamaihd.net/i/blizzlive_1@36699/master.m3u8"
+                },
+                {
+                    "name": "德国Isar TV",
+                    "url": "http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8"
+                },
+                {
+                    "name": "德国MDF.1",
+                    "url": "http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8"
+                },
+                {
+                    "name": "德国Munchen TV",
+                    "url": "http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/playlist.m3u8"
+                },
+                {
+                    "name": "德国Noa 4 Norderstedt",
+                    "url": "http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8"
+                },
+                {
+                    "name": "德国Noa 4 Hamburg",
+                    "url": "http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8"
+                },
+                {
+                    "name": "德国Oberpfalz TV",
+                    "url": "http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/master.m3u8"
+                },
+                {
+                    "name": "德国Offener Kanal Magdeburg",
+                    "url": "http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-magdeburg_high/hasbahca.m3u8?bitrate=800"
+                },
+                {
+                    "name": "德国pop10",
+                    "url": "http://iptvcodes.blogspot.com@62.113.210.250/medienasa-live/ok-dessau_high/hasbahca.m3u8?bitrate=800"
+                },
+                {
+                    "name": "德国RFO",
+                    "url": "http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/playlist.m3u8"
+                },
+                {
+                    "name": "德国TVA Ostbayern",
+                    "url": "http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/master.m3u8"
+                },
+                {
+                    "name": "德国TV Oberfranken",
+                    "url": "http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8"
+                },
+                {
+                    "name": "德国TV Touring Schweinfurt",
+                    "url": "http://tvtourings.iptv-playoutcenter.de:1935/tvtourings/tvtourings.stream_1/playlist.m3u8"
+                },
+                {
+                    "name": "德国Welt der Wunder",
+                    "url": "http://live.vidoo.de/live/weltderwunder/f1tv.m3u8"
+                },
+                {
+                    "name": "德国QVC",
+                    "url": "http://ios-stream.qvc.de/qvc.m3u8"
+                },
+                {
+                    "name": "意大利SkyNews",
+                    "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+                },
+                {
+                    "name": "意大利AutoMoto TV (Opt-1)",
+                    "url": "http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8"
+                },
+                {
+                    "name": "意大利Canale 7",
+                    "url": "http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8"
+                },
+                {
+                    "name": "意大利DeeJay TV",
+                    "url": "http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/master.m3u8"
+                },
+                {
+                    "name": "意大利La 7",
+                    "url": "http://la7-vh.akamaihd.net/i/content/entry/data/0/299/0_b7o9lvba_0_kyyr8vxz_1.mp4/master.m3u8"
+                },
+                {
+                    "name": "意大利m20 TV",
+                    "url": "http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8"
+                },
+                {
+                    "name": "意大利Radio Azzurra",
+                    "url": "http://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8"
+                },
+                {
+                    "name": "意大利Radio Capital TiVu",
+                    "url": "http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8"
+                },
+                {
+                    "name": "意大利Radio Iglesias",
+                    "url": "http://wms.shared.streamshow.it/visualradio/mp4:visualradio/chunklist.m3u8"
+                },
+                {
+                    "name": "意大利Radio Italia TV",
+                    "url": "http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8"
+                },
+                {
+                    "name": "意大利Radio Monte Carlo",
+                    "url": "http://wow01.105.net:1935/live/rmc1/livestream.m3u8"
+                },
+                {
+                    "name": "意大利Rai Movie",
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8"
+                },
+                {
+                    "name": "意大利Rai Premium",
+                    "url": "http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8"
+                },
+                {
+                    "name": "意大利Sky TG24",
+                    "url": "http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8"
+                },
+                {
+                    "name": "意大利Sudtirol TV",
+                    "url": "http://77.72.196.214:8554/live/SuedtirolTV/livestream.m3u8"
+                },
+                {
+                    "name": "意大利SuperTV",
+                    "url": "http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8"
+                },
+                {
+                    "name": "意大利TeleArena",
+                    "url": "http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8"
+                },
+                {
+                    "name": "意大利teleMonteneve",
+                    "url": "http://wms.shared.streamshow.it:1935/telemonteneve/telemonteneve/live.m3u8"
+                },
+                {
+                    "name": "意大利telePAVIA",
+                    "url": "http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8"
+                },
+                {
+                    "name": "意大利Tele Milano",
+                    "url": "http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8"
+                },
+                {
+                    "name": "意大利TSN",
+                    "url": "http://wms.shared.streamshow.it:1935/tsn2/tsn2/live.m3u8"
+                },
+                {
+                    "name": "意大利TVRS",
+                    "url": "http://wms.shared.streamshow.it:1935/tvrs/tvrs/live.m3u8"
+                },
+                {
+                    "name": "意大利Video Brescia",
+                    "url": "http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8"
+                },
+                {
+                    "name": "意大利Video Calabria",
+                    "url": "http://wms.shared.streamshow.it:80/videocalabria/videocalabria/playlist.m3u8"
+                },
+                {
+                    "name": "巴西AllSports",
+                    "url": "http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8"
+                },
+                {
+                    "name": "巴西Record News",
+                    "url": "http://stmv4.srvstm.com/recordnewses/recordnewses/playlist.m3u8?wowzasessionid=356495000"
+                },
+                {
+                    "name": "巴西Rede Atividade",
+                    "url": "http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8"
+                },
+                {
+                    "name": "巴西Rede Brasil [Opt-1]",
+                    "url": "http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8"
+                },
+                {
+                    "name": "巴西Rede TV",
+                    "url": "http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8"
+                },
+                {
+                    "name": "巴西Rede TV Rondonia",
+                    "url": "http://173.236.10.10:1935/tvonline/tvonline/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙皇马足球台HD",
+                    "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8"
+                },
+                {
+                    "name": "西班牙3/24",
+                    "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8"
+                },
+                {
+                    "name": "西班牙7 Murcia",
+                    "url": "http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8"
+                },
+                {
+                    "name": "西班牙13 TV",
+                    "url": "http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8"
+                },
+                {
+                    "name": "西班牙Andorra TV (Andorra)",
+                    "url": "http://194.158.80.31:443/live/rtva/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙Calle 13",
+                    "url": "http://streaming.enetres.net:80/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist.m3u8"
+                },
+                {
+                    "name": "西班牙Canal Extremadura",
+                    "url": "http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙Canal Parlamento (Updated)",
+                    "url": "http://congresodirecto-f.akamaihd.net:80/i/congreso6_1@54665/master.m3u8"
+                },
+                {
+                    "name": "西班牙Lancelot TV",
+                    "url": "http://62.210.141.18:1935/directo/lancelot.television/live.m3u8"
+                },
+                {
+                    "name": "西班牙Levante TV",
+                    "url": "http://teledifusion.tv:1935/levantetvlive/levantetvlive/master.m3u8"
+                },
+                {
+                    "name": "西班牙Navarra TV (Opt-1)",
+                    "url": "http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8"
+                },
+                {
+                    "name": "西班牙Navarra TV (Opt-2)",
+                    "url": "http://nws.nice264.com/SmilLive/getLiveIOS.smil?stream=NTV_livenatvmb&system=NTV&protocol=http_cupertino/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙RTVCE",
+                    "url": "http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙Sevilla FC TV",
+                    "url": "http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8"
+                },
+                {
+                    "name": "西班牙TeleSafor",
+                    "url": "http://video.telesafor.com/hls/video_low.m3u8"
+                },
+                {
+                    "name": "西班牙TeleValencia",
+                    "url": "http://streaming.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/live.smil/.m3u8"
+                },
+                {
+                    "name": "西班牙TV3 (Opt-1)",
+                    "url": "http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙TV Galicia Europa",
+                    "url": "http://europa-crtvg.flumotion.com/playlist.m3u8"
+                },
+                {
+                    "name": "西班牙TV Mediterraneo",
+                    "url": "http://streaming.enetres.net/489DDF7FE98241D19D8970314BC9D3EF021/smil:live.smil/master.m3u8"
+                },
+                {
+                    "name": "俄罗斯8 Kanal",
+                    "url": "http://v1.proofix.ru/live-tv8/stream1/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Astrakhan 24 (Opt-2)",
+                    "url": "http://streaming.astrakhan.ru/astrakhan24/index.m3u8"
+                },
+                {
+                    "name": "俄罗斯Boutique TV",
+                    "url": "http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Bum TV",
+                    "url": "http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯CGTN",
+                    "url": "http://live.cgtn.com/1000r/prog_index.m3u8"
+                },
+                {
+                    "name": "俄罗斯HD Fashion",
+                    "url": "http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8"
+                },
+                {
+                    "name": "俄罗斯KinoMenu HD",
+                    "url": "http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Krasnaja Linija",
+                    "url": "http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Mir",
+                    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Mir 24 (Opt-1)",
+                    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯MostVideo TV 1",
+                    "url": "http://w4.mostvideo.tv/tv/ch1.m3u8"
+                },
+                {
+                    "name": "俄罗斯Moscow 24",
+                    "url": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:m24.smil/chunklist_b1600000.m3u8"
+                },
+                {
+                    "name": "俄罗斯Muz Sojuz",
+                    "url": "http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8"
+                },
+                {
+                    "name": "俄罗斯MTVmix Ufa",
+                    "url": "http://81.30.182.82:18092/hls/live.m3u8"
+                },
+                {
+                    "name": "俄罗斯My Planet",
+                    "url": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/master.m3u8"
+                },
+                {
+                    "name": "俄罗斯Nastoyashcheye Vremya",
+                    "url": "http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8"
+                },
+                {
+                    "name": "俄罗斯RBC (Opt-1)",
+                    "url": "http://92.50.128.180/utv/1358/index.m3u8"
+                },
+                {
+                    "name": "俄罗斯RBC (Opt-2)",
+                    "url": "http://online.video.rbc.ru/online/rbctv_480p/index.m3u8"
+                },
+                {
+                    "name": "俄罗斯RBC (Opt-3)",
+                    "url": "http://online.video.rbc.ru/online/rbctv_576p/index.m3u8"
+                },
+                {
+                    "name": "俄罗斯Russia-1 (Opt-1)",
+                    "url": "http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8"
+                },
+                {
+                    "name": "俄罗斯RUTV",
+                    "url": "http://live-rmg.cdnvideo.ru/rmg/rutv_new.sdp/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Shanson TV (Opt-1)",
+                    "url": "http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Shanson TV (Opt-2)",
+                    "url": "http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8"
+                },
+                {
+                    "name": "俄罗斯Tivikom Ulan-Udje",
+                    "url": "http://tvcom.stream.intelema.ru/tvcom/studio/index.m3u8"
+                },
+                {
+                    "name": "俄罗斯Tjumenskoe Vremja",
+                    "url": "http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Tochka TV (Opt-1)",
+                    "url": "http://serv24.vintera.tv:8081/tochka/tochkatv/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯TopShop",
+                    "url": "http://tv-topshop.netrack.ru/hls/topshop.m3u8"
+                },
+                {
+                    "name": "俄罗斯TRO Soyuz",
+                    "url": "http://live2.mediacdn.ru/sr1/tro/playlist.m3u8"
+                },
+                {
+                    "name": "俄罗斯Ugra TV",
+                    "url": "http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8"
+                },
+                {
+                    "name": "波兰Stars TV",
+                    "url": "http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8"
+                },
+                {
+                    "name": "波兰TV Kujawy (Opt-1)",
+                    "url": "http://stream.tvkujawy.pl:8080/live/broadcast.m3u8"
+                },
+                {
+                    "name": "波兰TV Torun",
+                    "url": "http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8"
+                },
+                {
+                    "name": "波兰TV Trwam",
+                    "url": "http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8"
+                },
+                {
+                    "name": "波兰Twoja TV (Opt-1)",
+                    "url": "http://94.246.169.19/ttv_hls/live_270p/index.m3u8"
+                },
+                {
+                    "name": "澳大利亚4BC Brisbane",
+                    "url": "http://bris4bcvid-lh.akamaihd.net/i/brisbanebcvida_1@110989/master.m3u8"
+                },
+                {
+                    "name": "新西兰Three",
+                    "url": "http://mediaworks-i.akamaihd.net/hls/live/220435/3812193411001/3news_live/master.m3u8"
+                },
+                {
+                    "name": "奥地利KRALHD",
+                    "url": "http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8"
+                },
+                {
+                    "name": "奥地利Okto TV",
+                    "url": "http://d2jk87psbjrjdz.cloudfront.net/livehttporigin/okto/playlist.m3u8"
+                },
+                {
+                    "name": "荷兰Omroep West",
+                    "url": "http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8"
+                },
+                {
+                    "name": "冰岛RUV",
+                    "url": "http://ruvruverl-live.hls.adaptive.level3.net/ruv/ruverl/index/stream4.m3u8"
+                },
+                {
+                    "name": "丹麦TV2 Bornholm",
+                    "url": "http://live.tv2bornholm.dk/stream/live/chunklist.m3u8"
+                },
+                {
+                    "name": "丹麦TV2 Fyn",
+                    "url": "http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8"
+                },
+                {
+                    "name": "丹麦TV2 Lorry",
+                    "url": "http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8"
+                },
+                {
+                    "name": "丹麦TV Syd",
+                    "url": "http://cdn-lt-live.tvsyd.dk/dc-1/live/hls/p/1956351/e/0_e9slj9wh/t/ut3_n5VQ1FqzlqMhwbQmJg/index-s32.m3u8"
+                },
+                {
+                    "name": "丹麦KKR TV.",
+                    "url": "http://stream.kkr.dk/live/ngrp:kkr_adaptive/chunklist_w184691500_b1628000.m3u8"
+                },
+                {
+                    "name": "挪威Kanal 10",
+                    "url": "http://cdn-kanal10.crossnet.net/kanal10no/live1/playlist.m3u8"
+                },
+                {
+                    "name": "挪威MTV",
+                    "url": "http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8"
+                },
+                {
+                    "name": "挪威Stortinget",
+                    "url": "http://flash0.19333-live0.dna.qbrick.com:1935/19333-live0/push-stortinget_1/playlist.m3u8"
+                },
+                {
+                    "name": "芬兰YLE TV 1",
+                    "url": "http://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/index_2764_av-p.m3u8"
+                },
+                {
+                    "name": "芬兰YLE TV 2",
+                    "url": "http://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/index_2764_av-p.m3u8"
+                },
+                {
+                    "name": "瑞典Kanal 10",
+                    "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/playlist.m3u8"
+                },
+                {
+                    "name": "比利时Radio Contact 102.2 FM Brussels",
+                    "url": "http://contact-lh.akamaihd.net/i/CONTACT_1@321283/master.m3u8"
+                },
+                {
+                    "name": "比利时RTL-TVI",
+                    "url": "http://rtltvi-lh.akamaihd.net/i/TVI_1@319659/master.m3u8"
+                },
+                {
+                    "name": "喀麦隆 Vision 4",
+                    "url": "http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8"
+                },
+                {
+                    "name": "瑞士Tele M1",
+                    "url": "http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_ljzy3evp/sd/10000/t/nwOKUovT2mwnA8x_KnC4zg/index-s32.m3u8"
+                },
+                {
+                    "name": "瑞士TeleBarn",
+                    "url": "http://klive-a.akamaihd.net/dc-1/live/hls/p/1719221/e/1_0mc3z57p/t/gaudIWTPWrpJe6yJmHI9vA/index-s32.m3u8"
+                },
+                {
+                    "name": "拉丁美洲CGTN",
+                    "url": "http://livees.cgtn.com/1000e/prog_index.m3u8"
+                },
+                {
+                    "name": "拉丁美洲Cuenca Vision",
+                    "url": "http://wceatv1.srfms.com:2177/live/livestream/playlist.m3u8"
+                },
+                {
+                    "name": "拉丁美洲La Mega Mundial",
+                    "url": "http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8"
+                },
+                {
+                    "name": "拉丁美洲TV Marti",
+                    "url": "http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8"
+                },
+                {
+                    "name": "墨西哥Aprende TV Mexico City",
+                    "url": "http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8"
+                },
+                {
+                    "name": "墨西哥Canal 10 Chiapas",
+                    "url": "http://klive-a.akamaihd.net/dc-0/live/hls/p/290412/e/0_es0kdjdz/sd/10000/t/bj1DqoE8O0tNhHgd6BvqXQ/index-s32.m3u8"
+                },
+                {
+                    "name": "墨西哥Capital 21 Mexico City",
+                    "url": "http://wowzaprod158-i.akamaihd.net/hls/live/595142/a9251b55/playlist.m3u8?set-akamai-hls-revision=5&set-cc-attribute=cc"
+                },
+                {
+                    "name": "墨西哥Ingenio TV Mexico City",
+                    "url": "http://live10.cdnmedia.tv/dgtvelive/smil:ingen30.smil/playlist.m3u8"
+                },
+                {
+                    "name": "墨西哥Milenio TV",
+                    "url": "http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8"
+                },
+                {
+                    "name": "墨西哥Teleformula (New)",
+                    "url": "http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8"
+                },
+                {
+                    "name": "墨西哥Uno TV (VOD)",
+                    "url": "http://ooyalahd2-f.akamaihd.net/i/UnoTV01_delivery@122640/master.m3u8"
+                },
+                {
+                    "name": "阿根廷Canal 3 Pinamar",
+                    "url": "http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8"
+                },
+                {
+                    "name": "阿根廷Canal 4 Posadas",
+                    "url": "http://184.154.28.210:1935/canal4/canal4/live.m3u8"
+                },
+                {
+                    "name": "阿根廷Canal Local Olavarria",
+                    "url": "http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8"
+                },
+                {
+                    "name": "阿根廷Canal Provincial San Miguel",
+                    "url": "http://www.trimi.com.ar/provincial/streaming/mystream.m3u8"
+                },
+                {
+                    "name": "阿根廷Garage TV",
+                    "url": "http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8"
+                },
+                {
+                    "name": "阿根廷Radio TV Neuquen",
+                    "url": "http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8"
+                },
+                {
+                    "name": "智利Chilevision",
+                    "url": "http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8"
+                },
+                {
+                    "name": "厄瓜多尔Ecuavisa SD",
+                    "url": "http://elcanaldelfutbol.com/static/wowza/test/hls/20001/480p/playlist.m3u8"
+                },
+                {
+                    "name": "厄瓜多尔Canela TV",
+                    "url": "http://servicioamerica.com:1935/8200/8200/playlist.m3u8"
+                },
+                {
+                    "name": "厄瓜多尔TC HD",
+                    "url": "http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8"
+                },
+                {
+                    "name": "哥伦比亚Canal CNC Medellin",
+                    "url": "http://streaming.canalcncmedellin.com/hls-live/livepkgr/_definst_/liveevent/canalcnc.m3u8"
+                },
+                {
+                    "name": "秘鲁Antares TV",
+                    "url": "http://173.192.105.252:1935/iptvantares/liveantarestv/playlist.m3u8"
+                },
+                {
+                    "name": "秘鲁Mega TV Araquipa",
+                    "url": "http://play.hostreamperu.com:1935/8016/8016/playlist.m3u8"
+                },
+                {
+                    "name": "秘鲁Monterrico TV",
+                    "url": "http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8"
+                },
+                {
+                    "name": "秘鲁RBC TV",
+                    "url": "http://184.154.28.210:1935/rbc-tv/rbc-tv/playlist.m3u8"
+                },
+                {
+                    "name": "乌拉圭 Canal M",
+                    "url": "http://wowza.montevideo.com.uy:1936/live/_definst_/mvdstrem/chunklist_w1488231185.m3u8"
+                },
+                {
+                    "name": "哥斯达黎加 Extrema TV",
+                    "url": "http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8"
+                },
+                {
+                    "name": "哥斯达黎加 Telered",
+                    "url": "http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8"
+                },
+                {
+                    "name": "哥斯达黎加 Telesur",
+                    "url": "http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8"
+                },
+                {
+                    "name": "哥斯达黎加 TeleUno TV",
+                    "url": "http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8"
+                },
+                {
+                    "name": "罗马尼亚Cromtel TV",
+                    "url": "http://webmobile.xdev.ro:81/tv7/playlist.m3u8?time=1463062060161"
+                },
+                {
+                    "name": "罗马尼亚Iasi TV Life",
+                    "url": "http://webmobile.xdev.ro:81/tv24/playlist.m3u8?time=1464028219168"
+                },
+                {
+                    "name": "罗马尼亚Informatia TV",
+                    "url": "http://s1.streamnet.ro:8014/stream.flv"
+                },
+                {
+                    "name": "罗马尼亚STV",
+                    "url": "http://s2.streamnet.ro:8035/stream.flv"
+                },
+                {
+                    "name": "罗马尼亚TV Kit",
+                    "url": "http://webmobile.xdev.ro:81/tv9/playlist.m3u8"
+                },
+                {
+                    "name": "摩尔多瓦Acasa TV",
+                    "url": "http://hls.protv.md/acasatv/acasatv.m3u8"
+                },
+                {
+                    "name": "摩尔多瓦NTV",
+                    "url": "http://93.115.137.166/hls/ntvm.m3u8"
+                },
+                {
+                    "name": "摩尔多瓦Pro TV",
+                    "url": "http://hls.protv.md/hls/protv.m3u8"
+                },
+                {
+                    "name": "摩尔多瓦Publika TV",
+                    "url": "http://livebeta.publika.md/LIVE/P/6810.m3u8"
+                },
+                {
+                    "name": "摩尔多瓦Tele M",
+                    "url": "http://webmobile.xdev.ro:81/tv16/playlist.m3u8"
+                },
+                {
+                    "name": "阿尔巴尼亚Report-TV",
+                    "url": "http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8"
+                },
+                {
+                    "name": "塞尔维亚 Duga TV",
+                    "url": "http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8"
+                },
+                {
+                    "name": "波斯尼亚 777 TehnikaTV",
+                    "url": "http://109.123.70.27:1935/tehnikatv777/tehnikatv777/playlist.m3u8"
+                },
+                {
+                    "name": "波斯尼亚 Al Jazeera Balkans",
+                    "url": "http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8"
+                },
+                {
+                    "name": "波斯尼亚 BN TV",
+                    "url": "http://tvstream.rtvbn.com:1935/live/stream/chunklist_w1957700324.m3u8"
+                },
+                {
+                    "name": "波斯尼亚 Televizija 5",
+                    "url": "http://37.59.21.217:8809/live/tv5web.m3u8"
+                },
+                {
+                    "name": "马其顿 Sky Folk TV",
+                    "url": "http://skyfolk.mk/live.m3u8"
+                },
+                {
+                    "name": "乌克兰100% News",
+                    "url": "http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8"
+                },
+                {
+                    "name": "乌克兰Lale",
+                    "url": "http://stream.atr.ua/lale//live/index.m3u8"
+                },
+                {
+                    "name": "乌克兰M2",
+                    "url": "http://live.m2.tv/hls/stream.m3u8"
+                },
+                {
+                    "name": "捷克Retro (Opt-1)",
+                    "url": "http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8"
+                },
+                {
+                    "name": "捷克Tuty TV",
+                    "url": "http://stream.mediawork.cz/tuty/tutytv/playlist.m3u8"
+                },
+                {
+                    "name": "斯洛伐克TV 8",
+                    "url": "http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/chunklist_w974670813.m3u8"
+                },
+                {
+                    "name": "斯洛伐克TVNZ",
+                    "url": "http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8"
+                },
+                {
+                    "name": "拉脱维亚Chau TV",
+                    "url": "http://video.chaula.tv/hls/live/high/playlist_high.m3u8"
+                },
+                {
+                    "name": "拉脱维亚RETV",
+                    "url": "http://edge-telia1.tiesraides.lv/live/retv.lv.1_1/playlist_b1825196.m3u8"
+                },
+                {
+                    "name": "拉脱维亚TV Net",
+                    "url": "http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8"
+                },
+                {
+                    "name": "希腊Cannali TV",
+                    "url": "http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8"
+                },
+                {
+                    "name": "希腊Fox TV",
+                    "url": "http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8"
+                },
+                {
+                    "name": "希腊Ionian Channel",
+                    "url": "http://stream.ioniantv.gr:8081/ionian/live/playlist.m3u8"
+                },
+                {
+                    "name": "希腊Life Kids Network",
+                    "url": "http://live.streams.ovh:1935/LIFEHD/LIFEHD/playlist.m3u8"
+                },
+                {
+                    "name": "希腊NETV (CA)",
+                    "url": "http://live.netvtoronto.com:1935/NetvToronto/NetvToronto/playlist.m3u8"
+                },
+                {
+                    "name": "塞浦路斯Sigma TV (Greek)",
+                    "url": "http://81.21.47.74/hls/live.m3u8"
+                },
+                {
+                    "name": "土耳其AKSU TV",
+                    "url": "http://stream.taksimbilisim.com:1935/aksutv/smil:aksutv.smil/playlist.m3u8"
+                },
+                {
+                    "name": "土耳其Cay TV",
+                    "url": "http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8"
+                },
+                {
+                    "name": "土耳其CNN Turk",
+                    "url": "http://media.netd.com.tr/S1/HLS_LIVE/cnn_turk/1000/prog_index.m3u8"
+                },
+                {
+                    "name": "土耳其Dream TV",
+                    "url": "http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8"
+                },
+                {
+                    "name": "土耳其Dreamturk TV",
+                    "url": "http://live.netd.com.tr/S1/HLS_LIVE/dreamturktv/1000/prog_index.m3u8"
+                },
+                {
+                    "name": "土耳其Kanal D",
+                    "url": "http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8"
+                },
+                {
+                    "name": "土耳其Meclis TV",
+                    "url": "http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT 1",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT Avaz",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT Cocuk",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT Haber",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT Muzik",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT Okul",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8"
+                },
+                {
+                    "name": "土耳其TRT Turk",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8"
+                },
+                {
+                    "name": "阿塞拜疆CBC Sport",
+                    "url": "http://s69362.cdn.ngenix.net/live/_definst_/Stream1/chunklist.m3u8"
+                },
+                {
+                    "name": "库尔德斯坦TRT Kurdi",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8"
+                },
+                {
+                    "name": "以色列Knesset Channel",
+                    "url": "http://w3.013.gostreaming.tv:1935/Knesset/myStream/playlist.m3u8"
+                },
+                {
+                    "name": "印度ABP Asmita",
+                    "url": "http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8"
+                },
+                {
+                    "name": "印度Bloomberg India",
+                    "url": "http://bloomtv.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/bloomtv/live/feed01/playlist.m3u8"
+                },
+                {
+                    "name": "印度DD News",
+                    "url": "http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8"
+                },
+                {
+                    "name": "印度JK 24x7 News",
+                    "url": "http://edge-ind.inapcdn.in:1935/device2/camera2.stream/playlist.m3u8"
+                },
+                {
+                    "name": "印度Lok Sabha TV",
+                    "url": "http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8"
+                },
+                {
+                    "name": "印度NDTV",
+                    "url": "http://ndtvstream-lh.akamaihd.net/i/ndtv_india_1@300634/index_736_av-b.m3u8"
+                },
+                {
+                    "name": "印度NDTV 24x7",
+                    "url": "http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8"
+                },
+                {
+                    "name": "印度PBN Music (USA)",
+                    "url": "http://live.wmncdn.net/pbnmusic/b437d1e185b4c95b08b9c830a9d97cff.sdp/playlist.m3u8"
+                },
+                {
+                    "name": "印度Rajya Sabha TV",
+                    "url": "http://nicls2-lh.akamaihd.net/i/rstv_1@26970/master.m3u8"
+                },
+                {
+                    "name": "印度Zoom",
+                    "url": "http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8"
+                },
+                {
+                    "name": "巴基斯坦Eye 95 TV (US)",
+                    "url": "http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8"
+                },
+                {
+                    "name": "巴基斯坦Lahore News",
+                    "url": "http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8"
+                },
+                {
+                    "name": "伊朗BBC",
+                    "url": "http://bbcwshdlive01-lh.akamaihd.net/i/ptv_1@78015/master.m3u8"
+                },
+                {
+                    "name": "伊朗Omid-e-Iran OITN",
+                    "url": "http://66.160.192.250:8080/oitn.tvboxhd.com/high/798536241/tracks-v1a1/index.m3u8"
+                },
+                {
+                    "name": "伊朗PBC Tapesh TV",
+                    "url": "http://iptv.tapesh.tv/tapesh/playlist.m3u8"
+                },
+                {
+                    "name": "伊朗Radio Javan",
+                    "url": "http://198.98.181.244/live/smil:rjtv.smil/playlist.m3u8"
+                },
+                {
+                    "name": "伊朗Rangarang TV",
+                    "url": "http://iptv.rangarang.us/live/playlist.m3u8"
+                },
+                {
+                    "name": "伊朗Tin TV",
+                    "url": "http://66.160.192.250:8080/afn-TVBOXHD.COM/afn/tracks-v1a1/index.m3u8"
+                },
+                {
+                    "name": "阿拉伯半岛电视新闻网Al Hurra",
+                    "url": "http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8"
+                },
+                {
+                    "name": "阿拉伯半岛电视新闻网(Opt-2)",
+                    "url": "http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8"
+                },
+                {
+                    "name": "阿拉伯半岛电视新闻网CGTN",
+                    "url": "http://live.cgtn.com/1000a/prog_index.m3u8"
+                },
+                {
+                    "name": "阿拉伯半岛电视新闻网Deutsche Welle",
+                    "url": "http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8"
+                },
+                {
+                    "name": "阿拉伯半岛电视新闻网TRT",
+                    "url": "http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8"
+                },
+                {
+                    "name": "阿拉伯半岛电视台",
+                    "url": "http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8"
+                },
+                {
+                    "name": "黎巴嫩Al Manar",
+                    "url": "http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8"
+                },
+                {
+                    "name": "叙利亚ANN",
+                    "url": "http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8"
+                },
+                {
+                    "name": "伊拉克 Al Sharqiya",
+                    "url": "http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8"
+                },
+                {
+                    "name": "伊拉克 Sharqiya News",
+                    "url": "http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8"
+                },
+                {
+                    "name": "沙特阿拉伯Masdar TV",
+                    "url": "http://streamer12.elementssys.com:8080/SAUDI-Channels/MASDAR_TV/index.m3u8"
+                },
+                {
+                    "name": "阿拉伯联合酋长国Abu Dhabi Sports 2 HD (Opt-2)",
+                    "url": "http://adtv.ercdn.net/adsport2/adsport2.m3u8"
+                },
+                {
+                    "name": "阿拉伯联合酋长国Abu Dhabi Sports 2 HD (Opt-3)",
+                    "url": "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8"
+                },
+                {
+                    "name": "阿拉伯联合酋长国Al Arabiya",
+                    "url": "http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa"
+                },
+                {
+                    "name": "阿拉伯联合酋长国Dubai One",
+                    "url": "http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione"
+                },
+                {
+                    "name": "卡塔尔 Al Kass Sports 3",
+                    "url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3"
+                },
+                {
+                    "name": "卡塔尔 Al Kass Sports 4",
+                    "url": "http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4"
+                },
+                {
+                    "name": "摩洛哥Al Aoula International",
+                    "url": "http://cdn-hls.globecast.tv/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8"
+                },
+                {
+                    "name": "摩洛哥Arryadia",
+                    "url": "http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+                },
+                {
+                    "name": "摩洛哥Al Maghribia",
+                    "url": "http://cdn-hls.globecast.tv/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8"
+                },
+                {
+                    "name": "加纳TV Africa (Ghana)",
+                    "url": "http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8"
+                },
+                {
+                    "name": "战旗影视 42",
+                    "url": "http://alhls.cdn.zhanqi.tv/zqlive/41832_NfsIa.m3u8"
+                },
+                {
+                    "name": "富立",
+                    "url": "http://61.216.177.73/sta/ch1865022.m3u8"
+                },
+                {
+                    "name": "YOYOTV",
+                    "url": "http://live.italkdd.com/cds160/hls/channel025/channel025_2000.m3u8"
+                },
+                {
+                    "name": "纬来综合",
+                    "url": "http://60.250.69.26:8080/live/vl89.m3u8"
+                },
+                {
+                    "name": "纬来日本台",
+                    "url": "http://60.250.69.26:8080/live/vljp89.m3u8"
+                },
+                {
+                    "name": "纬来体育",
+                    "url": "http://60.250.69.26:8080/live/vlsports89.m3u8"
+                },
+                {
+                    "name": "中天娱乐",
+                    "url": "http://60.250.69.26:8080/live/ctihappy89.m3u8"
+                },
+                {
+                    "name": "天空新闻",
+                    "url": "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8"
+                },
+                {
+                    "name": "皇马足球台",
+                    "url": "http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8"
+                },
+                {
+                    "name": "STLHD",
+                    "url": "http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8"
+                },
+                {
+                    "name": "高清时装台WFC",
+                    "url": "http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8"
+                },
+                {
+                    "name": "加州音悦台",
+                    "url": "http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/chunklist.m3u8"
+                },
+                {
+                    "name": "TRAVEL HD",
+                    "url": "http://31.13.223.104:1935/travel/community.stream/playlist.m3u8"
+                },
+                {
+                    "name": "MOTO",
+                    "url": "http://mysisli.com/md2/all-fail-compilation/tracks-v1a1/mono.m3u8"
+                },
+                {
+                    "name": "民视新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel012/channel012_2000.m3u8"
+                },
+                {
+                    "name": "民视新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel012/channel012.m3u8"
+                },
+                {
+                    "name": "台视新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel006/channel006_2000.m3u8"
+                },
+                {
+                    "name": "台视新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel011/channel011_2000.m3u8"
+                },
+                {
+                    "name": "壹新闻",
+                    "url": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8"
+                },
+                {
+                    "name": "壹新闻",
+                    "url": "http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8"
+                },
+                {
+                    "name": "东森新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel019/channel019.m3u8"
+                },
+                {
+                    "name": "华视新闻",
+                    "url": "http://live.italkdd.com/cds160/hls/channel005/channel005.m3u8"
+                },
+                {
+                    "name": "星卫电影台HD",
+                    "url": "http://liteavapp.qcloud.com/live/3891_xwdyhd.m3u8"
+                },
+                {
+                    "name": "美亚电影台HD",
+                    "url": "http://liteavapp.qcloud.com/live/3891_mydyhd.m3u8"
+                },
+                {
+                    "name": "翡翠台1080P",
+                    "url": "http://wssource.hls.inke.cn/live/1550484213952608/playlist.m3u8"
+                }
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "9300电影",
+            "url": "http://zb.9300tv.com/index.php?m=download&a=index&id=106",
+            "rule": "ul&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "9300港台国外",
+            "url": "http://zb.9300tv.com/index.php?m=download&a=index&id=107",
+            "rule": "ul&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "9300央视",
+            "url": "http://zb.9300tv.com/index.php?m=download&a=index&id=67",
+            "rule": "ul&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "9300卫视",
+            "url": "http://zb.9300tv.com/index.php?m=download&a=index&id=68",
+            "rule": "ul&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "央视频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&op=%E5%A4%AE%E8%A7%86%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "卫视频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&op=%E5%8D%AB%E8%A7%86%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "港台频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E6%B8%AF%E5%8F%B0%E9%A2%91%E9%81%93&op=%E6%B8%AF%E5%8F%B0%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "影视频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&op=%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "少儿频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&op=%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "体育频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&op=%E4%BD%93%E8%82%B2%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "音乐频道",
+            "url": "http://yun.shagedu.com/app/index.php?i=2&c=entry&fenlei=%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93&op=%E9%9F%B3%E4%B9%90%E9%A2%91%E9%81%93&do=index_list&m=ruite_tvzb",
+            "rule": ".mui-table-view&&.mui-table-view-cell;a&&Text;a&&href"
+        },
+        {
+            "name": "百视体育",
+            "url": "http://v.baitv.com/channel/",
+            "rule": ".channel-list&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "百视央视",
+            "url": "http://v.baitv.com/channel/",
+            "rule": ".channel-list,1&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "百视卫视",
+            "url": "http://v.baitv.com/channel/",
+            "rule": ".channel-lis,2&&li;a&&Text;a&&href"
+        },
+        {
+            "name": "内地台",
+            "url": "http://m.shiting5.com/tv/cn/",
+            "rule": ".list-box&&li;Text;a&&href"
+        }
+    ]
+}
