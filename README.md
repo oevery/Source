@@ -30,8 +30,8 @@
 | [企鹅电竞 JS 插件](fangyuan/rules/js/m.egame.qq.com.js) | 2019-06-10 |
 | [虎牙直播 JS 插件](fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
 | [百度网盘 JS 插件](fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
-| [解析插件](fangyuan/rules/js/global.js)                 | 2019-05-25 |
-| [合集（zip）](fangyuan/rules.zip)                       | 2019-06-14 |
+| [解析插件](fangyuan/rules/js/global.js)                 | 2019-06-16 |
+| [合集（zip）](fangyuan/rules.zip)                       | 2019-06-16 |
 
 使用说明：
 
