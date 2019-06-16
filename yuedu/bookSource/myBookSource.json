@@ -1,7 +1,7 @@
 [
   {
-    "bookSourceGroup": "",
-    "bookSourceName": "邪琉璃神社（18禁）",
+    "bookSourceGroup": "18禁",
+    "bookSourceName": "邪琉璃神社",
     "bookSourceType": "",
     "bookSourceUrl": "http://m.che43.com",
     "enable": true,
@@ -112,8 +112,8 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "",
-    "bookSourceName": "nhentai漫画（18禁）",
+    "bookSourceGroup": "18禁",
+    "bookSourceName": "nhentai漫画",
     "bookSourceType": "",
     "bookSourceUrl": "https://nhentai.net",
     "enable": true,
@@ -1251,8 +1251,8 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "",
-    "bookSourceName": "邪恶集（18禁）",
+    "bookSourceGroup": "18禁",
+    "bookSourceName": "邪恶集",
     "bookSourceType": "",
     "bookSourceUrl": "http://m.zwenquan.com",
     "enable": true,
@@ -20221,8 +20221,8 @@
     "weight": 0
   },
   {
-    "bookSourceGroup": "失效",
-    "bookSourceName": "绅士漫画（18禁）",
+    "bookSourceGroup": "失效; 18禁",
+    "bookSourceName": "绅士漫画",
     "bookSourceType": "",
     "bookSourceUrl": "https://www.wnacg.org",
     "enable": true,

@@ -1,8 +1,6 @@
 # Source
 
-**建议访问 [网页](https://moonbegonia.github.io/Source/) 导入或者自行转为外链**
-
-每周六晚九点更新
+不定时更新
 
 ## 阅读 App 书源
 
@@ -14,21 +12,21 @@
 
 源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼、[qa455355](https://raw.githubusercontent.com/adhu2018/001/master/qa455355.txt)。
 
-原书源修改时间：2019-6-16 19:04:15
+原书源修改时间：2019-6-16 19:35:57
 
-书源分类时间：2019-6-16 19:21:23
+书源分类时间：2019-6-16 19:38:49
 
 | 文件名                                         | 数目 |
 | ---------------------------------------------- | ---- |
 | [失效](/yuedu/invalid.json)                    | 572  |
 | [正版](/yuedu/genuine.json)                    | 4    |
-| [18禁](/yuedu/R18.json)                        | 14   |
+| [18禁](/yuedu/R18.json)                        | 17   |
 | [有声](/yuedu/audio.json)                      | 3    |
 | [发现](/yuedu/discover.json)                   | 89   |
 | [xpath、json、正则](/yuedu/special.json)       | 21   |
 | [优](/yuedu/highQuality.json)                  | 112  |
-| [其他](/yuedu/others.json)                     | 359  |
-| [有效书源NOR18](/yuedu/fullNOR18.json)         | 588  |
+| [其他](/yuedu/others.json)                     | 356  |
+| [有效书源NOR18](/yuedu/fullNOR18.json)         | 585  |
 | [有效书源](/yuedu/full.json)                   | 602  |
 | [总书源](/yuedu/fullSourceIncludeInvalid.json) | 1174 |
 
