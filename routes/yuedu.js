@@ -76,7 +76,7 @@ module.exports = async () => {
 |[发现](/yuedu/discover.json)|${discover.length}|
 |[xpath、json、正则](/yuedu/special.json)|${special.length}|
 |[优](/yuedu/highQuality.json)|${highQuality.length}|
-|[待分类](/yuedu/others.json)|${others.length}|
+|[其他](/yuedu/others.json)|${others.length}|
 |[有效书源NOR18](/yuedu/fullNOR18.json)|${fullNOR18.length}|
 |[有效书源](/yuedu/full.json)|${full.length}|
 |[总书源](/yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`)
