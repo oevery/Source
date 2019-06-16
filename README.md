@@ -41,23 +41,23 @@
 
 ## 分类情况
 
-原书源修改时间：2019-6-14 14:14:56
+原书源修改时间：2019-6-16 19:04:15
 
-书源分类时间：2019-6-14 14:15:55
+书源分类时间：2019-6-16 19:21:23
 
 | 文件名                                         | 数目 |
 | ---------------------------------------------- | ---- |
-| [失效](/yuedu/invalid.json)                    | 571  |
-| [正版](/yuedu/genuine.json)                    | 5    |
-| [发现](/yuedu/discover.json)                   | 68   |
-| [18 禁](/yuedu/R18.json)                       | 14   |
-| [xpath、json、正则](/yuedu/special.json)       | 15   |
-| [优](/yuedu/highQuality.json)                  | 114  |
-| [普通](/yuedu/general.json)                    | 166  |
-| [待分类](/yuedu/others.json)                   | 163  |
-| [有效书源 NOR18](/yuedu/fullNOR18.json)        | 531  |
-| [有效书源](/yuedu/full.json)                   | 545  |
-| [总书源](/yuedu/fullSourceIncludeInvalid.json) | 1101 |
+| [失效](/yuedu/invalid.json)                    | 572  |
+| [正版](/yuedu/genuine.json)                    | 4    |
+| [18禁](/yuedu/R18.json)                        | 14   |
+| [有声](/yuedu/audio.json)                      | 3    |
+| [发现](/yuedu/discover.json)                   | 89   |
+| [xpath、json、正则](/yuedu/special.json)       | 21   |
+| [优](/yuedu/highQuality.json)                  | 112  |
+| [待分类](/yuedu/others.json)                   | 359  |
+| [有效书源NOR18](/yuedu/fullNOR18.json)         | 588  |
+| [有效书源](/yuedu/full.json)                   | 602  |
+| [总书源](/yuedu/fullSourceIncludeInvalid.json) | 1174 |
 
 原视频源修改时间：2019-6-14 14:02:47
 
