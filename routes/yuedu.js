@@ -18,26 +18,28 @@ module.exports = async () => {
   let audio = []; //有声
   let discover = []; //发现
   let highQuality = []; //优
-  let special = []; //xpath、json、正则
+  let special = []; //xpath、json、正则、css、出版
   let others = []; //待分类
   let full = []; //有效源
   let fullNOR18 = []; //有效源,没有18禁
   let fullIncludeInvalid = [];
   source.map(async (item) => {
     const group = item.bookSourceGroup !== undefined ? item.bookSourceGroup.toString() : '';
-    if (group.includes('失效')) {
+    const name = item.bookSourceName.toString();
+    if(name.search(/漫|邪|社|本子/) !== -1) {
+    } else if (group.includes('失效')) {
       invalid.push(item);
+    } else if (item.bookSourceType === 'AUDIO') {
+      audio.push(item);
     } else if (group.includes('正版')) {
       genuine.push(item);
-    } else if (group.includes('18禁')) {
+    } else if ((group + name).search(/18禁|腐|🔞/) !== -1) {
       item.bookSourceGroup = '18禁';
       r18.push(item);
-    } else if (group.search(/有声/i) != -1) {
-      audio.push(item);
     } else if (group.includes('发现')) {
-      group.search(/优|有声|JSON|JSon|XPath|正则/i) !== -1 ? item.bookSourceGroup : item.bookSourceGroup = '发现';
+      group.search(/优|css|json|xpath|正则/i) !== -1 ? item.bookSourceGroup : item.bookSourceGroup = '发现';
       discover.push(item);
-    } else if (group.search(/JSON|JSon|XPath|正则/i) != -1) {
+    } else if (group.search(/css|json|xpath|正则|出版/i) !== -1) {
       special.push(item);
     } else if (group.includes('优')) {
       item.bookSourceGroup = '优';
@@ -74,7 +76,7 @@ module.exports = async () => {
 |[18禁](/yuedu/R18.json)|${r18.length}|
 |[有声](/yuedu/audio.json)|${audio.length}|
 |[发现](/yuedu/discover.json)|${discover.length}|
-|[xpath、json、正则](/yuedu/special.json)|${special.length}|
+|[xpath、json、CSS、正则、出版](/yuedu/special.json)|${special.length}|
 |[优](/yuedu/highQuality.json)|${highQuality.length}|
 |[其他](/yuedu/others.json)|${others.length}|
 |[有效书源NOR18](/yuedu/fullNOR18.json)|${fullNOR18.length}|
