@@ -8,45 +8,45 @@
 
 源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼、[qa455355](https://raw.githubusercontent.com/adhu2018/001/master/qa455355.txt)。
 
-原书源修改时间：2019-6-16 19:35:57
+原书源修改时间：2019-6-22 13:58:40
 
-书源分类时间：2019-6-16 19:38:49
+书源分类时间：2019-6-22 14:42:19
 
-| 文件名                                         | 数目 |
-| ---------------------------------------------- | ---- |
-| [失效](/yuedu/invalid.json)                    | 572  |
-| [正版](/yuedu/genuine.json)                    | 4    |
-| [18禁](/yuedu/R18.json)                        | 17   |
-| [有声](/yuedu/audio.json)                      | 3    |
-| [发现](/yuedu/discover.json)                   | 89   |
-| [xpath、json、正则](/yuedu/special.json)       | 21   |
-| [优](/yuedu/highQuality.json)                  | 112  |
-| [其他](/yuedu/others.json)                     | 356  |
-| [有效书源NOR18](/yuedu/fullNOR18.json)         | 585  |
-| [有效书源](/yuedu/full.json)                   | 602  |
-| [总书源](/yuedu/fullSourceIncludeInvalid.json) | 1174 |
+| 文件名                                              | 数目 |
+| --------------------------------------------------- | ---- |
+| [失效](/yuedu/invalid.json)                         | 737  |
+| [正版](/yuedu/genuine.json)                         | 13   |
+| [18禁](/yuedu/R18.json)                             | 16   |
+| [有声](/yuedu/audio.json)                           | 36   |
+| [发现](/yuedu/discover.json)                        | 79   |
+| [xpath、json、CSS、正则、出版](/yuedu/special.json) | 45   |
+| [优](/yuedu/highQuality.json)                       | 226  |
+| [其他](/yuedu/others.json)                          | 487  |
+| [有效书源NOR18](/yuedu/fullNOR18.json)              | 886  |
+| [有效书源](/yuedu/full.json)                        | 902  |
+| [总书源](/yuedu/fullSourceIncludeInvalid.json)      | 1639 |
 
-## 新方圆影视 视频源
+## 新方圆浏览器
 
 下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](fangyuan/新方圆浏览器_V5.19.0607.00.zip)
 
 ### 视频源
 
-原视频源修改时间：2019-6-14 14:02:47
+原视频源修改时间：2019-6-22 14:42:01
 
-视频源分类时间：2019-6-14 14:15:55
+视频源分类时间：2019-6-22 14:42:19
 
 | 文件名                                             | 数目 |
 | -------------------------------------------------- | ---- |
-| [失效](/fangyuan/invalid.json)                     | 16   |
-| [无法访问](/fangyuan/inaccessible.json)            | 266  |
-| [满分](/fangyuan/fullScore.json)                   | 38   |
-| [优](/fangyuan/highQuality.json)                   | 34   |
-| [免解析/嗅探](/fangyuan/notDetect.json)            | 60   |
-| [其他（动漫/磁力/韩剧...）](/fangyuan/others.json) | 40   |
-| [空白组](/fangyuan/emptyGroup.json)                | 459  |
-| [有效视频源](/fangyuan/full.json)                  | 631  |
-| [总视频源](/fangyuan/videoSource/videoRule.json)   | 913  |
+| [失效](/fangyuan/invalid.json)                     | 15   |
+| [无法访问](/fangyuan/inaccessible.json)            | 312  |
+| [满分](/fangyuan/fullScore.json)                   | 36   |
+| [优](/fangyuan/highQuality.json)                   | 32   |
+| [免解析/嗅探](/fangyuan/notDetect.json)            | 65   |
+| [其他（动漫/磁力/韩剧...）](/fangyuan/others.json) | 39   |
+| [空白组](/fangyuan/emptyGroup.json)                | 444  |
+| [有效视频源](/fangyuan/full.json)                  | 616  |
+| [总视频源](/fangyuan/videoSource/videoRule.json)   | 943  |
 
 ### 其他规则
 
@@ -62,8 +62,8 @@
 | [企鹅电竞 JS 插件](fangyuan/rules/js/m.egame.qq.com.js) | 2019-06-10 |
 | [虎牙直播 JS 插件](fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
 | [百度网盘 JS 插件](fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
-| [解析插件](fangyuan/rules/js/global.js)                 | 2019-06-16 |
-| [合集（zip）](fangyuan/rules.zip)                       | 2019-06-16 |
+| [解析插件](fangyuan/rules/js/global.js)                 | 2019-06-22 |
+| [合集（zip）](fangyuan/rules.zip)                       | 2019-06-22 |
 
 使用说明：
 
