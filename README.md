@@ -34,19 +34,21 @@
 
 原视频源修改时间：2019-6-22 14:42:01
 
-视频源分类时间：2019-6-22 14:42:19
+视频源分类时间：2019-6-24 15:32:45
 
-| 文件名                                             | 数目 |
-| -------------------------------------------------- | ---- |
-| [失效](/fangyuan/invalid.json)                     | 15   |
-| [无法访问](/fangyuan/inaccessible.json)            | 312  |
-| [满分](/fangyuan/fullScore.json)                   | 36   |
-| [优](/fangyuan/highQuality.json)                   | 32   |
-| [免解析/嗅探](/fangyuan/notDetect.json)            | 65   |
-| [其他（动漫/磁力/韩剧...）](/fangyuan/others.json) | 39   |
-| [空白组](/fangyuan/emptyGroup.json)                | 444  |
-| [有效视频源](/fangyuan/full.json)                  | 616  |
-| [总视频源](/fangyuan/videoSource/videoRule.json)   | 943  |
+| 文件名                                                           | 数目 |
+| ---------------------------------------------------------------- | ---- |
+| [失效](/fangyuan/invalid.json)                                   | 15   |
+| [无法访问](/fangyuan/inaccessible.json)                          | 312  |
+| [满分](/fangyuan/fullScore.json)                                 | 36   |
+| [优](/fangyuan/highQuality.json)                                 | 21   |
+| [免解析/嗅探](/fangyuan/notDetect.json)                          | 65   |
+| [动漫/磁力/下载/韩剧](/fangyuan/akmd.json)                       | 28   |
+| [简介评论/差/网盘/爱优酷腾/综合](/fangyuan/others.json)          | 19   |
+| [空白组](/fangyuan/emptyGroup.json)                              | 447  |
+| [满分/免嗅探/免解析/动漫/磁力/下载/韩剧](/fangyuan/general.json) | 129  |
+| [有效视频源](/fangyuan/full.json)                                | 616  |
+| [总视频源](/fangyuan/videoSource/videoRule.json)                 | 943  |
 
 ### 其他规则
 
@@ -63,7 +65,7 @@
 | [虎牙直播 JS 插件](fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
 | [百度网盘 JS 插件](fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
 | [解析插件](fangyuan/rules/js/global.js)                 | 2019-06-22 |
-| [合集（zip）](fangyuan/rules/rules.zip)                       | 2019-06-22 |
+| [合集（zip）](fangyuan/rules/rules.zip)                 | 2019-06-22 |
 
 使用说明：
 
