@@ -34,7 +34,7 @@ module.exports = async () => {
       highQuality.push(item);
     } else if (group.search(/免解析|免嗅探/) !== -1) {
       notDetect.push(item);
-    } else if (group.search(/（动漫|（磁力|（下载|（韩剧/) !== -1) {
+    } else if (group.search(/（动漫|（磁力|（下载|（韩剧|（韩美剧|资源/) !== -1) {
       akmd.push(item);
     } else if (group.includes('（')) {
       others.push(item);
@@ -67,10 +67,10 @@ module.exports = async () => {
 |[满分](/fangyuan/fullScore.json)|${fullScore.length}|
 |[优](/fangyuan/highQuality.json)|${highQuality.length}|
 |[免解析/嗅探](/fangyuan/notDetect.json)|${notDetect.length}|
-|[动漫/磁力/下载/韩剧](/fangyuan/akmd.json)|${akmd.length}|
-|[简介评论/差/网盘/爱优酷腾/综合](/fangyuan/others.json)|${others.length}|
+|[动漫/磁力/下载/韩美剧/资源](/fangyuan/akmd.json)|${akmd.length}|
+|[简介评论/差/一般/网盘/爱优酷腾/综合/听书](/fangyuan/others.json)|${others.length}|
 |[空白组](/fangyuan/emptyGroup.json)|${emptyGroup.length}|
-|[满分/免嗅探/免解析/动漫/磁力/下载/韩剧](/fangyuan/general.json)|${general.length}|
+|[满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](/fangyuan/general.json)|${general.length}|
 |[有效视频源](/fangyuan/full.json)|${full.length}|
 |[总视频源](/fangyuan/videoSource/videoRule.json)|${source.length}|`)
 }

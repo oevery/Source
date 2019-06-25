@@ -32,23 +32,23 @@
 
 ### 视频源
 
-原视频源修改时间：2019-6-22 14:42:01
+原视频源修改时间：2019-6-25 15:05:45
 
-视频源分类时间：2019-6-24 15:32:45
+视频源分类时间：2019-6-25 15:07:01
 
-| 文件名                                                           | 数目 |
-| ---------------------------------------------------------------- | ---- |
-| [失效](/fangyuan/invalid.json)                                   | 15   |
-| [无法访问](/fangyuan/inaccessible.json)                          | 312  |
-| [满分](/fangyuan/fullScore.json)                                 | 36   |
-| [优](/fangyuan/highQuality.json)                                 | 21   |
-| [免解析、嗅探](/fangyuan/notDetect.json)                          | 65   |
-| [动漫、磁力、下载、韩剧](/fangyuan/akmd.json)                       | 28   |
-| [简介评论、差、网盘、爱优酷腾、综合](/fangyuan/others.json)          | 19   |
-| [空白组](/fangyuan/emptyGroup.json)                              | 447  |
-| [满分、免嗅探、免解析、动漫、磁力、下载、韩剧](/fangyuan/general.json) | 129  |
-| [有效视频源](/fangyuan/full.json)                                | 616  |
-| [总视频源](/fangyuan/videoSource/videoRule.json)                 | 943  |
+| 文件名                                                                  | 数目 |
+| ----------------------------------------------------------------------- | ---- |
+| [失效](/fangyuan/invalid.json)                                          | 37   |
+| [无法访问](/fangyuan/inaccessible.json)                                 | 130  |
+| [满分](/fangyuan/fullScore.json)                                        | 67   |
+| [优](/fangyuan/highQuality.json)                                        | 61   |
+| [免解析/嗅探](/fangyuan/notDetect.json)                                 | 108  |
+| [动漫/磁力/下载/韩美剧/资源](/fangyuan/akmd.json)                       | 66   |
+| [简介评论/差/一般/网盘/爱优酷腾/综合/听书](/fangyuan/others.json)       | 29   |
+| [空白组](/fangyuan/emptyGroup.json)                                     | 707  |
+| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](/fangyuan/general.json) | 241  |
+| [有效视频源](/fangyuan/full.json)                                       | 1038 |
+| [总视频源](/fangyuan/videoSource/videoRule.json)                        | 1205 |
 
 ### 其他规则
 
@@ -88,6 +88,7 @@
 视频源、规则：
 
 - <https://coding.net/u/Gold2River/p/NetRaw/git/tree/master>
+- <https://github.com/qiusunshine/movienow>
 
 图源：
 
