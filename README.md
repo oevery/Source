@@ -57,7 +57,7 @@
 | 类别                                                    | 更新时间   |
 | ------------------------------------------------------- | ---------- |
 | [首页规则](/fangyuan/rules/home.json)                   | 2019-06-11 |
-| [直播源](fangyuan/rules/tvLive.json)                    | 2019-06-14 |
+| [直播源](fangyuan/rules/tvLive.json)                    | 2019-06-27 |
 | [adBlockRules](fangyuan/rules/adBlockRule.txt)          | 2019-06-10 |
 | [哔哩哔哩 JS 插件](fangyuan/rules/js/m.bilibili.com.js) | 2019-04-11 |
 | [斗鱼直播 JS 插件](fangyuan/rules/js/m.douyu.com.js)    | 2019-06-01 |
@@ -65,7 +65,7 @@
 | [虎牙直播 JS 插件](fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
 | [百度网盘 JS 插件](fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
 | [解析插件](fangyuan/rules/js/global.js)                 | 2019-06-22 |
-| [合集（zip）](fangyuan/rules/rules.zip)                 | 2019-06-22 |
+| [合集（zip）](fangyuan/rules/rules.zip)                 | 2019-06-27 |
 
 使用说明：
 
