@@ -12,16 +12,16 @@ module.exports = async () => {
   const sourcePath = path.join(__dirname, '../yuedu/bookSource/myBookSource.json')
   let source = JSON.parse(fs.readFileSync(sourcePath));
   let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
-  let invalid = []; //失效源
-  let genuine = []; //正版
-  let r18 = []; //18禁
-  let audio = []; //有声
-  let discover = []; //发现
-  let highQuality = []; //优
-  let special = []; //xpath、json、正则、css、出版
-  let others = []; //待分类
-  let full = []; //有效源
-  let fullNOR18 = []; //有效源,没有18禁
+  let invalid = []; // 失效源
+  let genuine = []; // 正版
+  let r18 = []; // 18禁
+  let audio = []; // 有声
+  let discover = []; // 发现
+  let highQuality = []; // 优/A级/S级
+  let special = []; // xpath、json、正则、css、出版
+  let others = []; // 待分类
+  let full = []; // 有效源
+  let fullNOR18 = []; // 有效源,没有18禁
   let fullIncludeInvalid = [];
   source.map(async (item) => {
     const group = item.bookSourceGroup !== undefined ? item.bookSourceGroup.toString() : '';
@@ -41,7 +41,7 @@ module.exports = async () => {
       discover.push(item);
     } else if (group.search(/css|json|xpath|正则|出版/i) !== -1) {
       special.push(item);
-    } else if (group.includes('优')) {
+    } else if (group.search(/优|A级|S级/) !== -1) {
       item.bookSourceGroup = '优';
       highQuality.push(item);
     } else {
@@ -77,7 +77,7 @@ module.exports = async () => {
 |[有声](/yuedu/audio.json)|${audio.length}|
 |[发现](/yuedu/discover.json)|${discover.length}|
 |[xpath、json、CSS、正则、出版](/yuedu/special.json)|${special.length}|
-|[优](/yuedu/highQuality.json)|${highQuality.length}|
+|[优/A级/S级](/yuedu/highQuality.json)|${highQuality.length}|
 |[其他](/yuedu/others.json)|${others.length}|
 |[有效书源NOR18](/yuedu/fullNOR18.json)|${fullNOR18.length}|
 |[有效书源](/yuedu/full.json)|${full.length}|
