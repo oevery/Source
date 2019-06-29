@@ -1,3 +1,7 @@
+## repo RSS Feed
+
+<https://github.com/MoonBegonia/Source/commits.atom>
+
 ## 阅读 App 书源
 
 书源来自公众号 `开源阅读软件`、酷安评论区等地，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
@@ -28,27 +32,27 @@
 
 ## 新方圆浏览器
 
-下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](fangyuan/新方圆浏览器_V5.19.0607.00.zip)
+下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](fangyuan/新方圆浏览器_5.19.0628.10.zip)
 
 ### 视频源
 
-原视频源修改时间：2019-6-25 15:05:45
+原书源修改时间：2019-6-29 22:53:03
 
-视频源分类时间：2019-6-25 15:07:01
+书源分类时间：2019-6-29 22:53:15
 
-| 文件名                                                                  | 数目 |
-| ----------------------------------------------------------------------- | ---- |
-| [失效](/fangyuan/invalid.json)                                          | 37   |
-| [无法访问](/fangyuan/inaccessible.json)                                 | 130  |
-| [满分](/fangyuan/fullScore.json)                                        | 67   |
-| [优](/fangyuan/highQuality.json)                                        | 61   |
-| [免解析/嗅探](/fangyuan/notDetect.json)                                 | 108  |
-| [动漫/磁力/下载/韩美剧/资源](/fangyuan/akmd.json)                       | 66   |
-| [简介评论/差/一般/网盘/爱优酷腾/综合/听书](/fangyuan/others.json)       | 29   |
-| [空白组](/fangyuan/emptyGroup.json)                                     | 707  |
-| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](/fangyuan/general.json) | 241  |
-| [有效视频源](/fangyuan/full.json)                                       | 1038 |
-| [总视频源](/fangyuan/videoSource/videoRule.json)                        | 1205 |
+| 文件名                                              | 数目 |
+| --------------------------------------------------- | ---- |
+| [失效](/yuedu/invalid.json)                         | 736  |
+| [正版](/yuedu/genuine.json)                         | 12   |
+| [18禁](/yuedu/R18.json)                             | 21   |
+| [有声](/yuedu/audio.json)                           | 37   |
+| [发现](/yuedu/discover.json)                        | 96   |
+| [xpath、json、CSS、正则、出版](/yuedu/special.json) | 53   |
+| [优/A级/S级](/yuedu/highQuality.json)               | 218  |
+| [其他](/yuedu/others.json)                          | 491  |
+| [有效书源NOR18](/yuedu/fullNOR18.json)              | 907  |
+| [有效书源](/yuedu/full.json)                        | 928  |
+| [总书源](/yuedu/fullSourceIncludeInvalid.json)      | 1664 |
 
 ### 其他规则
 
@@ -84,6 +88,9 @@
 书源：
 
 - <https://github.com/adhu2018/001>
+- <https://gitee.com/alanskycn/yuedu>
+- <https://github.com/blackholep/blackholep.github.io>
+- <https://github.com/booksources/booksources.github.io>
 
 视频源、规则：
 
