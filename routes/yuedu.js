@@ -9,7 +9,7 @@ function write(path, result) {
 }
 
 module.exports = async () => {
-  const sourcePath = path.join(__dirname, '../yuedu/bookSource/myBookSource.json')
+  const sourcePath = path.join(__dirname, '../docs/yuedu/bookSource/myBookSource.json');
   let source = JSON.parse(fs.readFileSync(sourcePath));
   let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
   let invalid = []; // 失效源
@@ -17,53 +17,76 @@ module.exports = async () => {
   let r18 = []; // 18禁
   let audio = []; // 有声
   let discover = []; // 发现
-  let highQuality = []; // 优/A级/S级
-  let special = []; // xpath、json、正则、css、出版
-  let others = []; // 待分类
+  let highQuality = []; // 优|A级|S级|推荐|快更|精品|💯
+  let special = []; // css|json|xpath|混合|正则
+  let general = []; // 普通
   let full = []; // 有效源
   let fullNOR18 = []; // 有效源,没有18禁
   let fullIncludeInvalid = [];
   source.map(async (item) => {
-    const group = item.bookSourceGroup !== undefined ? item.bookSourceGroup.toString() : '';
-    const name = item.bookSourceName.toString();
-    if(name.search(/漫|邪|社|本子/) !== -1) {
+
+    // to string
+    let name = item.bookSourceName.toString();
+    let group = item.bookSourceGroup !== undefined ? item.bookSourceGroup.toString() : '';
+
+    // bookSource format
+    let temp = [];
+    name = name.replace(/\[.+?]|\(.+?\)|（.+?）|《.+?》|™.*$|📚.*$|💯|▲|★|⪢|#/g, '').replace(/-| /, '~');
+    temp[0] = group.includes('失效') ? '失效' : null;
+    temp[1] = group.includes('正版') ? '正版' : null;
+    temp[2] = item.bookSourceType === 'AUDIO' ? '有声' : null;
+    temp[3] = /18禁|腐|🔞/.test(name) || /18禁|腐|黄|🔞/.test(group) ? '18禁' : null;
+    temp[4] = item.ruleFindUrl !== undefined && item.ruleFindUrl !== '' ? '发现' : null;
+    temp[5] = /css|json|xpath|混合|正则/i.test(group) ? '特殊语法' : null;
+    temp[6] = /优|A级|S级|推荐|快更|精品|💯/i.test(group) ? '优' : null;
+    group = temp.filter((item) => {
+      return item !== null
+    }).join('; ');
+    item.bookSourceName = name;
+    item.bookSourceGroup = group;
+
+    if (/漫|邪|社|本子/.test(name)) {
+
     } else if (group.includes('失效')) {
       invalid.push(item);
-    } else if (item.bookSourceType === 'AUDIO') {
+    } else if (group.includes('有声')) {
       audio.push(item);
     } else if (group.includes('正版')) {
       genuine.push(item);
-    } else if ((group + name).search(/18禁|腐|🔞/) !== -1) {
-      item.bookSourceGroup = '18禁';
+    } else if (group.includes('18禁')) {
       r18.push(item);
     } else if (group.includes('发现')) {
-      group.search(/优|css|json|xpath|正则/i) !== -1 ? item.bookSourceGroup : item.bookSourceGroup = '发现';
+      if (group.includes('优')) {
+        highQuality.push(item);
+      }
       discover.push(item);
-    } else if (group.search(/css|json|xpath|正则|出版/i) !== -1) {
+    } else if (group.includes('特殊语法')) {
+      if (group.includes('优')) {
+        highQuality.push(item);
+      }
       special.push(item);
-    } else if (group.search(/优|A级|S级/) !== -1) {
-      item.bookSourceGroup = '优';
+    } else if (group.includes('优')) {
       highQuality.push(item);
     } else {
-      item.bookSourceGroup = '其他';
-      others.push(item);
+      item.bookSourceGroup = '普通';
+      general.push(item);
     }
   });
-  full = await full.concat(genuine, r18, discover, audio, special, highQuality, others);
-  fullNOR18 = await fullNOR18.concat(genuine, discover, audio, special, highQuality, others);
-  fullIncludeInvalid = await fullIncludeInvalid.concat(invalid, genuine, r18, discover, audio, special, highQuality, others);
-  await write(path.join(__dirname, '../yuedu/invalid.json'), invalid);
-  await write(path.join(__dirname, '../yuedu/genuine.json'), genuine);
-  await write(path.join(__dirname, '../yuedu/R18.json'), r18);
-  await write(path.join(__dirname, '../yuedu/audio.json'), audio);
-  await write(path.join(__dirname, '../yuedu/discover.json'), discover);
-  await write(path.join(__dirname, '../yuedu/special.json'), special);
-  await write(path.join(__dirname, '../yuedu/highQuality.json'), highQuality);
-  await write(path.join(__dirname, '../yuedu/others.json'), others);
-  await write(path.join(__dirname, '../yuedu/fullNOR18.json'), fullNOR18);
-  await write(path.join(__dirname, '../yuedu/full.json'), full);
-  await write(path.join(__dirname, '../yuedu/fullSourceIncludeInvalid.json'), fullIncludeInvalid);
-  const time = fs.statSync(path.join(__dirname, '../yuedu/full.json')).mtime.toLocaleString();
+  full = await full.concat(genuine, r18, discover, audio, special, highQuality, general);
+  fullNOR18 = await fullNOR18.concat(genuine, discover, audio, special, highQuality, general);
+  fullIncludeInvalid = await fullIncludeInvalid.concat(invalid, genuine, r18, discover, audio, special, highQuality, general);
+  await write(path.join(__dirname, '../docs/yuedu/invalid.json'), invalid);
+  await write(path.join(__dirname, '../docs/yuedu/genuine.json'), genuine);
+  await write(path.join(__dirname, '../docs/yuedu/R18.json'), r18);
+  await write(path.join(__dirname, '../docs/yuedu/audio.json'), audio);
+  await write(path.join(__dirname, '../docs/yuedu/discover.json'), discover);
+  await write(path.join(__dirname, '../docs/yuedu/special.json'), special);
+  await write(path.join(__dirname, '../docs/yuedu/highQuality.json'), highQuality);
+  await write(path.join(__dirname, '../docs/yuedu/general.json'), general);
+  await write(path.join(__dirname, '../docs/yuedu/fullNOR18.json'), fullNOR18);
+  await write(path.join(__dirname, '../docs/yuedu/full.json'), full);
+  await write(path.join(__dirname, '../docs/yuedu/fullSourceIncludeInvalid.json'), fullIncludeInvalid);
+  const time = fs.statSync(path.join(__dirname, '../docs/yuedu/full.json')).mtime.toLocaleString();
   console.log(`
 原书源修改时间：${sourceModTime}
 
@@ -71,15 +94,15 @@ module.exports = async () => {
 
 |文件名|数目|
 | - | - |
-|[失效](/yuedu/invalid.json)|${invalid.length}|
-|[正版](/yuedu/genuine.json)|${genuine.length}|
-|[18禁](/yuedu/R18.json)|${r18.length}|
-|[有声](/yuedu/audio.json)|${audio.length}|
-|[发现](/yuedu/discover.json)|${discover.length}|
-|[xpath、json、CSS、正则、出版](/yuedu/special.json)|${special.length}|
-|[优/A级/S级](/yuedu/highQuality.json)|${highQuality.length}|
-|[其他](/yuedu/others.json)|${others.length}|
-|[有效书源NOR18](/yuedu/fullNOR18.json)|${fullNOR18.length}|
-|[有效书源](/yuedu/full.json)|${full.length}|
-|[总书源](/yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`)
+|[有声](./docs/yuedu/audio.json)|${audio.length}|
+|[正版](./docs/yuedu/genuine.json)|${genuine.length}|
+|[18禁](./docs/yuedu/R18.json)|${r18.length}|
+|[发现](./docs/yuedu/discover.json)|${discover.length}|
+|[特殊语法（css/json/xpath/混合/正则）](./docs/yuedu/special.json)|${special.length}|
+|[优（优/A级/S级/优+发现/优+特殊语法）](./docs/yuedu/highQuality.json)|${highQuality.length}|
+|[普通](./docs/yuedu/general.json)|${general.length}|
+|[有效书源NOR18](./docs/yuedu/fullNOR18.json)|${fullNOR18.length}|
+|[有效书源](./docs/yuedu/full.json)|${full.length}|
+|[失效](./docs/yuedu/invalid.json)|${invalid.length}|
+|[总书源](./docs/yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`);
 }
