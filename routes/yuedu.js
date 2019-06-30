@@ -94,15 +94,15 @@ module.exports = async () => {
 
 |文件名|数目|
 | - | - |
-|[有声](./docs/yuedu/audio.json)|${audio.length}|
-|[正版](./docs/yuedu/genuine.json)|${genuine.length}|
-|[18禁](./docs/yuedu/R18.json)|${r18.length}|
-|[发现](./docs/yuedu/discover.json)|${discover.length}|
-|[特殊语法（css/json/xpath/混合/正则）](./docs/yuedu/special.json)|${special.length}|
-|[优（优/A级/S级/优+发现/优+特殊语法）](./docs/yuedu/highQuality.json)|${highQuality.length}|
-|[普通](./docs/yuedu/general.json)|${general.length}|
-|[有效书源NOR18](./docs/yuedu/fullNOR18.json)|${fullNOR18.length}|
-|[有效书源](./docs/yuedu/full.json)|${full.length}|
-|[失效](./docs/yuedu/invalid.json)|${invalid.length}|
-|[总书源](./docs/yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`);
+|[有声](./yuedu/audio.json)|${audio.length}|
+|[正版](./yuedu/genuine.json)|${genuine.length}|
+|[18禁](./yuedu/R18.json)|${r18.length}|
+|[发现](./yuedu/discover.json)|${discover.length}|
+|[特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)|${special.length}|
+|[优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json)|${highQuality.length}|
+|[普通](./yuedu/general.json)|${general.length}|
+|[有效书源NOR18](./yuedu/fullNOR18.json)|${fullNOR18.length}|
+|[有效书源](./yuedu/full.json)|${full.length}|
+|[失效](./yuedu/invalid.json)|${invalid.length}|
+|[总书源](./yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`);
 }
