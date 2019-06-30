@@ -1,0 +1,9 @@
+{
+  "name": "Source",
+  "version": "1.0.0",
+  "description": "阅读书源，新方圆浏览器搜索源、插件的清洗、校验、分类",
+  "main": "index.js",
+  "repository": "https://github.com/MoonBegonia/Source.git",
+  "author": "MoonBegonia <moonbegonia@live.com>",
+  "license": "MIT"
+}
