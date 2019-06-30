@@ -12,23 +12,25 @@
 
 源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼、[qa455355](https://raw.githubusercontent.com/adhu2018/001/master/qa455355.txt)。
 
-原书源修改时间：2019-6-22 13:58:40
+**建议导入之前清空书源再导入！**
 
-书源分类时间：2019-6-22 14:42:19
+原书源修改时间：2019-6-30 19:29:19
 
-| 文件名                                              | 数目 |
-| --------------------------------------------------- | ---- |
-| [失效](./yuedu/invalid.json)                         | 737  |
-| [正版](./yuedu/genuine.json)                         | 13   |
-| [18禁](./yuedu/R18.json)                             | 16   |
-| [有声](./yuedu/audio.json)                           | 36   |
-| [发现](./yuedu/discover.json)                        | 79   |
-| [xpath、json、CSS、正则、出版](./yuedu/special.json) | 45   |
-| [优](./yuedu/highQuality.json)                       | 226  |
-| [其他](./yuedu/others.json)                          | 487  |
-| [有效书源NOR18](./yuedu/fullNOR18.json)              | 886  |
-| [有效书源](./yuedu/full.json)                        | 902  |
-| [总书源](./yuedu/fullSourceIncludeInvalid.json)      | 1639 |
+书源分类时间：2019-6-30 19:57:41
+
+| 文件名                                                                | 数目 |
+| --------------------------------------------------------------------- | ---- |
+| [有声](./docs/yuedu/audio.json)                                       | 37   |
+| [正版](./docs/yuedu/genuine.json)                                     | 12   |
+| [18禁](./docs/yuedu/R18.json)                                         | 22   |
+| [发现](./docs/yuedu/discover.json)                                    | 243  |
+| [特殊语法（css/json/xpath/混合/正则）](./docs/yuedu/special.json)     | 40   |
+| [优（优/A级/S级/优+发现/优+特殊语法）](./docs/yuedu/highQuality.json) | 237  |
+| [普通](./docs/yuedu/general.json)                                     | 399  |
+| [有效书源NOR18](./docs/yuedu/fullNOR18.json)                          | 968  |
+| [有效书源](./docs/yuedu/full.json)                                    | 990  |
+| [失效](./docs/yuedu/invalid.json)                                     | 733  |
+| [总书源](./docs/yuedu/fullSourceIncludeInvalid.json)                  | 1723 |
 
 ## 新方圆浏览器
 
@@ -38,12 +40,10 @@
 
 原视频源修改时间：2019-6-25 15:05:45
 
-视频源分类时间：2019-6-25 15:07:01
+视频源分类时间：2019-6-30 19:57:41
 
-| 文件名                                                                  | 数目 |
-| ----------------------------------------------------------------------- | ---- |
-| [失效](./fangyuan/invalid.json)                                          | 37   |
-| [无法访问](./fangyuan/inaccessible.json)                                 | 130  |
+| 文件名                                                                   | 数目 |
+| ------------------------------------------------------------------------ | ---- |
 | [满分](./fangyuan/fullScore.json)                                        | 67   |
 | [优](./fangyuan/highQuality.json)                                        | 61   |
 | [免解析/嗅探](./fangyuan/notDetect.json)                                 | 108  |
@@ -52,15 +52,17 @@
 | [空白组](./fangyuan/emptyGroup.json)                                     | 707  |
 | [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 241  |
 | [有效视频源](./fangyuan/full.json)                                       | 1038 |
+| [失效](./fangyuan/invalid.json)                                          | 37   |
+| [无法访问](./fangyuan/inaccessible.json)                                 | 130  |
 | [总视频源](./fangyuan/videoSource/videoRule.json)                        | 1205 |
 
 ### 其他规则
 
 **建议下载合集，单个文件下载请使用下载链接下载文件（chrome：长按链接 -> 下载链接）**
 
-| 类别                                                    | 更新时间   |
-| ------------------------------------------------------- | ---------- |
-| [首页规则](./fangyuan/rules/home.json)                   | 2019-06-11 |
+| 类别                                                      | 更新时间   |
+| --------------------------------------------------------- | ---------- |
+| [首页规则](./fangyuan/rules/home.json)                    | 2019-06-11 |
 | [直播源](./fangyuan/rules/tvLive.json)                    | 2019-06-27 |
 | [adBlockRules](./fangyuan/rules/adBlockRule.txt)          | 2019-06-10 |
 | [哔哩哔哩 JS 插件](./fangyuan/rules/js/m.bilibili.com.js) | 2019-04-11 |
