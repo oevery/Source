@@ -18,19 +18,19 @@
 
 书源分类时间：2019-6-30 19:57:41
 
-| 文件名                                                                | 数目 |
-| --------------------------------------------------------------------- | ---- |
-| [有声](./docs/yuedu/audio.json)                                       | 37   |
-| [正版](./docs/yuedu/genuine.json)                                     | 12   |
-| [18禁](./docs/yuedu/R18.json)                                         | 22   |
-| [发现](./docs/yuedu/discover.json)                                    | 243  |
-| [特殊语法（css/json/xpath/混合/正则）](./docs/yuedu/special.json)     | 40   |
-| [优（优/A级/S级/优+发现/优+特殊语法）](./docs/yuedu/highQuality.json) | 237  |
-| [普通](./docs/yuedu/general.json)                                     | 399  |
-| [有效书源NOR18](./docs/yuedu/fullNOR18.json)                          | 968  |
-| [有效书源](./docs/yuedu/full.json)                                    | 990  |
-| [失效](./docs/yuedu/invalid.json)                                     | 733  |
-| [总书源](./docs/yuedu/fullSourceIncludeInvalid.json)                  | 1723 |
+| 文件名                                                           | 数目 |
+| ---------------------------------------------------------------- | ---- |
+| [有声](./yuedu/audio.json)                                       | 37   |
+| [正版](./yuedu/genuine.json)                                     | 12   |
+| [18禁](./yuedu/R18.json)                                         | 22   |
+| [发现](./yuedu/discover.json)                                    | 243  |
+| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 40   |
+| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 237  |
+| [普通](./yuedu/general.json)                                     | 399  |
+| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 968  |
+| [有效书源](./yuedu/full.json)                                    | 990  |
+| [失效](./yuedu/invalid.json)                                     | 733  |
+| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1723 |
 
 ## 新方圆浏览器
 
