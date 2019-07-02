@@ -92,6 +92,7 @@
 - <https://github.com/adhu2018/001>
 - <https://gitee.com/alanskycn/yuedu>
 - <https://gitee.com/haobai1/bookyuan>
+- <https://gitee.com/xiuluodhm/QQ35073784>
 - <https://github.com/blackholep/blackholep.github.io>
 - <https://github.com/booksources/booksources.github.io>
 
