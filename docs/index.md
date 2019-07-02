@@ -82,25 +82,3 @@
 ## 异次元
 
 暂不对异次元 APP 图源做分类，因为：1. 目前图源较少；2. 公众号菜花精已经对图源做了整理；图源分类都在标题中以小表情的形式展现，我觉得这样分类挺不错的，没必要再分了。图源获取关注公众号`异次元APP软件`（或者扫描APP关于里的二维码）。
-
-## 相关的 repo
-
-以下是一些书源、视频源、规则、图源相关的 repo，有兴趣的可以看看。
-
-书源：
-
-- <https://github.com/adhu2018/001>
-- <https://gitee.com/alanskycn/yuedu>
-- <https://gitee.com/haobai1/bookyuan>
-- <https://gitee.com/xiuluodhm/QQ35073784>
-- <https://github.com/blackholep/blackholep.github.io>
-- <https://github.com/booksources/booksources.github.io>
-
-视频源、规则：
-
-- <https://coding.net/u/Gold2River/p/NetRaw/git/tree/master>
-- <https://github.com/qiusunshine/movienow>
-
-图源：
-
-- <https://dev.tencent.com/u/dtid_e5fce2d51cc60781/p/caihuajing/git>
