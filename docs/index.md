@@ -34,7 +34,7 @@
 
 ## 新方圆浏览器
 
-下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](./fangyuan/新方圆浏览器_5.19.0628.10.zip)
+下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](./fangyuan/新方圆浏览器_V6.0.0.0_C697_6000_jiagu_sign.zip)
 
 ### 视频源
 
