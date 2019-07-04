@@ -2,11 +2,11 @@
 
 ## Source
 
-阅读书源，新方圆浏览器搜索源、插件的清洗、校验、分类
+所有资源均来源于互联网，在原基础上清洗校验分类，感谢源制作者的无私奉献，仅作学习交流使用，不保证稳定性，正确性等，如果喜欢欢迎 Star [本项目](https://github.com/MoonBegonia/Source)。
 
-## repo RSS Feed
+更新强迫症可以使用 [RSS Feed 订阅](https://github.com/MoonBegonia/Source/commits.atom) GitHub commits 第一时间获取更新。
 
-<https://github.com/MoonBegonia/Source/commits.atom>
+感谢源作者们的贡献以及无私分享！（如果有稳定更新的源发布地址或未收录的源欢迎提 [Issue](https://github.com/MoonBegonia/Source/issues)，会添加。）
 
 ## 相关的 repo
 

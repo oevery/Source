@@ -1,16 +1,12 @@
-## repo RSS Feed
+## Source
 
-<https://github.com/MoonBegonia/Source/commits.atom>
+所有资源均来源于互联网，在原基础上清洗校验分类，感谢源制作者的无私奉献，仅作学习交流使用，不保证稳定性，正确性等，如果喜欢欢迎 Star [本项目](https://github.com/MoonBegonia/Source)。
+
+更新强迫症可以使用 [RSS Feed 订阅](https://github.com/MoonBegonia/Source/commits.atom) GitHub commits 第一时间获取更新。
+
+感谢源作者们的贡献以及无私分享！（如果有稳定更新的源发布地址或未收录的源欢迎提 [Issue](https://github.com/MoonBegonia/Source/issues)，会添加。）
 
 ## 阅读 App 书源
-
-书源来自公众号 `开源阅读软件`、酷安评论区等地，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
-
-虽然书源十分多，高达一千多个，但是我认为贵在精而不在多，而且分享的源中还有许多失效的书源，便决定自己搜集整理一下。做个简单的分类。
-
-分类的过程中有些源作者的名称被格式化了，在此感谢他们作出的贡献，感谢他们无私的分享。
-
-源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼、[qa455355](https://raw.githubusercontent.com/adhu2018/001/master/qa455355.txt)。
 
 **建议导入之前清空书源再导入！**
 
@@ -31,6 +27,14 @@
 | [有效书源](./yuedu/full.json)                                    | 990  |
 | [失效](./yuedu/invalid.json)                                     | 733  |
 | [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1723 |
+
+书源来自公众号 `开源阅读软件`、酷安评论区等地，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
+
+虽然书源十分多，高达一千多个，但是我认为贵在精而不在多，而且分享的源中还有许多失效的书源，便决定自己搜集整理一下。做个简单的分类。
+
+分类的过程中有些源作者的名称被格式化了，在此感谢他们作出的贡献，感谢他们无私的分享。
+
+源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼、qa455355。
 
 ## 新方圆浏览器
 
