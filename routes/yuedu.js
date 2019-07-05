@@ -1,5 +1,15 @@
+/*
+ * @Description: 阅读书源清洗分类
+ * @Author: MoonBegonia
+ * @GitHub: https://github.com/MoonBegonia
+ * @Date: 2019-07-05 16:14:24
+ * @LastEditors: MoonBegonia
+ * @LastEditTime: 2019-07-05 21:33:31
+ */
+
 const fs = require('fs');
 const path = require('path');
+const check = require('./check')
 
 // json 文件写入
 function write(path, result) {

@@ -1,3 +1,12 @@
+/*
+ * @Description: 新方圆浏览器视频源清洗分类
+ * @Author: MoonBegonia
+ * @GitHub: https://github.com/MoonBegonia
+ * @Date: 2019-06-30 19:26:52
+ * @LastEditors: MoonBegonia
+ * @LastEditTime: 2019-07-05 21:34:13
+ */
+
 const fs = require('fs');
 const path = require('path');
 
