@@ -5,5 +5,8 @@
   "main": "index.js",
   "repository": "https://github.com/MoonBegonia/Source.git",
   "author": "MoonBegonia <moonbegonia@live.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.6.0"
+  }
 }
