@@ -7,6 +7,7 @@
   "author": "MoonBegonia <moonbegonia@live.com>",
   "license": "MIT",
   "dependencies": {
-    "got": "^9.6.0"
+    "got": "^9.6.0",
+    "iconv-lite": "^0.5.0"
   }
 }
