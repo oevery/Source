@@ -2,7 +2,7 @@
 
 所有资源均来源于互联网，在原基础上清洗校验分类，感谢源制作者的无私奉献，仅作学习交流使用，不保证稳定性，正确性等，如果喜欢欢迎 Star [本项目](https://github.com/MoonBegonia/Source)。
 
-更新强迫症可以使用 [RSS Feed 订阅](https://rsshub.app/github/file/MoonBegonia/Source/master/docs/index.md) repo 的 `index.md` 文件 commits 第一时间获取更新。（感谢 [RSSHub](https://github.com/DIYgod/RSSHub)）
+更新强迫症可以使用 [RSS Feed 订阅](https://mb-rsshub.herokuapp.com/github/file/MoonBegonia/Source/master/docs/index.md) repo 的 `index.md` 文件 commits 第一时间获取更新。（感谢 [RSSHub](https://github.com/DIYgod/RSSHub)）
 
 感谢源作者们的贡献以及无私分享！（如果有稳定更新的源发布地址或未收录的源欢迎提 [Issue](https://github.com/MoonBegonia/Source/issues)，会添加。）
 
