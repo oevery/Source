@@ -4,12 +4,12 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-05 16:14:24
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-05 21:33:31
+ * @LastEditTime: 2019-07-06 17:09:02
  */
 
 const fs = require('fs');
 const path = require('path');
-const check = require('./check')
+const check = require('./check');
 
 // json 文件写入
 function write(path, result) {
@@ -33,15 +33,18 @@ module.exports = async () => {
   let full = []; // 有效源
   let fullNOR18 = []; // 有效源,没有18禁
   let fullIncludeInvalid = [];
-  source.map(async (item) => {
+  await Promise.all(source.map(async (item) => {
+
+    const checkResult = await check.yueduSearch(item.ruleSearchUrl);
 
     // to string
     let name = item.bookSourceName.toString();
     let group = item.bookSourceGroup !== undefined ? item.bookSourceGroup.toString() : '';
 
     // bookSource format
-    let temp = [];
     name = name.replace(/\[.+?]|\(.+?\)|（.+?）|《.+?》|™.*$|📚.*$|💯|▲|★|⪢|#/g, '').replace(/-| /, '~');
+    let temp = [];
+    // temp[0] = checkResult != true ? '失效' : null;
     temp[0] = group.includes('失效') ? '失效' : null;
     temp[1] = group.includes('正版') ? '正版' : null;
     temp[2] = item.bookSourceType === 'AUDIO' ? '有声' : null;
@@ -81,7 +84,7 @@ module.exports = async () => {
       item.bookSourceGroup = '普通';
       general.push(item);
     }
-  });
+  }));
   full = await full.concat(genuine, r18, discover, audio, special, highQuality, general);
   fullNOR18 = await fullNOR18.concat(genuine, discover, audio, special, highQuality, general);
   fullIncludeInvalid = await fullIncludeInvalid.concat(invalid, genuine, r18, discover, audio, special, highQuality, general);
