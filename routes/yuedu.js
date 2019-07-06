@@ -47,7 +47,7 @@ module.exports = async () => {
     let group = item.bookSourceGroup !== undefined ? item.bookSourceGroup.toString() : '';
 
     // bookSource format
-    name = name.replace(/\[.+?]|\(.+?\)|（.+?）|《.+?》|™.*$|📚.*$|💯|▲|★|⪢|#/g, '').replace(/-| /, '~');
+    name = name.replace(/\[.+?]|\(.+?\)|（.+?）|《.+?》|™.*$|📚.*$|💯|▲|★|⪢|🔥|#/g, '').replace(/-| /, '~');
     let temp = [];
     // temp[0] = checkResult != true ? '失效' : null;
     temp[0] = group.includes('失效') ? '失效' : null;
@@ -74,7 +74,7 @@ module.exports = async () => {
       audio.push(item);
     } else if (group.includes('正版')) {
       genuine.push(item);
-    } else if (/轻小说|英语/.test(group)) {
+    } else if (/轻小说|英文/.test(group)) {
       others.push(item);
     } else if (group.includes('18禁')) {
       r18.push(item);

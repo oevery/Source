@@ -12,15 +12,15 @@
 
 原书源修改时间：2019-7-6 21:04:58
 
-书源分类时间：2019-7-6 21:06:40
+书源分类时间：2019-7-6 21:21:59
 
 | 文件名                                                           | 数目 |
 | ---------------------------------------------------------------- | ---- |
 | [有声](./yuedu/audio.json)                                       | 37   |
 | [正版](./yuedu/genuine.json)                                     | 14   |
-| [轻小说/英文](./yuedu/others.json)                               | 12   |
+| [轻小说/英文](./yuedu/others.json)                               | 14   |
 | [18禁](./yuedu/R18.json)                                         | 20   |
-| [发现](./yuedu/discover.json)                                    | 231  |
+| [发现](./yuedu/discover.json)                                    | 229  |
 | [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 48   |
 | [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 220  |
 | [普通](./yuedu/general.json)                                     | 359  |
