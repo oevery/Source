@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-05 16:14:24
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-06 20:55:21
+ * @LastEditTime: 2019-07-11 11:53:16
  */
 
 const fs = require('fs');
@@ -28,7 +28,7 @@ module.exports = async () => {
   let genuine = []; // 正版
   let audio = []; // 有声
   let r18 = []; // 18禁
-  let others = []; // 轻小说/英文
+  let others = []; // 轻小说/英文/名著/特殊
   let discover = []; // 发现
   let highQuality = []; // 优|A级|S级|推荐|快更|精品|💯
   let special = []; // css|json|xpath|混合|正则
@@ -53,9 +53,11 @@ module.exports = async () => {
     temp[0] = group.includes('失效') ? '失效' : null;
     temp[1] = group.includes('正版') ? '正版' : null;
     temp[2] = item.bookSourceType === 'AUDIO' ? '有声' : null;
+    temp[3] = /名著/.test(name) ? '名著' : null;
+    temp[4] = /特殊/.test(name) ? '其他' : null;
     temp[3] = /轻小说/.test(group + name) ? '轻小说' : null;
     temp[4] = /英文/.test(group + name) ? '英文' : null;
-    temp[5] = /18禁|腐|🔞/.test(name) || /18禁|腐|黄|🔞/.test(group) ? '18禁' : null;
+    temp[5] = /18禁|腐|🔞/.test(name) || /18禁|腐|黄|🔞|禁 ⓧ/.test(group) ? '18禁' : null;
     temp[6] = item.ruleFindUrl !== undefined && item.ruleFindUrl !== '' ? '发现' : null;
     temp[7] = /css|json|xpath|混合|正则/i.test(group) ? '特殊语法' : null;
     temp[8] = /优|A级|S级|推荐|快更|精品|💯/i.test(group) ? '优' : null;
@@ -74,7 +76,7 @@ module.exports = async () => {
       audio.push(item);
     } else if (group.includes('正版')) {
       genuine.push(item);
-    } else if (/轻小说|英文/.test(group)) {
+    } else if (/轻小说|英文|名著|其他/.test(group)) {
       others.push(item);
     } else if (group.includes('18禁')) {
       r18.push(item);
@@ -125,7 +127,7 @@ module.exports = async () => {
 | - | - |
 |[有声](./yuedu/audio.json)|${audio.length}|
 |[正版](./yuedu/genuine.json)|${genuine.length}|
-|[轻小说/英文](./yuedu/others.json)|${others.length}|
+|[轻小说/英文/名著/其他](./yuedu/others.json)|${others.length}|
 |[18禁](./yuedu/R18.json)|${r18.length}|
 |[发现](./yuedu/discover.json)|${discover.length}|
 |[特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)|${special.length}|
