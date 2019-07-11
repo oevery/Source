@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-05 16:14:24
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-11 11:53:16
+ * @LastEditTime: 2019-07-11 20:09:51
  */
 
 const fs = require('fs');
@@ -12,9 +12,11 @@ const path = require('path');
 // const check = require('./check');
 
 // json 文件写入
-function write(path, result) {
-  fs.writeFileSync(path, JSON.stringify(result), (err) => {
-    if (err) conlose.log(err)
+function write(filePath, result) {
+  fs.writeFileSync(filePath, JSON.stringify(result), (err) => {
+    if (err) {
+      console.log(err);
+    }
   });
 }
 
@@ -39,7 +41,6 @@ module.exports = async () => {
 
   // 格式化数据并写入 json 中
   await Promise.all(source.map(async (item) => {
-
     // const checkResult = await check.yueduSearch(item.ruleSearchUrl);
 
     // to string
@@ -61,15 +62,15 @@ module.exports = async () => {
     temp[6] = item.ruleFindUrl !== undefined && item.ruleFindUrl !== '' ? '发现' : null;
     temp[7] = /css|json|xpath|混合|正则/i.test(group) ? '特殊语法' : null;
     temp[8] = /优|A级|S级|推荐|快更|精品|💯/i.test(group) ? '优' : null;
-    group = temp.filter((item) => {
-      return item !== null
+    group = temp.filter(function (e) {
+      return e !== null;
     }).join('; ');
     item.bookSourceName = name;
     item.bookSourceGroup = group;
 
     // classify
     if (/漫|邪|社|本子/.test(name)) {
-
+      // empty
     } else if (group.includes('失效')) {
       invalid.push(item);
     } else if (group.includes('有声')) {
@@ -137,4 +138,4 @@ module.exports = async () => {
 |[有效书源](./yuedu/full.json)|${full.length}|
 |[失效](./yuedu/invalid.json)|${invalid.length}|
 |[总书源](./yuedu/fullSourceIncludeInvalid.json)|${fullIncludeInvalid.length}|`);
-}
+};

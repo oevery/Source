@@ -4,23 +4,23 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-06-30 19:26:52
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-05 21:34:13
+ * @LastEditTime: 2019-07-11 19:38:13
  */
 
 const fs = require('fs');
 const path = require('path');
 
 // json 文件写入
-function write(path, result) {
-  fs.writeFileSync(path, JSON.stringify(result), (err) => {
-    if (err) conlose.log(err)
+function write(filePath, result) {
+  fs.writeFileSync(filePath, JSON.stringify(result), (err) => {
+    if (err) console.log(err);
   });
 }
 
 module.exports = async () => {
   const sourcePath = path.join(__dirname, '../docs/fangyuan/videoSource/videoRule.json');
-  let source = JSON.parse(fs.readFileSync(sourcePath));
-  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
+  const source = JSON.parse(fs.readFileSync(sourcePath));
+  const sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
   let invalid = [];
   let inaccessible = [];
   let fullScore = [];
@@ -82,4 +82,4 @@ module.exports = async () => {
 |[失效](./fangyuan/invalid.json)|${invalid.length}|
 |[无法访问](./fangyuan/inaccessible.json)|${inaccessible.length}|
 |[总视频源](./fangyuan/videoSource/videoRule.json)|${source.length}|`);
-}
+};
