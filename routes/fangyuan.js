@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-06-30 19:26:52
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-11 19:38:13
+ * @LastEditTime: 2019-07-11 20:26:46
  */
 
 const fs = require('fs');
@@ -13,7 +13,9 @@ const path = require('path');
 // json 文件写入
 function write(filePath, result) {
   fs.writeFileSync(filePath, JSON.stringify(result), (err) => {
-    if (err) console.log(err);
+    if (err) {
+      console.log(err);
+    }
   });
 }
 

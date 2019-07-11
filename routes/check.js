@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-05 21:31:55
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-11 19:32:51
+ * @LastEditTime: 2019-07-11 20:26:54
  */
 
 const got = require('got');
@@ -14,7 +14,7 @@ exports.yueduSearch = async (ruleSearchUrl) => {
   let result = true;
 
   // 确定网站编码方式以及 header（暂时无用）
-  const encoding = url.match(/\|char=(.+?$)/) != null ? url.match(/\|char=(.+?$)/)[1] : 'utf8';
+  const encoding = url.match(/\|char=(.+?$)/) !== null ? url.match(/\|char=(.+?$)/)[1] : 'utf8';
   // const header = url.match(/@Header:{(.+?)}/) != null ? url.match(/@Header:{(.+?)}/)[1] : null;
 
   // 编码 searchKey
