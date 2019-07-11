@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-05 16:14:24
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-11 20:09:51
+ * @LastEditTime: 2019-07-11 20:58:54
  */
 
 const fs = require('fs');
@@ -22,8 +22,8 @@ function write(filePath, result) {
 
 module.exports = async () => {
   const sourcePath = path.join(__dirname, '../docs/yuedu/bookSource/myBookSource.json');
-  let source = JSON.parse(fs.readFileSync(sourcePath));
-  let sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
+  const source = JSON.parse(fs.readFileSync(sourcePath));
+  const sourceModTime = fs.statSync(sourcePath).mtime.toLocaleString();
 
   // 类别初始化
   let invalid = []; // 失效源
