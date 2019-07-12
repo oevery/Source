@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-05 16:14:24
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-11 20:58:54
+ * @LastEditTime: 2019-07-12 20:38:13
  */
 
 const fs = require('fs');
@@ -61,7 +61,7 @@ module.exports = async () => {
     temp[5] = /18禁|腐|🔞/.test(name) || /18禁|腐|黄|🔞|禁 ⓧ/.test(group) ? '18禁' : null;
     temp[6] = item.ruleFindUrl !== undefined && item.ruleFindUrl !== '' ? '发现' : null;
     temp[7] = /css|json|xpath|混合|正则/i.test(group) ? '特殊语法' : null;
-    temp[8] = /优|A级|S级|推荐|快更|精品|💯/i.test(group) ? '优' : null;
+    temp[8] = /优|A级|S级|ss级|推荐|快更|精品|自用|💯/i.test(group) ? '优' : null;
     group = temp.filter(function (e) {
       return e !== null;
     }).join('; ');
