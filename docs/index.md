@@ -43,23 +43,23 @@
 
 ### 视频源
 
-原视频源修改时间：2019-6-25 15:05:45
+原视频源修改时间：2019-7-13 19:38:27
 
-视频源分类时间：2019-6-30 19:57:41
+视频源分类时间：2019-7-13 19:38:46
 
 | 文件名                                                                   | 数目 |
 | ------------------------------------------------------------------------ | ---- |
-| [满分](./fangyuan/fullScore.json)                                        | 67   |
-| [优](./fangyuan/highQuality.json)                                        | 61   |
-| [免解析/嗅探](./fangyuan/notDetect.json)                                 | 108  |
-| [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 66   |
+| [满分](./fangyuan/fullScore.json)                                        | 60   |
+| [优](./fangyuan/highQuality.json)                                        | 48   |
+| [免解析/嗅探](./fangyuan/notDetect.json)                                 | 95   |
+| [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 56   |
 | [简介评论/差/一般/网盘/爱优酷腾/综合/听书](./fangyuan/others.json)       | 29   |
-| [空白组](./fangyuan/emptyGroup.json)                                     | 707  |
-| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 241  |
-| [有效视频源](./fangyuan/full.json)                                       | 1038 |
-| [失效](./fangyuan/invalid.json)                                          | 37   |
-| [无法访问](./fangyuan/inaccessible.json)                                 | 130  |
-| [总视频源](./fangyuan/videoSource/videoRule.json)                        | 1205 |
+| [空白组](./fangyuan/emptyGroup.json)                                     | 598  |
+| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 211  | I |
+| [有效视频源](./fangyuan/full.json)                                       | 886  |
+| [失效](./fangyuan/invalid.json)                                          | 25   |
+| [无法访问](./fangyuan/inaccessible.json)                                 | 316  |
+| [总视频源](./fangyuan/videoSource/videoRule.json)                        | 1227 |
 
 ### 其他规则
 
@@ -67,7 +67,7 @@
 
 | 类别                                                      | 更新时间   |
 | --------------------------------------------------------- | ---------- |
-| [首页规则](./fangyuan/rules/home.json)                    | 2019-07-03 |
+| [首页规则](./fangyuan/rules/home.json)                    | 2019-07-13 |
 | [直播源](./fangyuan/rules/tvLive.json)                    | 2019-06-27 |
 | [adBlockRules](./fangyuan/rules/adBlockRule.txt)          | 2019-06-10 |
 | [哔哩哔哩 JS 插件](./fangyuan/rules/js/m.bilibili.com.js) | 2019-04-11 |
@@ -75,8 +75,8 @@
 | [企鹅电竞 JS 插件](./fangyuan/rules/js/m.egame.qq.com.js) | 2019-06-10 |
 | [虎牙直播 JS 插件](./fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
 | [百度网盘 JS 插件](./fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
-| [解析插件](./fangyuan/rules/js/global.js)                 | 2019-06-22 |
-| [合集（zip）](./fangyuan/rules/rules.zip)                 | 2019-07-03 |
+| [解析插件](./fangyuan/rules/js/global.js)                 | 2019-07-13 |
+| [合集（zip）](./fangyuan/rules/rules.zip)                 | 2019-07-13 |
 
 使用说明：
 
