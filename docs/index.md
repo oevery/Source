@@ -55,7 +55,7 @@
 | [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 56   |
 | [简介评论/差/一般/网盘/爱优酷腾/综合/听书](./fangyuan/others.json)       | 29   |
 | [空白组](./fangyuan/emptyGroup.json)                                     | 598  |
-| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 211  | I |
+| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 211  |
 | [有效视频源](./fangyuan/full.json)                                       | 886  |
 | [失效](./fangyuan/invalid.json)                                          | 25   |
 | [无法访问](./fangyuan/inaccessible.json)                                 | 316  |
