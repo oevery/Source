@@ -10,24 +10,24 @@
 
 **建议导入之前清空书源再导入！**
 
-原书源修改时间：2019-7-12 21:00:24
+原书源修改时间：2019-7-14 11:39:51
 
-书源分类时间：2019-7-12 22:14:41
+书源分类时间：2019-7-14 11:41:55
 
 | 文件名                                                           | 数目 |
 | ---------------------------------------------------------------- | ---- |
-| [有声](./yuedu/audio.json)                                       | 39   |
-| [正版](./yuedu/genuine.json)                                     | 26   |
-| [轻小说/英文/名著/其他](./yuedu/others.json)                     | 22   |
-| [18禁](./yuedu/R18.json)                                         | 49   |
-| [发现](./yuedu/discover.json)                                    | 232  |
-| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 38   |
-| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 228  |
-| [普通](./yuedu/general.json)                                     | 412  |
-| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 997  |
-| [有效书源](./yuedu/full.json)                                    | 1046 |
-| [失效](./yuedu/invalid.json)                                     | 756  |
-| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1802 |
+| [有声](./yuedu/audio.json)                                       | 38   |
+| [正版](./yuedu/genuine.json)                                     | 15   |
+| [轻小说/英文/名著/其他](./yuedu/others.json)                     | 17   |
+| [18禁](./yuedu/R18.json)                                         | 31   |
+| [发现](./yuedu/discover.json)                                    | 254  |
+| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 53   |
+| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 235  |
+| [普通](./yuedu/general.json)                                     | 408  |
+| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 1020 |
+| [有效书源](./yuedu/full.json)                                    | 1051 |
+| [失效](./yuedu/invalid.json)                                     | 755  |
+| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1806 |
 
 书源来自公众号 `开源阅读软件`、酷安评论区等地，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
 
