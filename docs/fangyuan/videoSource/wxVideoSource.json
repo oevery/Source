@@ -1,0 +1,101 @@
+[{
+  "baseUrl": "http://www.boboys.cc/",
+  "chapterFind": ".media-left&&img&&data-original;body&&.hidden-xs,-4&&Text!剧情：;.tab-content&&ul@li;a&&Text;a&&href;.nav-tabs&&li@Text",
+  "chapterUrl": "http:www.boboys.cc/video/3451.html",
+  "forFearch": false,
+  "id": 5,
+  "movieFind": "",
+  "pinYinTitle": "boboyingshi",
+  "searchFind": "body&&.col-md-2;h2&&Text;a&&href;.continu,0&&Text",
+  "searchUrl": "http://www.boboys.cc/index.php?s=vod-search&wd=**",
+  "title": "播播影视",
+  "weight": 3
+}, {
+  "baseUrl": "https://m.faquanya.com",
+  "chapterFind": ".loading&&data-original;.v-js&&Text!简介：;body&&.plau-ul-list@li;Text;a&&href;body&&.play-title&&a@Text",
+  "forFearch": false,
+  "id": 2075,
+  "movieFind": "",
+  "pinYinTitle": "zhudaye__",
+  "searchFind": "#resize_list&&li;h2&&Text;a&&href",
+  "searchUrl": "https://m.faquanya.com/vod-search-wd-**-p-1.html",
+  "title": "猪大爷",
+  "weight": 1167
+}, {
+  "baseUrl": "http://www.imomoe.io",
+  "chapterFind": ".tpic&&img&&src;.info&&Text;body&&.movurl@li;a&&Text;a&&href;body&&.menu0@Text!降序|升序",
+  "forFearch": false,
+  "id": 2062,
+  "movieFind": "",
+  "pinYinTitle": "yinghuadongman_dongman_",
+  "searchFind": ".pics&&li;h2&&Text;a&&href;span,1&&Text;p&&Text",
+  "searchUrl": "http://www.imomoe.jp/search.asp?searchword=**;get;GB2312",
+  "title": "樱花动漫（动漫）",
+  "weight": 1415
+}, {
+  "baseUrl": "https://www.beiwo520.com",
+  "chapterFind": ".fed-deta-images&&a&&data-original;.fed-part-both&&Text;body&&.fed-play-item@li,2:;a&&Text;a&&href;.fed-drop-boxs&&li@Text",
+  "forFearch": false,
+  "id": 2040,
+  "movieFind": "",
+  "pinYinTitle": "beiwoyingshi",
+  "searchFind": ".fed-main-info&&h1;a&&Text;a&&href;",
+  "searchUrl": "https://www.beiwo520.com/index.php/vod/search.html?wd=**",
+  "title": "被窝影视",
+  "weight": 1456
+}, {
+  "baseUrl": "http://m.haizeitv.com",
+  "chapterFind": ".stui-vodlist__thumb&&img&&data-original;.detail-sketch&&Text;body&&.stui-content__playlist@a;Text;href;body&&h3@Text",
+  "forFearch": false,
+  "id": 2055,
+  "movieFind": "js:var Url = player_data.url;setMovieFindResult(Url);",
+  "pinYinTitle": "haizeiyingyuan_mianxiutan_",
+  "searchFind": "body&&.thumb;a&&title;a&&href;.pic-text&&Text",
+  "searchUrl": "http://m.haizeitv.com/search/-------------/?wd=**",
+  "title": "海贼影院（免嗅探）",
+  "weight": 1375
+}, {
+  "baseUrl": "http://www.xmdmw.com",
+  "chapterFind": ".img&&img&&src;.cdes1&&Text;body&&.stab_list@li;a&&Text;a&&href;body&&.from@Text",
+  "forFearch": false,
+  "id": 2028,
+  "movieFind": "",
+  "pinYinTitle": "xiaomidongman_dongman_",
+  "searchFind": ".sul&&li;a&&title;a&&href;span,2&&Text!备注：",
+  "searchUrl": "http://www.xmdmw.com/search.php?searchword=**;get;UTF-8;{User-Agent@Opera/9.80 (Android 2.3.4；；Linux；；Opera Mobi/build-1107180945；；U；；en-GB) Presto/2.8.149 Version/11.10&&charset@UTF-8}",
+  "title": "小米动漫（动漫）",
+  "weight": 1378
+}, {
+  "baseUrl": "https://m.fdy.cc",
+  "chapterFind": ".pic&&src;.description&&Text;body&&.playlist@li;a&&Text;a&&href;body&&h5,1:@Text!播放;",
+  "forFearch": false,
+  "id": 2030,
+  "movieFind": "",
+  "pinYinTitle": "xunleige",
+  "searchFind": ".list&&ul&&li;p&&a&&Text;a&&href;",
+  "searchUrl": "https://m.fdy.cc/search.asp?searchword=**;get;gb2312",
+  "title": "迅雷哥",
+  "weight": 1380
+}, {
+  "baseUrl": "http://www.niuyingshi.com/",
+  "chapterFind": ".v-pic&&img&&src;.infor_intro&&Text;body&&.play_num_list@li;a&&Text;a&&href;#playNumTab&&a@Text",
+  "forFearch": false,
+  "id": 2027,
+  "movieFind": "",
+  "pinYinTitle": "niuyingshi",
+  "searchFind": "body&&.s_tit;a&&Text;a&&href;",
+  "searchUrl": "http://www.niuyingshi.com/index.php?m=vod-search&wd=**",
+  "title": "牛影视",
+  "weight": 1377
+}, {
+  "baseUrl": "https://www.0855y.com",
+  "chapterFind": ".macplus-content__thumb&&img&&data-original;.macplus-cText&&Text;body&&.macplus-content__playlist@li;a&&Text;a&&href;.details-play-title&&.gico@Text",
+  "forFearch": false,
+  "id": 2029,
+  "movieFind": "js:var Url = player_data.url;setMovieFindResult(Url);",
+  "pinYinTitle": "0855yingshi_mianxiutan_",
+  "searchFind": ".macplus-vodlist__media&&li;h3&&a&&Text;h3&&a&&href;.pic-text&&Text",
+  "searchUrl": "https://www.0855y.com/vod/search.html?wd=**",
+  "title": "0855影视（免嗅探）",
+  "weight": 1379
+}]

@@ -1,6 +1,7 @@
 const yuedu = require('./routes/yuedu');
 const fangyuan = require('./routes/fangyuan');
 const getBookSource = require('./routes/getBookSource');
+const getVideoSource = require('./routes/getVideoSource');
 const readline = require('readline');
 
 const rl = readline.createInterface({
@@ -8,7 +9,7 @@ const rl = readline.createInterface({
   output: process.stdout,
   prompt: ''
 });
-console.log('菜单：\n1: 书源分类;\n2: 视频源分类;\n3: 公众号书源获取;\n4: git repo 书源获取;\nclose: 退出');
+console.log('菜单：\n1: 书源分类;\n2: 视频源分类;\n3: 公众号书源获取;\n4: git repo 书源获取;\n5: 公众号视频源获取;\nclose: 退出');
 
 rl.on('line', async (input) => {
   switch (input.trim()) {
@@ -23,6 +24,9 @@ rl.on('line', async (input) => {
       break;
     case '4':
       await getBookSource.getGitRepoBookSource();
+      break;
+    case '5':
+      await getVideoSource();
       break;
     case 'close':
       rl.close();
