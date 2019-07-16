@@ -22,7 +22,7 @@ rl.on('line', async (input) => {
       await getBookSource.getWeChatBookSource();
       break;
     case '4':
-      await getBookSource.getWeChatBookSource();
+      await getBookSource.getGitRepoBookSource();
       break;
     case 'close':
       rl.close();
