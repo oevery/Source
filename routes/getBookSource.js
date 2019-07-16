@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-11 12:08:31
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-16 16:31:06
+ * @LastEditTime: 2019-07-16 19:33:36
  */
 
 const fs = require('fs');
@@ -16,15 +16,16 @@ const parser = new Parser();
 
 // get WeChat book source from telegram channel @qnmdwx
 exports.getWeChatBookSource = async () => {
-  const feedURl = encodeURI('https://mb-rsshub.herokuapp.com/wechat/tgchannel/qnmdwx?filter_author=开源阅读软件');
-  let wechatSource = [];
-  // let wechatSource = JSON.parse(fs.readFileSync(path.join(__dirname, '../docs/yuedu/bookSource/wxBookSource.json')));
+  const feedURl = encodeURI('http://localhost:1200/wechat/tgchannel/qnmdwx?filter_author=开源阅读软件');
+  const wxSourcePath = path.join(__dirname, '../docs/yuedu/bookSource/wxBookSource.json');
+  // let wechatSource = [];
+  let wechatSource = JSON.parse(fs.readFileSync(wxSourcePath));
   const feed = await parser.parseURL(feedURl);
   await feed.items.forEach(async function (item) {
     const getSourceJson = JSON.parse(item.contentSnippet.match(/{.+?}/));
     wechatSource = wechatSource.concat(getSourceJson);
   });
-  fs.writeFileSync(path.join(__dirname, '../docs/yuedu/bookSource/wxBookSource.json'), JSON.stringify(wechatSource), (err) => {
+  fs.writeFileSync(wxSourcePath, JSON.stringify(wechatSource), (err) => {
     if (err) {
       console.log(err);
     }
