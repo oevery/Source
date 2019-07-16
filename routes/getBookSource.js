@@ -4,7 +4,7 @@
  * @GitHub: https://github.com/MoonBegonia
  * @Date: 2019-07-11 12:08:31
  * @LastEditors: MoonBegonia
- * @LastEditTime: 2019-07-14 12:42:31
+ * @LastEditTime: 2019-07-16 16:31:06
  */
 
 const fs = require('fs');
@@ -18,18 +18,18 @@ const parser = new Parser();
 exports.getWeChatBookSource = async () => {
   const feedURl = encodeURI('https://mb-rsshub.herokuapp.com/wechat/tgchannel/qnmdwx?filter_author=开源阅读软件');
   let wechatSource = [];
+  // let wechatSource = JSON.parse(fs.readFileSync(path.join(__dirname, '../docs/yuedu/bookSource/wxBookSource.json')));
   const feed = await parser.parseURL(feedURl);
-  await Promise.all(
-    feed.items.forEach(async (item) => {
-      const getSourceJson = item.contentSnippet.match(/{.+?}/);
-      wechatSource = wechatSource.concat(JSON.parse(getSourceJson));
-    })
-  );
+  await feed.items.forEach(async function (item) {
+    const getSourceJson = JSON.parse(item.contentSnippet.match(/{.+?}/));
+    wechatSource = wechatSource.concat(getSourceJson);
+  });
   fs.writeFileSync(path.join(__dirname, '../docs/yuedu/bookSource/wxBookSource.json'), JSON.stringify(wechatSource), (err) => {
     if (err) {
       console.log(err);
     }
   });
+  console.log('公众号书源获取完毕！');
 };
 
 // get git repo book source
@@ -82,4 +82,5 @@ exports.getGitRepoBookSource = async () => {
       console.log(err);
     }
   });
+  console.log('git repo 书源获取完毕！');
 };
