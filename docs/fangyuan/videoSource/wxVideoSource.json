@@ -98,4 +98,70 @@
   "searchUrl": "https://www.0855y.com/vod/search.html?wd=**",
   "title": "0855影视（免嗅探）",
   "weight": 1379
+}, {
+  "baseUrl": "http://m.vip5203.com/",
+  "chapterFind": ".fed-list-pics&&data-original;.fed-part-both&&Text;body&&.fed-play-item@li,2:;a&&Text;a&&href;.fed-drop-boxs&&li@Text",
+  "forFearch": false,
+  "id": 2088,
+  "movieFind": "",
+  "pinYinTitle": "juheyingshi",
+  "searchFind": "body&&dl;h1&&a&&Text;h1&&a&&href;span,2&&Text;li&&Text",
+  "searchUrl": "http://m.vip5203.com/index.php/vod/search/wd/**.html",
+  "title": "聚合影视",
+  "weight": 1443
+}, {
+  "baseUrl": "http://92po.com/",
+  "chapterFind": "*;.item-desc||.desc&&Text;body&&.num-tab-main@a;Text;href.js:'http://jx.618g.com/?url='+input.split('?')[0];body&&.option@Text",
+  "forFearch": false,
+  "id": 2091,
+  "movieFind": "",
+  "pinYinTitle": "jiuaiyingshi",
+  "searchFind": "body&&dl;h3&&Text;dt&&a&&href;li&&Text",
+  "searchUrl": "http://92po.com/seacher.php?wd=&wd=**",
+  "title": "就爱影视",
+  "weight": 1445
+}, {
+  "baseUrl": "http://m.tmdm.tv",
+  "chapterFind": ".show&&img&&src;body&&.info,0&&Text;body&&.plist1&&ul@li;a&&Text;a&&href;body&&.listtit@Text",
+  "forFearch": false,
+  "id": 2090,
+  "movieFind": "",
+  "pinYinTitle": "tianmadongman_dongman_",
+  "searchFind": "body&&.item;.itemtext&&Text;a&&href;.itemimgtext&&Text",
+  "searchUrl": "http://m.tmdm.tv/search/**/",
+  "title": "天马动漫（动漫）",
+  "weight": 1444
+}, {
+  "baseUrl": "http://www.dmd8.com",
+  "chapterFind": ".o_big_img_bg_b&&img&&src;.des&&Text;body&&.tabs-list@li;a&&Text;a&&href;.from-tabs&&label@Text",
+  "forFearch": false,
+  "id": 2092,
+  "movieFind": "",
+  "pinYinTitle": "dongmandao_dongman_",
+  "searchFind": ".list3_cn_box&&.cn_box2;a&&title;a&&href;span&&Text",
+  "searchUrl": "http://www.dmd8.com/index.php?m=vod-search&wd=**",
+  "title": "动漫岛（动漫）",
+  "weight": 1446
+}, {
+  "baseUrl": "https://donghua.agefans.com",
+  "chapterFind": ".poster&&src;.detail_imform_desc_pre&&Text;.div_right&&.x_x_a8@a;Text;href;.div_right&&.blocktitle@Text!：",
+  "forFearch": false,
+  "id": 2093,
+  "movieFind": "",
+  "pinYinTitle": "AGEdongman_dongman_",
+  "searchFind": ".blockcontent1&&.cell;.cell_imform_name&&Text;a&&href;span&&Text;.cell_imform_desc&&Text",
+  "searchUrl": "https://donghua.agefans.com/search?query=**&page=1",
+  "title": "AGE动漫（动漫）",
+  "weight": 1447
+}, {
+  "baseUrl": "http://www.bika.moe",
+  "chapterFind": ".layui-col-md3&&img&&src;.layui-hide-xs,1&&Text;.layui-row&&.layui-col-md2;a&&Text;a&&href",
+  "forFearch": false,
+  "id": 2094,
+  "movieFind": "iframe&&src",
+  "pinYinTitle": "zuozuomeng_dongman_",
+  "searchFind": ".layui-row&&.layui-col-md2;.title&&Text;a&&href;.num&&Text",
+  "searchUrl": "http://www.bika.moe/Index/Index/VideoList/search/**",
+  "title": "哔咔萌（动漫）",
+  "weight": 1448
 }]

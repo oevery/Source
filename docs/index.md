@@ -10,24 +10,24 @@
 
 **建议导入之前清空书源再导入！**
 
-原书源修改时间：2019-7-14 11:39:51
+原书源修改时间：2019-7-20 21:33:17
 
-书源分类时间：2019-7-14 11:41:55
+书源分类时间：2019-7-20 21:33:27
 
 | 文件名                                                           | 数目 |
 | ---------------------------------------------------------------- | ---- |
-| [有声](./yuedu/audio.json)                                       | 38   |
-| [正版](./yuedu/genuine.json)                                     | 15   |
-| [轻小说/英文/名著/其他](./yuedu/others.json)                     | 17   |
-| [18禁](./yuedu/R18.json)                                         | 31   |
-| [发现](./yuedu/discover.json)                                    | 254  |
-| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 53   |
-| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 235  |
-| [普通](./yuedu/general.json)                                     | 408  |
-| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 1020 |
-| [有效书源](./yuedu/full.json)                                    | 1051 |
-| [失效](./yuedu/invalid.json)                                     | 755  |
-| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1806 |
+| [有声](./yuedu/audio.json)                                       | 39   |
+| [正版](./yuedu/genuine.json)                                     | 14   |
+| [轻小说/英文/名著/其他](./yuedu/others.json)                     | 18   |
+| [18禁](./yuedu/R18.json)                                         | 35   |
+| [发现](./yuedu/discover.json)                                    | 256  |
+| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 54   |
+| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 250  |
+| [普通](./yuedu/general.json)                                     | 423  |
+| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 1054 |
+| [有效书源](./yuedu/full.json)                                    | 1089 |
+| [失效](./yuedu/invalid.json)                                     | 730  |
+| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1819 |
 
 书源来自公众号 `开源阅读软件`、酷安评论区等地，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
 
@@ -43,23 +43,23 @@
 
 ### 视频源
 
-原视频源修改时间：2019-7-13 19:38:27
+原视频源修改时间：2019-7-20 22:16:32
 
-视频源分类时间：2019-7-13 19:38:46
+视频源分类时间：2019-7-20 22:16:45
 
 | 文件名                                                                   | 数目 |
 | ------------------------------------------------------------------------ | ---- |
-| [满分](./fangyuan/fullScore.json)                                        | 60   |
-| [优](./fangyuan/highQuality.json)                                        | 48   |
-| [免解析/嗅探](./fangyuan/notDetect.json)                                 | 95   |
-| [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 56   |
-| [简介评论/差/一般/网盘/爱优酷腾/综合/听书](./fangyuan/others.json)       | 29   |
-| [空白组](./fangyuan/emptyGroup.json)                                     | 598  |
-| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 211  |
-| [有效视频源](./fangyuan/full.json)                                       | 886  |
-| [失效](./fangyuan/invalid.json)                                          | 25   |
-| [无法访问](./fangyuan/inaccessible.json)                                 | 316  |
-| [总视频源](./fangyuan/videoSource/videoRule.json)                        | 1227 |
+| [满分](./fangyuan/fullScore.json)                                        | 59   |
+| [优](./fangyuan/highQuality.json)                                        | 44   |
+| [免解析/嗅探](./fangyuan/notDetect.json)                                 | 84   |
+| [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 53   |
+| [简介评论/差/一般/网盘/爱优酷腾/综合/听书](./fangyuan/others.json)       | 24   |
+| [空白组](./fangyuan/emptyGroup.json)                                     | 526  |
+| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 196  |
+| [有效视频源](./fangyuan/full.json)                                       | 790  |
+| [失效](./fangyuan/invalid.json)                                          | 23   |
+| [无法访问](./fangyuan/inaccessible.json)                                 | 424  |
+| [总视频源](./fangyuan/videoSource/videoRule.json)                        | 1237 |
 
 ### 其他规则
 
