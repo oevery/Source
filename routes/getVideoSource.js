@@ -11,13 +11,13 @@ module.exports = async () => {
   let wechatSource = JSON.parse(fs.readFileSync(wxSourcePath));
   let wechatSourceString = '[';
   const feed = await parser.parseURL(feedURl);
-  await feed.items.forEach(async function (item) {
+  await feed.items.forEach(function (item) {
     const getSourceJson = item.contentSnippet.match(/{.+?}[\u4e00-\u9fa5]/g).toString();
     // const getSourceJson = JSON.parse(/{.+?}/g.exec(item.contentSnippet));
     wechatSourceString = getSourceJson !== null ? wechatSourceString + getSourceJson + ',' : '';
   });
-  wechatSource = wechatSource.concat(JSON.parse(wechatSourceString.replace(/[\u4e00-\u9fa5],/g, ',').replace(/,$/, ']')));
-  fs.writeFileSync(wxSourcePath, wechatSource, (err) => {
+  wechatSource = wechatSource.concat(JSON.parse(wechatSourceString.replace(/[\u4e00-\u9fa5],/g, ',').replace(/.$/, ']')));
+  fs.writeFileSync(wxSourcePath, JSON.stringify(wechatSource), (err) => {
     if (err) {
       console.log(err);
     }
