@@ -43,23 +43,23 @@
 
 ### 视频源
 
-原视频源修改时间：2019-7-20 22:16:32
+原视频源修改时间：2019-7-24 12:46:01
 
-视频源分类时间：2019-7-20 22:16:45
+视频源分类时间：2019-7-24 12:46:43
 
 | 文件名                                                                   | 数目 |
 | ------------------------------------------------------------------------ | ---- |
-| [满分](./fangyuan/fullScore.json)                                        | 59   |
-| [优](./fangyuan/highQuality.json)                                        | 44   |
-| [免解析/嗅探](./fangyuan/notDetect.json)                                 | 84   |
-| [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 53   |
-| [简介评论/差/一般/网盘/爱优酷腾/综合/听书](./fangyuan/others.json)       | 24   |
-| [空白组](./fangyuan/emptyGroup.json)                                     | 526  |
-| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 196  |
-| [有效视频源](./fangyuan/full.json)                                       | 790  |
-| [失效](./fangyuan/invalid.json)                                          | 23   |
-| [无法访问](./fangyuan/inaccessible.json)                                 | 424  |
-| [总视频源](./fangyuan/videoSource/videoRule.json)                        | 1237 |
+| [满分](./fangyuan/fullScore.json)                                        | 97   |
+| [优](./fangyuan/highQuality.json)                                        | 79   |
+| [免解析/嗅探](./fangyuan/notDetect.json)                                 | 217  |
+| [动漫/磁力/下载/韩美剧/资源](./fangyuan/akmd.json)                       | 104  |
+| [简介评论/差/一般/网盘/爱优酷腾/综合/听书](./fangyuan/others.json)       | 56   |
+| [空白组](./fangyuan/emptyGroup.json)                                     | 1294 |
+| [满分/免嗅探/免解析/动漫/磁力/下载/韩美剧/资源](./fangyuan/general.json) | 418  |
+| [有效视频源](./fangyuan/full.json)                                       | 1847 |
+| [失效](./fangyuan/invalid.json)                                          | 48   |
+| [无法访问](./fangyuan/inaccessible.json)                                 | 164  |
+| [总视频源](./fangyuan/videoSource/videoRule.json)                        | 2059 |
 
 ### 其他规则
 
