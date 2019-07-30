@@ -37,7 +37,7 @@
 
 ## 海阔阅览器/新方圆浏览器
 
-下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](./fangyuan/海阔阅览器_V6.19.0727.15_C776_619072715_jiagu_sign.apk)
+下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](./fangyuan/海阔阅览器_V6.19.0727.15_C776_619072715_jiagu_sign.zip)
 
 ### 视频源
 
@@ -121,6 +121,7 @@
       <tr>
         <td><a href="/Source/fangyuan/rules/rules.zip">合集（zip）</a></td>
         <td>2019-07-30</td>
+        <td></td>
       </tr>
     </tbody>
   </table>
