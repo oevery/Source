@@ -63,70 +63,78 @@
 
 点击复制按钮复制口令，打开 APP 即可导入。
 
-  <table>
-    <thead>
-      <tr>
-        <th>类别</th>
-        <th>更新时间</th>
-        <th>导入口令</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/home.json">首页规则</a></td>
-        <td>2019-07-13</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥home_url￥https://moonbegonia.github.io/Source/fangyuan/rules/home.json">点击复制</button>
-        </td>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/tvLive.json">直播源</a></td>
-        <td>2019-06-27</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥tvLive_url￥https://moonbegonia.github.io/Source/fangyuan/rules/tvLive.json">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/adBlockRule.txt">adBlockRules</a></td>
-        <td>2019-06-10</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥ad_url￥https://moonbegonia.github.io/Source/fangyuan/rules/adBlockRule.txt">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/js/m.bilibili.com.js">哔哩哔哩 JS 插件</a></td>
-        <td>2019-04-11</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.bilibili.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.bilibili.com.js">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/js/m.douyu.com.js">斗鱼直播 JS 插件</a></td>
-        <td>2019-06-01</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.douyu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.douyu.com.js">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/js/m.egame.qq.com.js">企鹅电竞 JS 插件</a></td>
-        <td>2019-06-10</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.egame.qq.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.egame.qq.com.js">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/js/m.huya.com.js">虎牙直播 JS 插件</a></td>
-        <td>2019-06-01</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.huya.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.huya.com.js">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/js/pan.baidu.com.js">百度网盘 JS 插件</a></td>
-        <td>2019-06-01</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥pan.baidu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/pan.baidu.com.js">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/js/global.js">解析插件</a></td>
-        <td>2019-07-30</td>
-        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥global@https://moonbegonia.github.io/Source/fangyuan/rules/js/global.js">点击复制</button>
-      </tr>
-      <tr>
-        <td><a href="/Source/fangyuan/rules/rules.zip">合集（zip）</a></td>
-        <td>2019-07-30</td>
-        <td></td>
-      </tr>
-    </tbody>
-  </table>
+<table>
+  <thead>
+    <tr>
+      <th>类别</th>
+      <th>更新时间</th>
+      <th>导入口令</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/home.json">首页规则</a></td>
+      <td>2019-07-13</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥home_url￥https://moonbegonia.github.io/Source/fangyuan/rules/home.json">点击复制</button>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/tvLive.json">直播源</a></td>
+      <td>2019-06-27</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥tvLive_url￥https://moonbegonia.github.io/Source/fangyuan/rules/tvLive.json">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/adBlockRule.txt">adBlockRules</a></td>
+      <td>2019-06-10</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥ad_url￥https://moonbegonia.github.io/Source/fangyuan/rules/adBlockRule.txt">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/js/m.bilibili.com.js">哔哩哔哩 JS 插件</a></td>
+      <td>2019-04-11</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.bilibili.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.bilibili.com.js">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/js/m.douyu.com.js">斗鱼直播 JS 插件</a></td>
+      <td>2019-06-01</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.douyu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.douyu.com.js">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/js/m.egame.qq.com.js">企鹅电竞 JS 插件</a></td>
+      <td>2019-06-10</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.egame.qq.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.egame.qq.com.js">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/js/m.huya.com.js">虎牙直播 JS 插件</a></td>
+      <td>2019-06-01</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.huya.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.huya.com.js">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/js/pan.baidu.com.js">百度网盘 JS 插件</a></td>
+      <td>2019-06-01</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥pan.baidu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/pan.baidu.com.js">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/js/global.js">解析插件</a></td>
+      <td>2019-07-30</td>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥global@https://moonbegonia.github.io/Source/fangyuan/rules/js/global.js">点击复制</button>
+    </tr>
+    <tr>
+      <td><a href="/Source/fangyuan/rules/rules.zip">合集（zip）</a></td>
+      <td>2019-07-30</td>
+    </tr>
+  </tbody>
+</table>
 
-<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+使用说明：
+
+- 首页规则、直播源和 adBlockRules 下载后移动到`FangYuan/rules`目录下重启 APP 即可。
+- JS 插件和解析插件下载后移动到`FangYuan/rules/js`目录下重启 APP 即可。
+- 下载合集解压缩后移动`rules`文件夹到`FangYuan/`目录下重启 APP 即可。
+
+## 异次元
+
+暂不对异次元 APP 图源做分类，因为：1. 目前图源较少；2. 公众号菜花精已经对图源做了整理；图源分类都在标题中以小表情的形式展现，我觉得这样分类挺不错的，没必要再分了。图源获取关注公众号`异次元APP软件`（或者扫描APP关于里的二维码）。
+
 <script>
   var clipboard = new ClipboardJS('.btn');
 
@@ -139,12 +147,35 @@
   });
 </script>
 
-使用说明：
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
 
-- 首页规则、直播源和 adBlockRules 下载后移动到`FangYuan/rules`目录下重启 APP 即可。
-- JS 插件和解析插件下载后移动到`FangYuan/rules/js`目录下重启 APP 即可。
-- 下载合集解压缩后移动`rules`文件夹到`FangYuan/`目录下重启 APP 即可。
+<style>
+.btn {
+    position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 20px;
+    color: #333;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-color: #eee;
+    background-image: linear-gradient(#fcfcfc,#eee);
+    border: 1px solid #d5d5d5;
+    border-radius: 3px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-appearance: none;
+}
 
-## 异次元
-
-暂不对异次元 APP 图源做分类，因为：1. 目前图源较少；2. 公众号菜花精已经对图源做了整理；图源分类都在标题中以小表情的形式展现，我觉得这样分类挺不错的，没必要再分了。图源获取关注公众号`异次元APP软件`（或者扫描APP关于里的二维码）。
+.btn:hover, .btn:active {
+    text-decoration: none;
+    background-color: #ddd;
+    background-image: linear-gradient(#eee,#ddd);
+    border-color: #ccc;
+}
+</style>
