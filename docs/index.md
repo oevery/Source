@@ -8,24 +8,24 @@
 
 ## 阅读 App 书源
 
-原书源修改时间：2019-7-20 21:33:17
+原书源修改时间：2019-7-30 14:40:35
 
-书源分类时间：2019-7-20 21:33:27
+书源分类时间：2019-7-30 14:41:05
 
 | 文件名                                                           | 数目 |
 | ---------------------------------------------------------------- | ---- |
-| [有声](./yuedu/audio.json)                                       | 39   |
+| [有声](./yuedu/audio.json)                                       | 37   |
 | [正版](./yuedu/genuine.json)                                     | 14   |
-| [轻小说/英文/名著/其他](./yuedu/others.json)                     | 18   |
-| [18禁](./yuedu/R18.json)                                         | 35   |
-| [发现](./yuedu/discover.json)                                    | 256  |
-| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 54   |
-| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 250  |
-| [普通](./yuedu/general.json)                                     | 423  |
-| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 1054 |
-| [有效书源](./yuedu/full.json)                                    | 1089 |
-| [失效](./yuedu/invalid.json)                                     | 730  |
-| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1819 |
+| [轻小说/英文/名著/其他](./yuedu/others.json)                     | 15   |
+| [18禁](./yuedu/R18.json)                                         | 21   |
+| [发现](./yuedu/discover.json)                                    | 208  |
+| [特殊语法（css/json/xpath/混合/正则）](./yuedu/special.json)     | 49   |
+| [优（优/A级/S级/优+发现/优+特殊语法）](./yuedu/highQuality.json) | 217  |
+| [普通](./yuedu/general.json)                                     | 353  |
+| [有效书源NOR18](./yuedu/fullNOR18.json)                          | 893  |
+| [有效书源](./yuedu/full.json)                                    | 914  |
+| [失效](./yuedu/invalid.json)                                     | 906  |
+| [总书源](./yuedu/fullSourceIncludeInvalid.json)                  | 1820 |
 
 书源来自公众号 `开源阅读软件`、酷安评论区等地，`BookSource.json` 为公众号分享的群友在线书源，1101 个书源为本地书源（由书友 Nightring 收集分享）。
 
@@ -35,9 +35,9 @@
 
 源作者不完全统计名单：dearmfly（酷安）、i am 纯二、༺༒六月ޓﻬ༻、落寞尘世（寂寞尘世、꧁落༺寞༒尘༻世꧂）、妖怪梁 L、叶子、朝阳、༺༒Deleterޓﻬ༻、狼牙、猫猫不吃鱼、qa455355。
 
-## 新方圆浏览器
+## 海阔阅览器/新方圆浏览器
 
-下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](./fangyuan/新方圆浏览器_V6.0.0.0_C697_6000_jiagu_sign.zip)
+下载地址：[蓝奏云](https://www.lanzous.com/b201988)&emsp;[GitHub](./fangyuan/海阔阅览器_V6.19.0727.15_C776_619072715_jiagu_sign.apk)
 
 ### 视频源
 
@@ -61,20 +61,82 @@
 
 ### 其他规则
 
-**建议下载合集，单个文件下载请使用下载链接下载文件（chrome：长按链接 -> 下载链接）**
+点击复制按钮复制口令，打开 APP 即可导入。
 
-| 类别                                                      | 更新时间   |
-| --------------------------------------------------------- | ---------- |
-| [首页规则](./fangyuan/rules/home.json)                    | 2019-07-13 |
-| [直播源](./fangyuan/rules/tvLive.json)                    | 2019-06-27 |
-| [adBlockRules](./fangyuan/rules/adBlockRule.txt)          | 2019-06-10 |
-| [哔哩哔哩 JS 插件](./fangyuan/rules/js/m.bilibili.com.js) | 2019-04-11 |
-| [斗鱼直播 JS 插件](./fangyuan/rules/js/m.douyu.com.js)    | 2019-06-01 |
-| [企鹅电竞 JS 插件](./fangyuan/rules/js/m.egame.qq.com.js) | 2019-06-10 |
-| [虎牙直播 JS 插件](./fangyuan/rules/js/m.huya.com.js)     | 2019-06-01 |
-| [百度网盘 JS 插件](./fangyuan/rules/js/pan.baidu.com.js)  | 2019-06-01 |
-| [解析插件](./fangyuan/rules/js/global.js)                 | 2019-07-13 |
-| [合集（zip）](./fangyuan/rules/rules.zip)                 | 2019-07-13 |
+  <table>
+    <thead>
+      <tr>
+        <th>类别</th>
+        <th>更新时间</th>
+        <th>导入口令</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/home.json">首页规则</a></td>
+        <td>2019-07-13</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥home_url￥https://moonbegonia.github.io/Source/fangyuan/rules/home.json">点击复制</button>
+        </td>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/tvLive.json">直播源</a></td>
+        <td>2019-06-27</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥tvLive_url￥https://moonbegonia.github.io/Source/fangyuan/rules/tvLive.json">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/adBlockRule.txt">adBlockRules</a></td>
+        <td>2019-06-10</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥ad_url￥https://moonbegonia.github.io/Source/fangyuan/rules/adBlockRule.txt">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/js/m.bilibili.com.js">哔哩哔哩 JS 插件</a></td>
+        <td>2019-04-11</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.bilibili.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.bilibili.com.js">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/js/m.douyu.com.js">斗鱼直播 JS 插件</a></td>
+        <td>2019-06-01</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.douyu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.douyu.com.js">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/js/m.egame.qq.com.js">企鹅电竞 JS 插件</a></td>
+        <td>2019-06-10</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.egame.qq.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.egame.qq.com.js">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/js/m.huya.com.js">虎牙直播 JS 插件</a></td>
+        <td>2019-06-01</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.huya.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.huya.com.js">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/js/pan.baidu.com.js">百度网盘 JS 插件</a></td>
+        <td>2019-06-01</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥pan.baidu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/pan.baidu.com.js">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/js/global.js">解析插件</a></td>
+        <td>2019-07-30</td>
+        <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥global@https://moonbegonia.github.io/Source/fangyuan/rules/js/global.js">点击复制</button>
+      </tr>
+      <tr>
+        <td><a href="/Source/fangyuan/rules/rules.zip">合集（zip）</a></td>
+        <td>2019-07-30</td>
+      </tr>
+    </tbody>
+  </table>
+
+<script src="https://cdn.jsdelivr.net/npm/clipboard@2/dist/clipboard.min.js"></script>
+<script>
+  var clipboard = new ClipboardJS('.btn');
+
+  clipboard.on('success', function (e) {
+    alert('复制成功，打开 APP 即可导入！')
+  });
+
+  clipboard.on('error', function (e) {
+    alert('复制失败！')
+  });
+</script>
 
 使用说明：
 
