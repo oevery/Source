@@ -75,48 +75,48 @@
     <tr>
       <td><a href="/Source/fangyuan/rules/home.json">首页规则</a></td>
       <td>2019-07-13</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥home_url￥https://moonbegonia.github.io/Source/fangyuan/rules/home.json">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥home_url￥https://moonbegonia.github.io/Source/fangyuan/rules/home.json">点击复制</button></td>
       </td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/tvLive.json">直播源</a></td>
       <td>2019-06-27</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥tvLive_url￥https://moonbegonia.github.io/Source/fangyuan/rules/tvLive.json">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥tvLive_url￥https://moonbegonia.github.io/Source/fangyuan/rules/tvLive.json">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/adBlockRule.txt">adBlockRules</a></td>
       <td>2019-06-10</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥ad_url￥https://moonbegonia.github.io/Source/fangyuan/rules/adBlockRule.txt">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥ad_url￥https://moonbegonia.github.io/Source/fangyuan/rules/adBlockRule.txt">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/js/m.bilibili.com.js">哔哩哔哩 JS 插件</a></td>
       <td>2019-04-11</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.bilibili.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.bilibili.com.js">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.bilibili.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.bilibili.com.js">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/js/m.douyu.com.js">斗鱼直播 JS 插件</a></td>
       <td>2019-06-01</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.douyu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.douyu.com.js">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.douyu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.douyu.com.js">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/js/m.egame.qq.com.js">企鹅电竞 JS 插件</a></td>
       <td>2019-06-10</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.egame.qq.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.egame.qq.com.js">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.egame.qq.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.egame.qq.com.js">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/js/m.huya.com.js">虎牙直播 JS 插件</a></td>
       <td>2019-06-01</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.huya.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.huya.com.js">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥m.huya.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/m.huya.com.js">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/js/pan.baidu.com.js">百度网盘 JS 插件</a></td>
       <td>2019-06-01</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥pan.baidu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/pan.baidu.com.js">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥pan.baidu.com@https://moonbegonia.github.io/Source/fangyuan/rules/js/pan.baidu.com.js">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/js/global.js">解析插件</a></td>
       <td>2019-07-30</td>
-      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥global@https://moonbegonia.github.io/Source/fangyuan/rules/js/global.js">点击复制</button>
+      <td><button class="btn" data-clipboard-text="方圆影视￥js_url￥global@https://moonbegonia.github.io/Source/fangyuan/rules/js/global.js">点击复制</button></td>
     </tr>
     <tr>
       <td><a href="/Source/fangyuan/rules/rules.zip">合集（zip）</a></td>
