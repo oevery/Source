@@ -1,3 +1,9 @@
+### 由于时间关系本项目停止维护
+
+### [阅读 3.x](https://github.com/gedoor/legado) 已经内置书源。官方书源地址：<https://gitee.com/alanskycn/yuedu>
+
+---
+
 **建议访问[网站](https://moonbegonia.github.io/Source/)导入**
 
 ## Source
